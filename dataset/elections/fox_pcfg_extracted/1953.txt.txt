@@ -1,0 +1,526 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT A) (JJ longtime) (JJ Democratic) (NN campaign) (NN accountant))
+        (SBAR
+          (WHNP (WP$ whose) (NNS clients))
+          (S
+            (VP (VBD included)
+              (NP (NNP U.S.) (NNP Sen.) (NNP Dianne) (NNP Feinstein))))))
+      (VP (VBD siphoned)
+        (PRT (RP off))
+        (NP
+          (QP (RB nearly) ($ $) (CD 700,000)))
+        (PP (IN from)
+          (NP (DT a) (NNP California) (NN candidate)))
+        (S
+          (VP (TO to)
+            (VP (VB pay)
+              (NP
+                (NP (PRP$ her) (NN credit) (NNS cards))
+                (, ,)
+                (NP (DT a) (NN mortgage))
+                (CC and)
+                (NP (NN business) (NNS bills))))))))
+    (, ,)
+    (NP (JJ federal) (NNS prosecutors))
+    (VP (VBD said)
+      (NP (NNP Tuesday)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Kinde) (NNP Durkee))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBZ heads)
+            (NP
+              (NP (NNP Durkee)
+                (CC &)
+                (NNPS Associates))
+              (PP (IN in)
+                (NP
+                  (NP (NNP Burbank))
+                  (, ,)
+                  (NP (NNP Calif.))))))))
+      (, ,))
+    (VP (VBD was)
+      (VP (VBN arrested)
+        (NP (NNP Friday))
+        (PP (IN on)
+          (NP
+            (NP (NN suspicion))
+            (PP (IN of)
+              (NP (NN mail) (NN fraud)))))
+        (PP (IN by)
+          (NP (DT the) (NNP FBI)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Durkee))
+      (VP (VBZ has)
+        (VP (VBN served)
+          (PP (IN as)
+            (NP
+              (NP (DT a) (NN bookkeeper))
+              (PP (IN for)
+                (NP
+                  (NP (NNS scores))
+                  (PP (IN of)
+                    (NP (NNS candidates))))))))))
+    (: --)
+    (S
+      (NP (PRP$ her) (NN company) (NN website))
+      (VP (VBZ says)
+        (NP (CD five) (JJ presidential) (NNS campaigns))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNPS Democrats))
+    (VP (VBD were)
+      (VP (VBG scouring)
+        (NP (NNS records))
+        (S
+          (VP (TO to)
+            (VP (VB determine)
+              (SBAR (IN if)
+                (S
+                  (NP (PRP they))
+                  (VP (MD might)
+                    (VP (VB have)
+                      (VP (VBN been)
+                        (VP (VBN victimized))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (S
+        (NP (PRP I))
+        (VP (VBP have)
+          (NP (CD five) (NNS employees))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBP need)
+                (S
+                  (VP (TO to)
+                    (VP (VB make)
+                      (NP (NN payroll))
+                      (PP (IN for)
+                        (NP (DT every) (CD two) (NNS weeks)))))))))))
+      (: --)
+      (S
+        (NP (PRP you))
+        (VP (VBP bet)
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBP 'm)
+                (ADJP (JJ nervous))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Los) (NNP Angeles) (NNP County) (NNP Democratic) (NNP Chairman) (NNP Eric) (NNP Bauman))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD relied)
+            (PP (IN on)
+              (NP (NNP Durkee)))
+            (PP (IN for)
+              (NP (NNS years)))
+            (S
+              (VP (TO to)
+                (VP (VB handle)
+                  (NP
+                    (NP (DT the) (NN committee) (POS 's))
+                    (NNS books)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ federal) (NN complaint))
+      (VP (VBN released)
+        (NP (NNP Tuesday))))
+    (VP (VBZ outlines)
+      (NP
+        (NP (DT an) (JJ elaborate) (NN shell) (NN game))
+        (SBAR
+          (WHPP (IN in)
+            (WHNP (WDT which)))
+          (S
+            (NP (NNP Durkee))
+            (ADVP (RB furtively))
+            (VP (VBD shifted)
+              (NP
+                (NP (NN money) (RP out))
+                (PP (IN of)
+                  (NP
+                    (NP (NN state) (NNP Assemblyman) (NNP Jose) (NNP Solorio) (POS 's))
+                    (CD 2010) (NN campaign)))
+                (S
+                  (VP (TO to)
+                    (VP (VB pay)
+                      (PP (IN for)
+                        (NP
+                          (NP (DT an) (NN array))
+                          (PP (IN of)
+                            (NP (NNS debts)))))
+                      (, ,)
+                      (PP (IN from)
+                        (NP (DT a) (NNP Disneyland) (NN restaurant)))))))
+              (PP (TO to)
+                (NP
+                  (NP (NN shopping))
+                  (PP (IN at)
+                    (NP (NNP Costco)))))
+              (PP (TO to)
+                (NP
+                  (NP (PRP$ her) (NN mother) (POS 's))
+                  (NN care)))
+              (PP (IN at)
+                (NP (DT an) (JJ assisted-living) (NN facility))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Durkee) (POS 's))
+        (NN scheme))
+      (VP (VBD used)
+        (NP
+          (NP (NNP Solorio))
+          (CC and)
+          (NP (PRP$ his) (NN campaign)))
+        (S
+          (VP (TO to)
+            (VP (`` ``) (VB obtain)
+              (NP (NN money))
+              (PP (IN from)
+                (NP (PRP them)))
+              (PP (IN by)
+                (NP
+                  (NP (NNS means))
+                  (PP (IN of)
+                    (NP
+                      (ADJP (RB materially) (JJ false)
+                        (CC and)
+                        (JJ fraudulent))
+                      (NNS pretenses))))))))))
+    (, ,) ('' '')
+    (NP (PRP it))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBD made)
+      (NP (DT a) (JJ brief) (NN appearance))
+      (PP (IN in)
+        (NP (NN court)))
+      (NP (NNP Tuesday))
+      (, ,)
+      (UCP
+        (VP (VBN handcuffed))
+        (CC and)
+        (PP (IN with)
+          (NP
+            (NP (NNS shackles))
+            (PP (IN around)
+              (NP (PRP$ her) (NN waist)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Durkee))
+    (VP (VBD said)
+      (NP
+        (NP (DT a) (JJ single) (NN word))
+        (, ,)
+        (SBAR
+          (FRAG
+            (INTJ (`` ``) (UH Yes))))
+        (, ,) ('' '')
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (VP (VBD asked)
+              (PP (IN by)
+                (NP (NNP Magistrate) (NNP Judge) (NNP Jay) (NNP C.) (NNP Gandhi)))
+              (SBAR (IN if)
+                (S
+                  (NP (PRP she))
+                  (VP (VBD understood)
+                    (NP
+                      (NP (DT the) (NNS charges))
+                      (PP (IN against)
+                        (NP (PRP her))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBZ is)
+      (VP (VBN scheduled)
+        (S
+          (VP (TO to)
+            (VP (VB return)
+              (PP (TO to)
+                (NP (NN court)))
+              (NP (NNP Friday)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Durkee))
+    (VP (VBZ remains)
+      (PP (IN in)
+        (NP (NN custody))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ Her) (NN lawyer))
+      (, ,)
+      (NP (NNP Daniel) (NNP V.) (NNP Nixon))
+      (, ,))
+    (VP (VBD declined)
+      (NP (NN comment)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN complaint))
+    (VP
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP
+              (NP (NNS investigators))
+              (VP (VBN found)
+                (S (`` ``)
+                  (NP (JJ substantial) (NNS sums))
+                  ('' ''))))
+            (VP (VBP have)
+              (ADVP (RB routinely))
+              (VP (VBN been)
+                (VP (VBN moved)
+                  (PRT (RP out))
+                  (PP (IN of)
+                    (NP (NN campaign) (NNS committees)))
+                  (PP (IN under)
+                    (NP
+                      (NP (PRP$ her) (NN control))
+                      (, ,)
+                      (VP
+                        (ADVP (RB then))
+                        (VBN placed)
+                        (PP (IN into)
+                          (NP (PRP$ her) (NN company) (NNS accounts))))))))))))
+      (CC or)
+      (VP (VBD channeled)
+        (PP (TO to)
+          (NP
+            (NP (JJ other) (NNS campaigns))
+            (, ,)
+            (SBAR
+              (WHADVP (RB apparently) (WRB when))
+              (S
+                (NP (NNS suspicions))
+                (VP (VBD were)
+                  (VP (VBN raised)
+                    (PP (IN about)
+                      (S
+                        (VP (VBG missing)
+                          (NP (NN money)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Lauren) (NNP Horwood))
+      (, ,)
+      (NP
+        (NP (DT a) (NN spokeswoman))
+        (PP (IN for)
+          (NP
+            (NP
+              (NP (DT the) (NNP U.S.) (NN attorney) (POS 's))
+              (NN office))
+            (PP (IN in)
+              (NP
+                (NP (NNP Sacramento))
+                (, ,)
+                (NP (NNP Calif.)))))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN investigation))
+          (VP (VBZ is)
+            (VP (VBN expected)
+              (S
+                (VP (TO to)
+                  (VP (VB result)
+                    (PP (IN in)
+                      (NP (JJ additional) (NNS charges)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Durkee))
+    (VP (VBD had)
+      (NP
+        (NP (NN authority))
+        (PP (IN over)
+          (NP
+            (NP
+              (QP (JJR more) (IN than) (CD 400))
+              (NN bank) (NNS accounts))
+            (, ,)
+            (VP (VBG including)
+              (NP (JJ political) (NNS campaigns)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN complaint))
+    (VP (VBD said)
+      (SBAR
+        (SBAR
+          (S
+            (NP (PRP she))
+            (VP (VBD acknowledged)
+              (VP
+                (VP (VBG misusing)
+                  (NP
+                    (NP (NNS clients) (POS '))
+                    (NN money))
+                  (PP (IN for)
+                    (NP (NNS years))))
+                (CC and)
+                (VP (VBG filing)
+                  (NP (JJ bogus) (NNS records)))))))
+        (, ,)
+        (CC and)
+        (SBAR (IN that)
+          (S
+            (NP (NNP Durkee))
+            (VP (VBD told)
+              (NP (NNS investigators))
+              (SBAR (IN that)
+                (S
+                  (NP (PRP she))
+                  (VP (VBD was)
+                    (VP (VBG dealing)
+                      (PP (IN with) (`` ``)
+                        (NP
+                          (UCP (JJ personal)
+                            (CC and)
+                            (NN business) (NN tax))
+                          (NNS problems))))))))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP She))
+      (VP (VBD wrote)
+        (NP (DT a)
+          (ADJP ($ $) (CD 50,000))
+          (NN check))
+        (PP (TO to)
+          (NP
+            (NP (DT the) (JJ federal) (NN government))
+            (: --)
+            (NP (DT an) (JJ apparent) (NN tax) (NN payment))
+            (: --)))
+        (SBAR (IN after)
+          (S
+            (NP (NN money))
+            (VP (VBD was)
+              (VP (VBN shifted)
+                (PRT (RP out))
+                (PP (IN of)
+                  (NP
+                    (NP (NNP Solorio) (POS 's))
+                    (NN campaign) (NN account)))))))))
+    (, ,)
+    (NP (DT the) (NN complaint))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Other) (NNS bills))
+      (VP
+        (ADVP (RB apparently))
+        (VBN covered)
+        (PP (IN by)
+          (NP
+            (NP (NNS funds))
+            (PP (IN from)
+              (NP
+                (NP (NNP Solorio) (POS 's))
+                (NN campaign)))))))
+    (VP (VBD included)
+      (NP
+        (NP (NNS payments))
+        (PP (TO to)
+          (NP
+            (NP (JJ online) (NN retailer) (NN Amazon.com))
+            (, ,)
+            (NP (NN air) (NN travel))
+            (CC and)
+            (NP (NNS cosmetics))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP October)))
+    (, ,)
+    (NP (NNP Durkee))
+    (VP (VBD filed)
+      (NP (DT a) (NN report))
+      (PP (IN with)
+        (NP (NN state) (NNS regulators)))
+      (S
+        (VP (VBG affirming)
+          (SBAR
+            (S
+              (NP
+                (NP (NNP Solorio) (POS 's))
+                (NN campaign))
+              (VP (VBD had)
+                (NP
+                  (NP ($ $) (CD 729,135))
+                  (PP (IN in)
+                    (NP (DT the) (NN bank)))))))))
+      (, ,)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (NN bank) (NNS records))
+          (VP (VBD revealed)
+            (SBAR
+              (S
+                (NP (DT the) (NN balance))
+                (VP (VBD was)
+                  (NP ($ $) (CD 33,175)))))))))
+    (. .)))
+

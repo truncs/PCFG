@@ -1,0 +1,489 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Progressive) (NNS activists))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD helped)
+            (VP (VB elect)
+              (NP (NNP Barack) (NNP Obama) (NN president)))))))
+    (VP (VBD complained)
+      (PP (IN on)
+        (NP (NNP Monday)))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (NN administration))
+            (CC and)
+            (NP (JJ congressional) (NNPS Democrats)))
+          (VP (VBP have)
+            (VP (VBN been)
+              (ADJP
+                (ADJP (RB too) (JJ timid))
+                (CC and)
+                (ADJP (RB too) (JJ willing)
+                  (PP (TO to)
+                    (NP (NN compromise))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB Even) (IN though)
+      (S
+        (NP
+          (NP
+            (NP (NNP Obama) (POS 's))
+            (JJ major) (JJ first-term) (NN achievement))
+          (: --)
+          (NP
+            (NP (DT an) (NN overhaul))
+            (PP (IN of)
+              (NP (DT the) (NNP U.S.) (NN health) (NN care) (NN system))))
+          (: --))
+        (VP (VBN passed)
+          (PP (IN without)
+            (NP (DT a) (JJ single) (JJ Republican) (NN vote))))))
+    (, ,)
+    (NP
+      (NP (JJ progressive) (NNS leaders))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD gathered)
+            (PP (IN in)
+              (NP (NNP Washington)))))))
+    (VP (VBD criticized)
+      (NP (DT the) (NN president))
+      (PP (IN for)
+        (S
+          (VP (VBG failing)
+            (S
+              (VP (TO to)
+                (VP (VB create)
+                  (NP (DT a) (JJ government-run) (NN insurance) (NN option))
+                  (S
+                    (VP (TO to)
+                      (VP (VB compete)
+                        (PP (IN with)
+                          (NP (JJ private) (NNS insurers)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBN faulted)
+      (NP
+        (NP (NNP Obama))
+        (PP (IN for)
+          (NP
+            (NP
+              (NP (DT the) (JJ ongoing) (NNS wars))
+              (PP (IN in)
+                (NP (NNP Iraq)
+                  (CC and)
+                  (NNP Afghanistan))))
+            (, ,)
+            (NP
+              (NP (DT the) (JJ slow) (NN pace))
+              (PP (IN in)
+                (S
+                  (VP (VBG repealing)
+                    (NP (DT the) (NN ban))
+                    (PP (IN on)
+                      (NP
+                        (NP (NNS gays))
+                        (VP (VBG serving)
+                          (PP (IN in)
+                            (NP (DT the) (JJ military))))))))))
+            (CC and)
+            (NP
+              (NP (JJ last) (NN year) (POS 's))
+              (JJ economic) (NN stimulus) (NN package)))))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (NP (PRP they))
+          (VP (VBD described)
+            (NP
+              (QP (RB as) (JJ inadequate) (IN at) ($ $) (CD 787) (CD billion)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBD criticized)
+      (NP
+        (NP (PRP$ his) (NN handling))
+        (PP (IN of)
+          (NP (DT the) (NNP Gulf) (NN oil) (NN spill)))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (DT The) (NNP White) (NNP House))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (NP (DT an) (JJ uncertain) (NN trumpet)))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Robert) (NNP Borosage))
+      (, ,)
+      (NP
+        (NP (DT a) (NN co-director))
+        (PP (IN of)
+          (NP
+            (NP
+              (NP (DT the) (NNP Campaign))
+              (PP (IN for)
+                (NP
+                  (NP (NNP America) (POS 's))
+                  (NNP Future))))
+            (, ,)
+            (NP (DT a) (JJ progressive) (NN organization))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP
+      (NP (DT The) (NN administration) (POS 's))
+      (NNS reforms))
+    (VP
+      (VP (VBD were)
+        (ADVP (RB too) (RB often))
+        (ADJP (RB too) (JJ timid)
+          (PP (IN from)
+            (NP (DT the) (NN start)))))
+      (CC and)
+      (VP
+        (ADVP (RB too) (RB readily))
+        (VBN compromised)
+        (PP (IN along)
+          (NP (DT the) (NN way)))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (SBAR (IN Although)
+      (S
+        (NP (NNS leaders))
+        (ADVP (RB still))
+        (VP (VBD spoke)
+          (PP (IN with)
+            (NP
+              (NP (NN admiration))
+              (PP (IN for)
+                (NP (NNP Obama))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADJP (JJ clear))
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBZ 's) (RB not)
+            (ADJP (RB as) (JJ popular)
+              (PP (IN with)
+                (NP
+                  (NP (NNS unions))
+                  (, ,)
+                  (NP (NNS bloggers))
+                  (CC and)
+                  (NP (JJ other) (NNS progressives)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNPS Democrats))
+    (ADVP (RB already))
+    (VP (VBP face)
+      (NP (DT an) (JJ angry) (NN electorate))
+      (NP (DT this) (NNP November)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN frustration))
+      (PP (IN among)
+        (NP
+          (NP (DT the) (NN party) (POS 's))
+          (JJ liberal) (NN base))))
+    (VP (MD could)
+      (VP (VB make)
+        (S
+          (NP (DT the) (NN midterm) (NNS elections))
+          (ADJP
+            (ADJP
+              (ADVP (RB even) (RBR more))
+              (JJ difficult))
+            (PP (IN for)
+              (NP
+                (NP (NNPS Democrats))
+                (CC and)
+                (NP
+                  (NP (NNP Obama) (POS 's))
+                  (JJ own) (NN re-election) (NN bid))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (DT no) (NN one))
+        (ADVP (RB seriously))
+        (VP (VBD suggested)
+          (NP
+            (NP (DT a) (JJ primary) (NN challenge))
+            (PP (TO to)
+              (NP (NNP Obama)))))))
+    (, ,)
+    (S
+      (NP (NNS activists))
+      (VP (VBD said)
+        (SBAR
+          (S
+            (NP (PRP they))
+            (VP (MD would)
+              (VP (VB take)
+                (PP (IN on)
+                  (NP (JJ congressional) (NNS incumbents)))))))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD cited)
+        (NP
+          (NP (NNP Arkansas))
+          (, ,)
+          (SBAR
+            (WHADVP (WRB where))
+            (S
+              (NP (DT the) (NNP Progressive) (NNP Change) (NNP Campaign) (NNP Committee))
+              (VP (VBZ has)
+                (VP (VBN sent)
+                  (NP ($ $) (CD 250,000))
+                  (PP (TO to)
+                    (NP
+                      (NP (NNP Lt.) (NNP Gov.) (NNP Bill) (NNP Halter) (POS 's))
+                      (NN bid))))))))
+        (PP (IN against)
+          (NP
+            (NP (NNP Sen.) (NNP Blanche) (NNP Lincoln))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (MD will)
+                  (VP (VB be)
+                    (VP (VBN decided)
+                      (PP (IN in)
+                        (NP (DT a) (NN runoff)))
+                      (NP (NNP Tuesday)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN committee))
+    (VP (VBD made)
+      (NP (CD 55,000) (NN phone) (NNS calls))
+      (PP (IN on)
+        (NP
+          (NP
+            (NP (NNP Halter) (POS 's))
+            (NN behalf))
+          (PP (IN on)
+            (NP (NNP Monday)))))
+      (ADVP (RB alone)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Activists))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (MD would) (RB rather)
+            (VP (VB have) (`` ``)
+              (NP (JJ good) (NNPS Democrats))
+              ('' '') (: --)
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NNS words))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNP Markos) (NNP Moulitsas))
+                      (, ,)
+                      (NP
+                        (NP (NN founder))
+                        (PP (IN of)
+                          (NP (DT the) (JJ liberal) (NNP DailyKos) (NN website))))))))
+              (: --)
+              (PP (IN than)
+                (NP
+                  (NP (NNS moderates))
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (VBP do) (RB n't)
+                        (VP (VB advance)
+                          (NP (DT a) (JJ progressive) (NN agenda)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP White) (NNP House) (NN spokesman) (NNP Josh) (NNP Earnest))
+    (VP (VBD said)
+      (PP (IN in)
+        (NP (PRP$ his) (JJ first)))
+      (NP (CD 500) (NNS days))
+      (PP (IN in)
+        (NP
+          (NP (NN office))
+          (, ,)
+          (SBAR
+            (S
+              (NP (NNP Obama))
+              (`` ``)
+              (VP (VBZ has)
+                (VP (VBN fulfilled)
+                  (NP (PRP$ his) (NN commitment)
+                    (S
+                      (VP (TO to)
+                        (VP (VB bring)
+                          (NP (DT the) (NN change))
+                          (SBAR
+                            (S
+                              (NP (PRP we))
+                              (VP (VBP need)
+                                (PP (TO to)
+                                  (NP (NNP Washington))))))))))
+                  ('' '')
+                  (PP (IN with)
+                    (NP
+                      (NP (DT a) (NN health) (NN care) (NN overhaul))
+                      (, ,)
+                      (NP
+                        (NP (NN education) (NNS reforms))
+                        (SBAR
+                          (WHNP (WDT that))
+                          (S
+                            (VP (MD will)
+                              (VP (VB help)
+                                (VP (VB strengthen)
+                                  (NP (DT the) (NN economy)
+                                    (CC and)
+                                    (NNS steps))
+                                  (S
+                                    (VP (TO to)
+                                      (VP (VB reduce)
+                                        (NP
+                                          (NP (DT the) (NN influence))
+                                          (PP (IN of)
+                                            (NP (JJ special) (NNS interests))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Many))
+      (PP (IN of)
+        (NP (DT the) (NNS activists))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP Obama))
+          (VP (MD can)
+            (ADVP (RB not) (RB blindly))
+            (VP (VB be)
+              (VP (VBN trusted)
+                (S
+                  (VP (TO to)
+                    (VP (VB make)
+                      (ADJP (JJ good))
+                      (PP (IN on)
+                        (NP (PRP$ his) (JJ many) (JJ campaign-era) (NNS promises))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADJP (JJ clear))
+        (SBAR (IN that)
+          (S
+            (NP (NN hope))
+            (VP (VBZ is)
+              (ADJP (RB not) (JJ enough)))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Arianna) (NNP Huffington))
+      (, ,)
+      (NP
+        (NP (NN founder))
+        (PP (IN of)
+          (NP (DT the) (JJ online) (NNP Huffington) (NNP Post)))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (PRP We))
+    (VP (VBP need)
+      (NP (NNP Hope) (CD 2.0)))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (JJ Progressive) (NNS organizations))
+    (VP (VBD became)
+      (VP (VBN emboldened)
+        (PP (IN during)
+          (NP
+            (NP
+              (NP (NNP President) (NNP George) (NNP W.) (NNP Bush))
+              (POS 's))
+            (NN tenure)))
+        (, ,)
+        (S
+          (VP (VBG rallying)
+            (PP (IN against)
+              (NP (DT the) (NNS wars)))
+            (PP (IN in)
+              (NP
+                (NP (NNP Iraq)
+                  (CC and)
+                  (NNP Afghanistan))
+                (CC and)
+                (NP
+                  (NP (DT the) (NNPS Republicans) (POS '))
+                  (NN agenda))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBD helped)
+        (VP (VB elect)
+          (NP
+            (NP (JJ Democratic) (NNS majorities))
+            (PP (IN in)
+              (NP (DT the) (NNP House)
+                (CC and)
+                (NNP Senate))))
+          (PP (IN in)
+            (NP (CD 2006)))))
+      (CC and)
+      (VP (VBD rallied)
+        (PP (IN behind)
+          (NP
+            (NP (NNP Obama) (POS 's))
+            (JJ presidential) (NN bid)))))
+    (. .)))
+

@@ -1,0 +1,10 @@
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/nyt/ny_pres2262.txt	cnn	0.9965384727175263	fox	0.0034615272824736953
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/nyt/ny_pres2263.txt	cnn	0.8974535646011578	fox	0.10254643539884216
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/nyt/ny_pres2248.txt	cnn	0.9790605249424494	fox	0.02093947505755052
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/nyt/ny_pres2264.txt	cnn	0.3954494028577471	fox	0.604550597142253
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/nyt/ny_pres2267.txt	cnn	0.9126639020312177	fox	0.08733609796878233
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/nyt/ny_pres2259.txt	cnn	0.9926757364466111	fox	0.00732426355338874
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/nyt/ny_pres2261.txt	cnn	0.004072684235240202	fox	0.9959273157647598
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/nyt/ny_pres2249.txt	cnn	0.008056990502515278	fox	0.9919430094974848
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/nyt/ny_pres2271.txt	cnn	0.009137244444708108	fox	0.9908627555552918
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/nyt/ny_pres2273.txt	cnn	0.5773538343979934	fox	0.42264616560200663

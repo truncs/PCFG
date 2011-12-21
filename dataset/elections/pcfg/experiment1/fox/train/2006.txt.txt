@@ -1,0 +1,490 @@
+(ROOT
+  (S
+    (NP (NNS Protesters))
+    (VP (VBD carried)
+      (NP
+        (NP (NNS signs))
+        (PP (IN outside)
+          (NP
+            (NP (NNP Kentucky) (POS 's))
+            (NNP Republican) (NNP Party) (NN headquarters))))
+      (PP (VBG decrying)
+        (NP
+          (NP (NNP U.S.) (NNP Senate) (NN nominee) (NNP Rand) (NNP Paul) (POS 's))
+          (NNS comments)))
+      (PP (IN on)
+        (NP (JJ civil) (NNS rights)))
+      (NP (NNP Saturday))
+      (SBAR (IN while)
+        (S
+          (NP (NNP GOP) (NNS leaders))
+          (VP (VBD met)
+            (ADVP (RB inside))
+            (PP (TO to)
+              (NP
+                (NP (NN pledge) (PRP$ their) (NN support))
+                (PP (IN for)
+                  (NP (DT the) (NN candidate)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN meeting))
+    (VP (VBD was)
+      (VP (VBN organized)
+        (S
+          (VP (TO to)
+            (VP (VB rally)
+              (NP (DT the) (NN state))
+              (NP (NNP GOP))
+              (PP (IN behind)
+                (NP (NNP Paul)))
+              (PP (IN after)
+                (NP (DT a) (JJ bitter) (JJ primary) (NN campaign)))
+              (PP (IN in)
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (NP
+                      (NP (RB much))
+                      (PP (IN of)
+                        (NP (DT the) (JJ Republican) (NN establishment))))
+                    (VP (VBD backed)
+                      (NP (PRP$ his) (NN opponent)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Rand))
+    (VP (VBD won)
+      (PP (IN by)
+        (NP (DT a) (JJ lopsided) (NN margin)))
+      (NP (RBR earlier) (DT this) (NN week)))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP
+      (QP (IN about) (CD 30))
+      (NNS demonstrators))
+    (VP (VBD used)
+      (NP
+        (NP (NNP Saturday) (POS 's))
+        (NN meeting))
+      (PP (IN as)
+        (NP (DT an) (NN opportunity)
+          (S
+            (VP (TO to)
+              (VP (VB blast)
+                (NP (NNP Paul))
+                (PP (IN for)
+                  (NP (NNS misgivings))))))))
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD expressed)
+            (PP (IN about)
+              (NP (DT the) (CD 1964) (NNP Civil) (NNP Rights) (NNP Act)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD told)
+      (NP (NNP MSNBC) (NN host) (NNP Rachel) (NNP Maddow))
+      (NP (IN on) (NNP Wednesday))
+      (SBAR (IN that)
+        (S
+          (NP (PRP he))
+          (VP
+            (VP (VBZ abhors)
+              (NP (JJ racial) (NN discrimination)))
+            (, ,)
+            (CC but)
+            (VP (VBD suggested)
+              (SBAR
+                (S
+                  (NP (DT the) (JJ federal) (NN government))
+                  (VP (MD should) (RB n't)
+                    (VP (VB have)
+                      (NP (DT the) (NN power)
+                        (S
+                          (VP (TO to)
+                            (VP (VB force)
+                              (S
+                                (NP (NNS restaurants))
+                                (VP (TO to)
+                                  (VP (VB serve)
+                                    (NP (NNS minorities))
+                                    (SBAR (IN if)
+                                      (S
+                                        (NP (DT the) (NN business) (NNS owners))
+                                        (VP (VBP do) (RB n't)
+                                          (VP (VB want)
+                                            (PP (TO to))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADJP (RB fundamentally) (JJ un-American))
+        (S
+          (VP (TO to)
+            (VP (VB oppose)
+              (NP (DT the) (NNP Civil) (NNP Rights) (NNP Act)))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP
+        (NAC (NNP University)
+          (PP (IN of)
+            (NP (NNP Louisville) (NN student))))
+        (NNP Perry) (NNP Green))
+      (, ,)
+      (VP (VBN flanked)
+        (PP (IN by)
+          (NP
+            (NP (DT a) (JJ fellow) (NN protester))
+            (VP (VBG carrying)
+              (NP
+                (NP (DT a) (NN placard))
+                (VP (VBG declaring) (: :) (`` ``)
+                  (S
+                    (NP (NNP Rand))
+                    (VP
+                      (NP
+                        (NP (DT The) (NNP Klan) (POS 's))
+                        (NN Man)))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP
+      (NP (NNP Paul))
+      (, ,)
+      (NP
+        (NP (DT a)
+          (ADJP (NNP Bowling) (NNP Green))
+          (NN eye) (NN doctor))
+        (CC and)
+        (NP
+          (NP
+            (NP (NN son))
+            (PP (IN of)
+              (NP (JJ former) (JJ Republican) (JJ presidential) (NN candidate))))
+          (NP (NNP Ron) (NNP Paul))))
+      (, ,))
+    (VP (VBD did) (RB n't)
+      (VP (VB mention)
+        (NP
+          (NP (DT the) (JJ civil) (NNS rights) (NN flap))
+          (PP (IN in)
+            (NP (JJ brief) (NNS remarks))))
+        (PP (TO to)
+          (NP
+            (NP (NNS supporters))
+            (PP (IN inside)
+              (NP (NNP GOP) (NN headquarters)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD refused)
+      (S
+        (VP (TO to)
+          (VP (VB take)
+            (NP (NNS questions))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PRP he))
+                (VP
+                  (VP (VBD left)
+                    (NP (JJ Republican) (NN headquarters)))
+                  (CC and)
+                  (VP (VBD drove)
+                    (NP
+                      (NP (JJ past) (DT the) (NNS demonstrators))
+                      (VP (VBG standing)
+                        (PP (IN across)
+                          (NP (DT the) (NN street)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Paul))
+    (VP (VBZ has)
+      (VP (VBN tried)
+        (S
+          (VP (TO to)
+            (VP (VB step)
+              (PRT (RP out))
+              (PP (IN of)
+                (NP (DT the) (NN spotlight))))))
+        (, ,)
+        (S
+          (ADVP (RB even))
+          (VP (VBG canceling)
+            (NP
+              (NP (DT an) (NN appearance))
+              (PP (IN on)
+                (NP
+                  (NP
+                    (NP (NNP NBC) (POS 's))
+                    (NNP Meet))
+                  (NP (DT The) (NNP Press)))))
+            (PP (IN on)
+              (NP
+                (NP (NNP Sunday))
+                (, ,)
+                (NP
+                  (QP (JJR less) (IN than) (DT a)))))
+            (NP (NN week))
+            (PP (IN after)
+              (S
+                (VP (VBG trouncing)
+                  (NP
+                    (NP (NNP Kentucky) (NNP Secretary))
+                    (PP (IN of)
+                      (NP (NNP State) (NNP Trey) (NNP Grayson))))
+                  (S
+                    (VP (TO to)
+                      (VP (VB win)
+                        (NP (DT the) (JJ Republican) (NN nomination))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Hundreds))
+      (PP (IN of)
+        (NP (NNP Paul) (NNS supporters))))
+    (VP (VBD gathered)
+      (PP (IN in)
+        (NP (NNP Frankfort)))
+      (PP (IN on)
+        (NP (NNP Saturday)))
+      (S
+        (VP (TO to)
+          (VP (VB show)
+            (NP
+              (NP (PRP$ their) (NN support))
+              (PP (IN for)
+                (NP (DT the) (JJ first-time) (NN candidate))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD pledged)
+      (S
+        (VP (TO to)
+          (VP (VB hammer)
+            (PP (IN on)
+              (NP
+                (NP (CD one) (JJ key) (NN message))
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (JJ general) (NN election) (NN campaign))
+                    (PP (IN against)
+                      (NP (JJ Democratic) (NN nominee) (NNP Jack) (NNP Conway)))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP I))
+      (VP (MD will)
+        (VP (VB call)
+          (PP (IN for)
+            (NP (CD one) (JJ simple) (NN thing))))))
+    (, ,) ('' '')
+    (NP (NNP Paul))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (VP (VB Let)
+      (NP (PRP 's))
+      (RB not)
+      (VP (VB spend)
+        (NP (JJR more) (NN money))
+        (SBAR (IN than)
+          (S
+            (NP (PRP we))
+            (VP (VBP take)
+              (PRT (RP in)))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP
+        (NP (NNP Sen.) (NNP Mitch) (NNP McConnell))
+        (, ,)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD had)
+              (VP (VBN endorsed)
+                (NP (NNP Grayson))
+                (PP (IN in)
+                  (NP (DT the) (JJ primary) (NN race)))))))
+        (, ,))
+      (VP (VBD called)
+        (PP (IN for)
+          (NP (NNPS Republicans)))
+        (S
+          (VP (TO to)
+            (VP (VB unify)
+              (PP (IN behind)
+                (NP (NNP Paul)))
+              (PP (IN in)
+                (NP (DT the) (JJ general) (NN election))))))))
+    (CC and)
+    (S
+      (VP (TO to)
+        (VP (VB reach)
+          (PRT (RP out))
+          (PP (TO to)
+            (NP (NNPS Democrats))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP
+        (NP (NNP Dr.) (NNP Rand) (NNP Paul) (POS 's))
+        (NN message))
+      (VP (MD can)
+        (VP (VB win)
+          (NP (DT this) (NN election)))))
+    (, ,) ('' '')
+    (NP (NNP McConnell))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Paul))
+    (VP (VBD began)
+      (NP (DT the) (NN race))
+      (PP (IN as)
+        (NP
+          (NP (DT a) (NN longshot))
+          (PP (IN against)
+            (NP (NNP Grayson)))))
+      (PP (IN for)
+        (NP (DT the) (NN nomination)
+          (S
+            (VP (TO to)
+              (VP (VB replace)
+                (S
+                  (VP (VBG retiring)
+                    (NP
+                      (NP
+                        (NP (NNP Sen.) (NNP Jim) (NNP Bunning))
+                        (, ,)
+                        (NP (DT a) (JJ 78-year-old) (JJ former) (JJ major) (NN league) (NN pitcher)))
+                      (SBAR
+                        (WHNP (WP who))
+                        (S
+                          (VP (VBD opted)
+                            (S (RB not)
+                              (VP (TO to)
+                                (VP (VB seek)
+                                  (NP (DT a) (JJ third) (NN term)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Employing)
+        (NP (DT an) (NN Internet))
+        (PP (VBG fundraising)
+          (NP
+            (NP (NN model))
+            (VP (VBN used)
+              (PP (IN by)
+                (NP (PRP$ his) (NN father))))))))
+    (, ,)
+    (NP (NNP Paul))
+    (VP (VBD was)
+      (ADJP (JJ able)
+        (S
+          (VP (TO to)
+            (VP (VB raise)
+              (NP
+                (NP (DT some)
+                  (QP ($ $) (CD 3) (CD million)))
+                (PP (IN for)
+                  (NP (DT the) (NN primary)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Despite)
+      (NP (DT the) (JJ bitter) (NN primary)))
+    (, ,)
+    (NP (NNP Grayson))
+    (VP (VBD praised)
+      (NP (NNP Paul))
+      (PP (IN at)
+        (NP (DT the) (NN rally))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (S
+        (SBAR (IN If)
+          (S
+            (S
+              (NP (PRP you))
+              (VP (VBP are)
+                (NP
+                  (NP (DT a) (NNP Kentucky) (NNP Republican))
+                  (, ,)
+                  (NP (DT a) (NNP Kentucky) (NNP Democrat))
+                  (CC or)
+                  (NP (DT a) (NNP Kentucky) (NN independent)))))
+            (, ,)
+            (CC and)
+            (S
+              (NP (PRP you))
+              (VP (VBP know)
+                (SBAR
+                  (S
+                    (NP (PRP we))
+                    (VP (VBP have)
+                      (S
+                        (VP (TO to)
+                          (VP (VB get)
+                            (NP (PRP$ our) (JJ fiscal) (NN house))
+                            (PP (IN in)
+                              (NP (NN order)))))))))))))
+        (, ,)
+        (NP (EX there))
+        (VP (VBZ 's)
+          (ADVP (RB only))
+          (PP (IN on)
+            (NP
+              (NP (NN choice))
+              (PP (IN for)
+                (NP (PRP you)))))
+          (PP (IN in)
+            (NP (DT the) (NN fall)))))
+      (: ;)
+      (S
+        (NP (PRP it))
+        (VP (VBZ 's)
+          (NP (NNP Dr.) (NNP Rand) (NNP Paul)))))
+    (, ,) ('' '')
+    (NP (NNP Grayson))
+    (VP (VBD said))
+    (. .)))
+

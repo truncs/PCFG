@@ -1,0 +1,507 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP John) (NNP Edwards) (POS '))
+      (NN campaign))
+    (VP (MD must)
+      (VP (VB repay)
+        (NP
+          (QP (JJR more) (IN than) ($ $) (CD 2.2) (CD million)))
+        (PP (TO to)
+          (NP (DT the) (NNP U.S.) (NNP Treasury)))
+        (PP (IN after)
+          (S
+            (VP
+              (ADVP (RB improperly))
+              (VBG getting)
+              (NP (JJ federal) (JJ matching) (NNS funds))
+              (PP (IN during)
+                (NP (PRP$ his) (CD 2008) (JJ presidential) (NN bid)))
+              (, ,)
+              (PP (VBG according)
+                (PP (TO to)
+                  (NP
+                    (NP (DT a) (JJ final)
+                      (NX (NNP Federal) (NNP Election) (NNP Commission))
+                      (NN audit))
+                    (VP (VBN released)
+                      (NP (NNP Friday)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN report))
+    (ADVP (RB also))
+    (VP (VBD found)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NNP Edwards) (POS '))
+            (NN campaign))
+          (VP (VBD understated)
+            (NP
+              (NP (DT the) (NN amount))
+              (PP (IN of)
+                (NP (NN money))))
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP
+                  (VP (VBD had)
+                    (PP (IN on)
+                      (NP (NN hand)))
+                    (PP (IN on)
+                      (NP (CD two) (JJ separate) (NNS occasions))))
+                  (, ,)
+                  (VP (VBD failed)
+                    (S
+                      (VP (TO to)
+                        (VP (VB itemize)
+                          (NP
+                            (NP
+                              (QP (JJR more) (IN than) ($ $) (CD 4.3) (CD million)))
+                            (PP (IN in)
+                              (NP (NN loan) (NNS repayments))))))))
+                  (CC and)
+                  (VP (VBZ owes)
+                    (NP
+                      (NP (DT the) (NN treasury))
+                      (ADVP (RB nearly)
+                        (NP ($ $) (CD 142,000))
+                        (PP (IN in)
+                          (NP (NNS checks))))
+                      (SBAR
+                        (S
+                          (NP (DT the) (NN campaign))
+                          (VP (VBD issued)
+                            (SBAR (IN that)
+                              (S
+                                (VP (VBD were) (RB never)
+                                  (VP (VBN cashed)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN committee))
+      (PP (IN in)
+        (NP
+          (NP (NN charge))
+          (PP (IN of)
+            (NP
+              (NP (NNP Edwards) (POS '))
+              (NN campaign))))))
+    (ADVP (RB now))
+    (VP (VBZ has)
+      (NP
+        (NP (CD 90) (NNS days))
+        (SBAR
+          (S
+            (VP (TO to)
+              (VP (VB make)
+                (NP
+                  (NP (DT a) (NN payment))
+                  (CC or)
+                  (NP (CD 60) (NNS days)))
+                (S
+                  (VP (TO to)
+                    (VP (VB ask)
+                      (NP (DT the) (NNP FEC))
+                      (S
+                        (VP (TO to)
+                          (VP (VB review)
+                            (NP (DT the) (NN decision))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP
+          (NP (DT the) (NN audit) (POS 's))
+          (NNS findings))
+        (VP (VBD became)
+          (ADJP (JJ public))
+          (NP (JJ last) (NN month)))))
+    (, ,)
+    (NP
+      (NP (NNP Patricia) (NNP A.) (NNP Fiori))
+      (, ,)
+      (NP
+        (NP (DT an) (NN attorney))
+        (PP (IN for)
+          (NP (DT the) (NN campaign))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN committee))
+          (VP (MD would)
+            (VP (VB appeal))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Fiori))
+    (VP (VBD did) (RB not)
+      (VP (VB respond)
+        (PP (TO to)
+          (NP
+            (NP (DT a) (NN request))
+            (PP (IN from)
+              (NP (NN comment)))))
+        (PP (IN by)
+          (NP (JJ early) (NNP Friday) (NN afternoon)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Edwards))
+      (, ,)
+      (NP
+        (NP (DT a) (JJ former) (NN senator))
+        (PP (IN from)
+          (NP
+            (NP (NNP North) (NNP Carolina))
+            (CC and)
+            (NP
+              (NP (CD 2004) (JJ Democratic) (NN nominee))
+              (PP (IN for)
+                (NP (DT the) (NN vice) (NN presidency)))))))
+      (, ,))
+    (VP (VBD dropped)
+      (PRT (RP out))
+      (PP (IN of)
+        (NP (DT the) (NN race)))
+      (PP (IN on)
+        (NP (NNP January) (CD 30) (, ,) (CD 2008))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (S
+        (NP (NNS Audits))
+        (VP (VBP are)
+          (VP (VBN required)
+            (PP (IN for)
+              (NP
+                (NP (JJ federal) (NNS campaigns))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBP accept)
+                      (NP (JJ public) (NN financing))))))))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (PRP it))
+        (VP (VBZ 's)
+          (ADVP (RB not))
+          (ADJP (JJ uncommon)
+            (PP (IN for)
+              (NP (NN campaign) (NNS committees))))
+          (S
+            (VP (TO to)
+              (VP (VB find)
+                (NP (PRP themselves))
+                (S
+                  (VP (VBG owing)
+                    (NP (NN money))
+                    (PP (TO to)
+                      (NP (DT the) (NNP Treasury)))))))))))
+    (, ,)
+    (VP (VBD said))
+    (NP
+      (NP (NNP Anthony) (NNP Corrado))
+      (, ,)
+      (NP
+        (NP (DT a) (NN professor))
+        (PP (IN of)
+          (NP (NN government)))
+        (PP (IN at)
+          (NP (NNP Colby) (NNP College)))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (DT the) (NN size))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NN repayment))
+          (VP (VBN sought)
+            (PP (IN by)
+              (NP (DT the) (NNP FEC)))
+            (PP (IN from)
+              (NP
+                (NP (NNP Edwards) (POS '))
+                (NN campaign)))))))
+    (VP (VBZ is)
+      (PRT (RP out))
+      (PP (IN of)
+        (NP (DT the) (JJ ordinary))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (DT A)
+        (ADJP
+          (QP ($ $) (CD 2) (CD million)))
+        (NN repayment))
+      (VP (VBZ is)
+        (ADJP (JJ substantial))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP look)
+          (ADVP (RB back))
+          (PP (IN through)
+            (NP
+              (NP (DT the) (NN history))
+              (PP (IN of)
+                (NP (DT these) (NN audits))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's) (RB often)
+      (NP (DT the) (NN case))
+      (SBAR (IN that)
+        (S
+          (NP (NNS campaigns))
+          (VP (VBP are)
+            (VP (VBG repaying)
+              (NP
+                (NP (NNS hundreds))
+                (PP (IN of)
+                  (NP
+                    (NP (NNS thousands))
+                    (PP (IN of)
+                      (NP (NNS dollars)))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (S
+        (NP
+          (NP (NNP Ronald) (NNP Reagan) (POS 's))
+          (CD 1980) (NN campaign) (NN committee))
+        (VP (VBD had)
+          (S
+            (VP (TO to)
+              (VP (VB repay)
+                (NP
+                  (QP (IN about) ($ $) (CD 953,000)))
+                (PP (TO to)
+                  (NP (DT the) (NNP Treasury))))))))
+      (, ,)
+      (CC but)
+      (S
+        (NP (JJ large) (NNS sums))
+        (VP (VBP are)
+          (ADJP (JJ uncommon)))))
+    (, ,)
+    (NP (NNP Corrado))
+    (VP (VBD said)
+      (PRN (, ,)
+        (ADVP (RB especially))
+        (PP (VBN given)
+          (NP
+            (NP (DT the)
+              (ADJP (RB relatively) (JJ modest))
+              (NN amount))
+            (PP (IN of)
+              (NP (NN money))))))
+      (SBAR
+        (S
+          (NP (NNP Edwards))
+          (VP (VBD raised)
+            (PP (IN through)
+              (NP (JJ matching) (NNS funds)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN campaign))
+    (VP (VBD received)
+      (NP
+        (QP (RB nearly) ($ $) (CD 13) (CD million)))
+      (PP (IN in)
+        (NP (JJ matching) (NNS funds)))
+      (SBAR (IN after)
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (VP (VBN approved)
+              (PP (IN by)
+                (NP (DT the) (NNP FEC)))
+              (PP (IN in)
+                (NP (NNP December) (CD 2007))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJS largest) (NN amount))
+      (PP (IN of)
+        (NP
+          (NP (NN money))
+          (VP (VBN owed)
+            (PP (IN by)
+              (NP
+                (NP (DT the) (NN campaign))
+                (, ,)
+                (VP (VBG according)
+                  (PP (TO to)
+                    (NP (DT the) (NN audit))))
+                (, ,)))))))
+    (VP (VBZ is)
+      (NP
+        (NP
+          (QP (RB roughly) ($ $) (CD 2.1) (CD million)))
+        (PP (IN in)
+          (NP
+            (NP (JJ federal) (JJ matching) (NNS funds))
+            (VP (VBN received)
+              (PP (IN by)
+                (NP (DT the) (NN campaign))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN audit))
+    (VP (VBZ says)
+      (SBAR (IN that)
+        (S
+          (NP (NN money))
+          (VP (VBD came)
+            (SBAR (IN after)
+              (S
+                (NP
+                  (NP (NNP Edwards) (POS '))
+                  (NN campaign))
+                (VP (VBD was)
+                  (ADJP
+                    (ADVP (RB no) (RBR longer))
+                    (JJ eligible)
+                    (S
+                      (VP (TO to)
+                        (VP (VB receive)
+                          (NP
+                            (NP (NNS payments))
+                            (SBAR
+                              (WHNP (WDT that))
+                              (S
+                                (VP (VBP match)
+                                  (NP
+                                    (NP (NNS contributions))
+                                    (PP (TO to)
+                                      (NP (DT the) (NN campaign)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN campaign))
+    (VP
+      (VP (VBZ disagrees))
+      (, ,)
+      (CC and)
+      (VP (VBZ claims)
+        (SBAR (IN that)
+          (S (`` ``)
+            (NP (DT the) (NN failure)
+              (S
+                (VP (TO to)
+                  (VP (VB match)
+                    (NP (DT these) (NNS contributions))))))
+            (VP (VBZ violates)
+              (NP (DT the) (NNP First) (NNP Amendment))
+              (NP
+                (NP
+                  (NP (NNS rights))
+                  (PP (IN of)
+                    (NP (PDT both) (DT the) (NN candidate))))
+                (CC and)
+                (NP
+                  (NP (DT those) (NNS individuals))
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (VBD contributed)
+                        (PP (TO to)
+                          (NP
+                            (NP (DT the) (NN candidate) (POS 's))
+                            (NN committee))))))))
+              (, ,) ('' '')
+              (S
+                (VP (VBG according)
+                  (PP (TO to)
+                    (NP (DT the) (NN audit))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN audit))
+    (VP (VBZ is)
+      (ADJP (JJ separate)
+        (PP (IN from)
+          (NP
+            (NP (DT the) (JJ other) (JJ legal) (NNS troubles))
+            (PP (VBG facing)
+              (NP (NNP Edwards))))))
+      (, ,)
+      (SBAR (IN although)
+        (S
+          (NP (DT those))
+          (VP (VBP are)
+            (ADVP (RB also))
+            (VP (VBN related)
+              (PP (TO to)
+                (NP (NN campaign) (NN spending))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP June)))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD pleaded)
+      (ADJP (RB not) (JJ guilty)
+        (PP (TO to)
+          (NP
+            (NP (CD six) (NNS counts))
+            (PP (IN of)
+              (S
+                (VP (VBG violating)
+                  (NP (JJ federal) (NN campaign) (NN finance) (NN law))
+                  (S
+                    (VP (TO to)
+                      (VP (VB cover)
+                        (PRT (RP up))
+                        (NP
+                          (NP (DT an) (NN affair))
+                          (PP (IN with)
+                            (NP
+                              (NP (NNP Rielle) (NNP Hunter))
+                              (, ,)
+                              (NP (DT a) (NN campaign) (NN videographer))))))))))))))
+      (PP (IN with)
+        (SBAR
+          (WHNP (WP whom))
+          (S
+            (NP (PRP he))
+            (VP (VBD fathered)
+              (NP (DT a) (NN child)))))))
+    (. .)))
+

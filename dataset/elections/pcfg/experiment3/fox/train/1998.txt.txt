@@ -1,0 +1,449 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (CD two) (NNS titans))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (JJ Republican) (JJ presidential) (NN contest))
+          (VP (VBN hammered)
+            (NP (DT each) (JJ other))
+            (PP (IN over)
+              (NP
+                (NP (NN job) (NN creation))
+                (CC and)
+                (NP (NNP Social) (NNP Security))))
+            (PP (IN on)
+              (NP (NNP Wednesday)))
+            (NP (NN night)))))
+      (, ,)
+      (PP (IN as)
+        (NP (NNP Rick) (NNP Perry))))
+    (VP (VBD got)
+      (NP (PRP$ his) (JJ first) (NN chance)
+        (S
+          (VP (TO to)
+            (VP (VB articulate)
+              (NP (PRP$ his) (NN campaign) (NN message))
+              (PP (IN on)
+                (NP (DT the) (JJ national) (NN debate) (NN stage))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Texas) (NN governor))
+    (VP (VBD sparred)
+      (ADVP (RB early)
+        (CC and)
+        (RB often))
+      (PP (IN with)
+        (NP
+          (NP (JJ former) (NNP Massachusetts) (NNP Gov.) (NNP Mitt) (NNP Romney))
+          (, ,)
+          (SBAR
+            (WHNP (WP whom))
+            (S
+              (NP (PRP he))
+              (VP (VBZ has)
+                (VP (VBN overtaken)
+                  (PP (IN as)
+                    (NP (NN front-runner)))
+                  (PP (IN since)
+                    (S
+                      (VP (VBG joining)
+                        (NP (DT the) (NN race))
+                        (ADVP
+                          (NP (DT a) (NN month))
+                          (RB ago))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN With)
+      (S
+        (NP (NNP Perry))
+        (VP
+          (VP (VBG trying)
+            (S
+              (VP (TO to)
+                (VP (VB defend)
+                  (NP (DT that) (NN position))))))
+          (CC and)
+          (VP
+            (ADVP (RB Romney))
+            (VBG trying)
+            (S
+              (VP (TO to)
+                (VP (VB reclaim)
+                  (NP (PRP it)))))))))
+    (, ,)
+    (NP (DT the) (CD two))
+    (VP (VBD came)
+      (ADJP (JJ armed))
+      (PP (IN with)
+        (NP (NNS zingers)))
+      (S
+        (VP (TO to)
+          (VP (VB take)
+            (NP (DT each) (JJ other))
+            (PRT (RP down)))))
+      (SBAR
+        (S
+          (NP (DT a))
+          (VP (VBP peg)))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (NNP Michael) (NNP Dukakis))
+      (VP (VBD created)
+        (NP (NNS jobs))
+        (ADVP
+          (ADVP
+            (NP (CD three) (NNS times))
+            (RBR faster))
+          (SBAR (IN than)
+            (S
+              (NP (PRP you))
+              (VP (VBD did)))))))
+    (, ,)
+    (NP (NNP Mitt) (, ,) (NNP Perry))
+    (VP (VBD quipped) (, ,)
+      (PP (IN in)
+        (NP
+          (NP (DT a) (JJ stinging) (NN reference))
+          (PP (TO to)
+            (NP
+              (NP (DT the) (JJ former) (NNP Massachusetts) (NN governor))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBD lost)
+                    (NP (DT the) (JJ presidential) (NN election))
+                    (PP (TO to)
+                      (NP (NNP George) (NNP H.W.) (NNP Bush)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Romney))
+    (ADVP (RB immediately))
+    (VP (VBD shot)
+      (PRT (RP back))
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NNP George) (NNP Bush))
+            (CC and)
+            (NP (PRP$ his) (NNS predecessors)))
+          (VP (VBD created)
+            (NP (NNS jobs))
+            (PP (IN at)
+              (NP
+                (NP (DT a) (JJR faster) (NN rate))
+                (SBAR (IN than)
+                  (S
+                    (NP (PRP you))
+                    (VP (VBD did))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS critiques))
+    (VP (VBD were)
+      (PP (IN among)
+        (NP
+          (NP (JJ multiple) (JJ rapid-fire) (NNS exchanges))
+          (PP (IN between)
+            (NP
+              (NP (DT the) (CD two) (NNS candidates))
+              (, ,)
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBD shared)
+                    (NP (DT the) (NN stage))
+                    (PP (IN with)
+                      (NP
+                        (NP (CD six) (JJ other) (NNP White) (NNP House) (NNS hopefuls))
+                        (PP (IN at)
+                          (NP (DT the) (NNP Ronald) (NNP Reagan) (NNP Presidential) (NNP Library)))))
+                    (PP (IN in)
+                      (NP
+                        (NP (NNP Simi) (NNP Valley))
+                        (, ,)
+                        (NP (NNP Calif.))
+                        (, ,)
+                        (NP
+                          (NP (DT a) (JJ symbolic) (NN setting))
+                          (SBAR
+                            (WHNP (WDT that))
+                            (S
+                              (VP (VBD invoked)
+                                (NP
+                                  (NP (DT the) (NN memory))
+                                  (PP (IN of)
+                                    (NP
+                                      (NP (DT the) (JJ conservative) (NNP Republican))
+                                      (SBAR
+                                        (WHNP (WP who))
+                                        (S
+                                          (VP (VBD swept)
+                                            (PP (TO to)
+                                              (NP (CD two) (NNS terms)))
+                                            (PP (IN as)
+                                              (NP (NN president)))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN debate))
+    (ADVP (RB also))
+    (VP (VBD marked)
+      (NP
+        (NP (DT a) (JJ key) (NN test))
+        (PP (IN for)
+          (NP
+            (NP (NNP Minnesota) (NNP Rep.) (NNP Michele) (NNP Bachmann))
+            (, ,)
+            (SBAR
+              (WHNP (WP$ whose) (NNS prospects))
+              (S
+                (VP (VBD rose)
+                  (NP (JJ last) (NN month))
+                  (PP (IN with)
+                    (NP (PRP$ her) (NN win)))
+                  (PP (IN in)
+                    (NP (DT the) (NNP Iowa) (NNP Straw) (NNP Poll)))
+                  (S (RB only)
+                    (VP (TO to)
+                      (VP (VB be)
+                        (VP (VBN overshadowed)
+                          (PP (IN by)
+                            (NP
+                              (NP (NNP Perry) (POS 's))
+                              (NN entrance)))
+                          (PP (IN into)
+                            (NP (DT the) (NN race))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN None))
+      (PP (IN of)
+        (NP (DT the) (NNP GOP) (NNS contenders))))
+    (VP (VBD had)
+      (NP
+        (NP (NN anything))
+        (ADJP (JJ positive)
+          (S
+            (VP (TO to)
+              (VP (VB say)
+                (PP (IN about)
+                  (NP
+                    (NP (NNP Obama))
+                    (, ,)
+                    (CC either)
+                    (NP (PRP$ his) (NN record)))))))))
+      (PP (IN on)
+        (S
+          (VP (VBG creating)
+            (NP
+              (NP (NNS jobs))
+              (CC or)
+              (NP (DT the)
+                (ADJP (NN health) (NN care))
+                (NN law))))))
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP have)
+            (VP (VBD vowed)
+              (S
+                (VP (TO to)
+                  (VP (VB repeal)
+                    (SBAR (IN if)
+                      (S
+                        (NP (PRP they))
+                        (VP (VBP win)
+                          (NP (DT the) (NNP White) (NNP House)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Bachmann))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP she))
+          (VP (MD would)
+            (VP (VB provide)
+              (NP
+                (NP (DT the) (`` ``) (JJ strong) (, ,) (JJ bold) (NN leader))
+                (PP (IN in)
+                  (NP (DT the) (NN presidency)))
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (MD will)
+                      (VP (VB lead)
+                        (NP (DT that) (NN effort))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NN None))
+        (PP (IN of)
+          (NP (PRP us))))
+      (VP (MD should) (RB ever)
+        (VP (VB think)
+          (SBAR (IN that)
+            (S
+              (NP (DT the) (NN repeal) (NN bill))
+              (VP (MD will) (RB just)
+                (VP (VB come)
+                  (PP (TO to)
+                    (NP (PRP$ our) (NN desk))))))))))
+    (, ,) ('' '')
+    (NP (PRP she))
+    (VP (VBD said)
+      (PP (IN in)
+        (NP
+          (NP (DT a) (NN pledge))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD drew)
+                (NP (NN applause))
+                (PP (IN from)
+                  (NP (DT the) (NN audience)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Former) (NNP House) (NNP Speaker) (NNP Newt) (NNP Gingrich))
+    (VP (VBD resisted)
+      (NP (DT an) (NN effort)
+        (S
+          (VP (TO to)
+            (VP (VB draw)
+              (NP (PRP him))
+              (PP (IN into)
+                (NP
+                  (NP (NN conflict))
+                  (PP (IN with)
+                    (NP (JJ other) (NNPS Republicans)))))))))
+      (PP (IN on)
+        (NP (NN stage))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm) (RB frankly)
+        (ADVP (RB not))
+        (VP (VBN interested)
+          (PP (IN in)
+            (NP (PRP$ your) (NNS efforts)
+              (S
+                (VP (TO to)
+                  (VP (VB get)
+                    (S
+                      (NP (NNPS Republicans))
+                      (VP (VBG fighting)
+                        (NP (DT each) (JJ other))))))))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said) (, ,)
+      (S
+        (VP (VBG sparking)
+          (NP
+            (NP (DT an)
+              (ADJP (RB even) (JJR louder))
+              (NN round))
+            (PP (IN of)
+              (NP (NN applause)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT all) (NNPS Republicans))
+          (VP (MD should)
+            (VP (`` ``) (VB defeat)
+              (NP
+                (NP (NNS efforts))
+                (PP (IN by)
+                  (NP (DT the) (NN news) (NNS media)))
+                ('' '')
+                (S
+                  (VP (TO to)
+                    (VP (VB spark)
+                      (NP
+                        (NP (DT an) (JJ internal) (NN struggle))
+                        (SBAR
+                          (WHADVP (WRB when))
+                          (S
+                            (NP (DT the) (JJ real) (NN objective))
+                            (VP (VBZ is)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB defeat)
+                                    (NP (NNP Obama))
+                                    (PP (IN in)
+                                      (NP (CD 2012)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (ADVP
+      (NP (NNS moments))
+      (RB later))
+    (, ,)
+    (NP (NN businessman) (NNP Herman) (NNP Cain))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (PP (IN after)
+            (S
+              (VP (VBG trying)
+                (S
+                  (VP (TO to)
+                    (VP (VB defeat)
+                      (NP (JJ Democratic) (NNS efforts)
+                        (S
+                          (VP (TO to)
+                            (VP (VB create)
+                              (NP (JJ national) (NN health) (NN care))))))))))))
+          (, ,) (`` ``)
+          (NP (PRP I))
+          (VP (VBP 'm)
+            (VP (VBG running)
+              (PP (IN against)
+                (NP
+                  (NP (NNP Romneycare))
+                  (, ,) ('' '')
+                  (NP
+                    (NP (DT the) (NN legislation))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBD passed)
+                          (VP (VBG requiring)
+                            (NP
+                              (NP (NNS residents))
+                              (PP (IN of)
+                                (NP (NNP Massachusetts))))
+                            (S
+                              (VP (TO to)
+                                (VP (VB purchase)
+                                  (NP (NN coverage)))))))))))))))))
+    (. .)))
+

@@ -1,0 +1,443 @@
+(ROOT
+  (S
+    (NP (JJ Presidential) (NNS hopefuls))
+    (VP (VBD got)
+      (NP
+        (NP (DT a) (NN taste))
+        (NP (NNP Tuesday))
+        (PP (IN of)
+          (SBAR
+            (WHNP (WP what))
+            (S
+              (NP (DT the) (CD 2012) (NN campaign) (NN trail))
+              (VP (MD might)
+                (VP (VB look)
+                  (PRT (IN like))
+                  (SBAR (IN as)
+                    (S
+                      (NP (DT the) (NNP Census) (NNP Bureau))
+                      (VP (VBD announced)))))))))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (NP (NNS states))
+            (VP (MD would)
+              (VP
+                (VP (VB gain))
+                (CC and)
+                (VP (VB lose)
+                  (NP
+                    (NP (JJ congressional) (NNS seats))
+                    (VP (VBN based)
+                      (PP (IN on)
+                        (NP
+                          (NP (DT the) (NNS results))
+                          (PP (IN of)
+                            (NP (DT the) (JJ once-a-decade) (NN head) (NN count))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS results))
+    (VP (VBD appeared)
+      (S
+        (VP (TO to)
+          (VP (VB set)
+            (NP
+              (NP (DT the) (NN stage))
+              (PP (IN for)
+                (NP
+                  (NP (JJ potential) (JJ Republican) (NNS gains))
+                  (PP (IN in)
+                    (NP (NNP Congress))))))
+            (PP (IN in)
+              (NP (DT the) (JJ next) (NN cycle))))))
+      (, ,)
+      (PP (IN with)
+        (NP (JJ GOP-leaning) (NNS states)))
+      (PP (IN in)
+        (NP (DT the) (NNP South)
+          (CC and)
+          (NNP West)))
+      (VP (VBG picking)
+        (PRT (RP up))
+        (NP (NNS seats))
+        (SBAR (IN while)
+          (S
+            (NP (JJ liberal) (NNS strongholds))
+            (VP (VBD lost)
+              (NP (NN representation))
+              (PP (IN across)
+                (NP (DT the) (NN board))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Whether)
+      (FRAG (CC and)
+        (PP (TO to)
+          (NP
+            (NP (WP what) (NN degree))
+            (NP (DT those) (JJ partisan) (NNS gains))))))
+    (NP (VB materialize))
+    (VP (MD will)
+      (VP (VB depend)
+        (PP (IN in)
+          (NP (NN part)))
+        (PP (IN on)
+          (SBAR
+            (WHADVP (WRB how))
+            (S
+              (NP (NN state) (NNS legislatures))
+              (VP (VB redraw)
+                (NP (DT the) (JJ congressional) (NNS districts))))))
+        (NP (JJ next) (NN year))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (DT the) (JJ representational) (NN shift))
+    (VP (MD will) (RB also)
+      (VP (VB tilt)
+        (NP (DT the) (JJ presidential) (NN race))
+        (, ,)
+        (PP (IN as)
+          (NP
+            (NP (DT those) (NNS states))
+            (VP (VBG gaining)
+              (NP (NNP House) (NNS seats)))))))
+    (VP (VB gain)
+      (NP
+        (NP (JJR more) (NN clout))
+        (PP (IN in)
+          (NP (DT the) (NNP Electoral) (NNP College)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Though)
+      (S
+        (NP
+          (NP (DT the) (NN growth))
+          (PP (IN of)
+            (NP (JJ GOP-leaning) (NNS states))))
+        (VP (VBZ gives)
+          (NP (DT a) (JJ built-in) (NN advantage))
+          (PP (TO to)
+            (NP
+              (NP (DT the) (JJ Republican) (NN nominee))
+              (PP (IN in)
+                (NP (DT the) (CD 2012) (NN election))))))))
+    (, ,)
+    (NP (PRP it))
+    (ADVP (RB also) (RB potentially))
+    (VP (VBZ changes)
+      (NP
+        (NP (DT the) (NN playing) (NN field))
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NN race))
+            (PP (IN as)
+              (NP (DT a) (NN whole)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Candidates))
+      (PP (IN from)
+        (NP (DT both) (NNS parties))))
+    (VP (MD may)
+      (VP (VB spend)
+        (NP (JJR more) (NN time))
+        (PP (VBG wooing)
+          (NP
+            (NP (DT the) (JJR larger) (NNS populations))
+            (PP (IN in)
+              (NP (JJ western)
+                (CC and)
+                (JJ southern) (NNS states)))))
+        (SBAR (IN while)
+          (S
+            (VP (VBG shying)
+              (ADVP (RB away)
+                (PP (IN from)
+                  (NP (DT the) (NNS regions))))
+              (PP (IN with)
+                (NP (JJR less) (NN influence))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD Ten) (NNS states))
+      (, ,)
+      (VP (VBN concentrated)
+        (PP (IN in)
+          (NP (DT the) (NNP Northeast)
+            (CC and)
+            (NNP Midwest))))
+      (, ,))
+    (VP (MD will)
+      (VP (VB lose)
+        (NP
+          (NP (DT a) (NN total))
+          (PP (IN of)
+            (NP
+              (NP (CD 12) (NNS seats))
+              (VP (VBN based)
+                (PP (IN on)
+                  (NP (DT the) (CD 2010) (NNP Census) (NNS results)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS numbers))
+    (VP (VBP make)
+      (S
+        (NP (DT the) (NNP Sun) (NNP Belt))
+        (ADJP (RBR more) (JJ attractive)
+          (PP (IN than)
+            (NP (DT the) (NNP Rust) (NNP Belt)))))
+      (PP (IN for)
+        (NP
+          (NP (DT those))
+          (VP (VBG planning)
+            (NP (NN stump) (NNS speeches))
+            (NP
+              (NP (CD two) (NNS years))
+              (PP (IN from)
+                (NP (RB now))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (DT Both) (NNS candidates))
+      (VP (MD will)
+        (VP (VB pay)
+          (NP (NN attention))
+          (PP (TO to)
+            (NP (PRP them))))))
+    (, ,) ('' '')
+    (NP (JJ former) (NNP Democratic) (NNP Party) (NNP Chairman) (NNP Don) (NNP Fowler))
+    (VP (VBD said)
+      (PP (IN of)
+        (NP (DT the) (JJ southwestern) (NNS states))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (VBN Based)
+      (PP (IN on)
+        (NP (DT the) (NNP Census) (NNS numbers))))
+    (, ,)
+    (S
+      (NP (NNP Texas))
+      (VP (MD will)
+        (VP (VB gain)
+          (NP (CD four) (NNP House) (NNS members))
+          (PP (IN in)
+            (NP (CD 2012))))))
+    (CC and)
+    (S
+      (NP (NNP Florida))
+      (VP (MD will)
+        (VP (VB gain)
+          (NP (CD two)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Arizona))
+    (, ,)
+    (NP
+      (NP
+        (NP
+          (NP (NNP Georgia) (, ,) (NNP Nevada))
+          (, ,)
+          (NP (NNP South) (NNP Carolina))
+          (, ,)
+          (NP (NNP Utah))
+          (CC and)
+          (NP (NNP Washington)))
+        (NP (DT each) (NN gain)))
+      (NP (CD one)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNPS States))
+      (VP (VBG losing)
+        (NP (NNS seats))))
+    (VP (VBP include)
+      (NP
+        (NP (NNP Illinois))
+        (, ,)
+        (NP (NNP Iowa))
+        (, ,)
+        (NP (NNP Louisiana))
+        (, ,)
+        (NP (NNP Massachusetts))
+        (, ,)
+        (NP (NNP Michigan))
+        (, ,)
+        (NP (NNP Missouri))
+        (, ,)
+        (NP (NNP New) (NNP Jersey))
+        (, ,)
+        (NP (NNP New) (NNP York))
+        (, ,)
+        (NP (NNP Ohio))
+        (CC and)
+        (NP (NNP Pennsylvania))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PDT All) (DT those) (NNS states))
+    (VP (VBD lost)
+      (NP
+        (NP (CD one) (NN seat) (RB apiece))
+        (, ,)
+        (VP (VB save)
+          (PP (IN for)
+            (NP (NNP New) (NNP York)
+              (CC and)
+              (NNP Ohio))))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD lost)
+              (NP (CD two) (DT each)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Fowler))
+    (VP (VBD cautioned)
+      (PP (IN against)
+        (S
+          (VP (VBG reading)
+            (ADVP (RB too) (RB much))
+            (PP (IN into)
+              (NP (DT the) (NNS changes)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (NP (DT all)))
+    (, ,)
+    (NP (NNP President) (NNP Obama))
+    (VP (MD would)
+      (VP (VB have)
+        (ADJP
+          (ADJP (RB still) (VBN won))
+          (PRN (: --)
+            (PP (IN by)
+              (NP (DT a) (JJ long) (NN shot)))
+            (: --))
+          (SBAR (RB even) (IN if)
+            (S
+              (NP (DT the) (CD 2008) (NN map))
+              (VP (VBD were)
+                (VP (VBN based)
+                  (PP (IN on)
+                    (NP (DT the) (CD 2010) (NNP Census) (NNS numbers))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (NNP Texas))
+            (, ,)
+            (NP
+              (NP (RB traditionally) (DT a) (NN gimme))
+              (PP (IN for)
+                (NP
+                  (NP (NNPS Republicans))
+                  (CC and)
+                  (NP
+                    (NP (DT a) (NN throw-away))
+                    (PP (IN for)
+                      (NP (NNPS Democrats)))))))
+            (, ,))
+          (ADVP (RB still))
+          (VP (MD wo) (RB n't)
+            (VP (VB be)
+              (NP (DT a) (NN battleground))
+              (PP (IN in)
+                (NP (DT the) (JJ next) (JJ general) (NN election))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP he))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (NNP South) (NNP Carolina))
+            (, ,)
+            (SBAR
+              (WHADVP (WRB where))
+              (S
+                (NP (PRP he))
+                (VP (VBZ 's)
+                  (PP (IN from)))))
+            (, ,))
+          (VP (MD wo) (RB n't)
+            (ADVP (RB suddenly))
+            (VP (VB be)
+              (NP
+                (NP (DT the) (JJ hot) (NN destination))
+                (PP (IN for)
+                  (NP (NNPS Democrats))))
+              (SBAR (RB just) (IN because)
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ 's)
+                    (VP (VBN got)
+                      (NP (DT an) (JJ extra) (NN seat)))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (NNPS Democrats))
+      (VP (VBP have)
+        (ADVP (RB not))
+        (VP (VBN campaigned)
+          (PP (IN in)
+            (NP (NNP South) (NNP Carolina)))
+          (PP (IN since)
+            (NP (CD 1980))))))
+    (, ,) ('' '')
+    (NP (NNP Fowler))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (JJ possible) (NNS battlegrounds))
+      (PP (IN like)
+        (NP
+          (NP (NNP Arizona))
+          (, ,)
+          (NP (NNP Nevada))
+          (CC and)
+          (NP (NNP Florida)))))
+    (ADVP (RB now))
+    (VP (VBP rise)
+      (PP (IN in)
+        (NP (NN prominence))))
+    (. .)))
+

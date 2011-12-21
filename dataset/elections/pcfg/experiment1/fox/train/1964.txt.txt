@@ -1,0 +1,465 @@
+(ROOT
+  (S
+    (S
+      (NP (NNP President) (NNP Obama) (NN campaign))
+      (VP (VBD found)
+        (NP
+          (NP (NN plenty))
+          (PP (IN of)
+            (NP (NN enthusiasm))))
+        (PP (IN among)
+          (NP
+            (NP (NNS students))
+            (PP (IN in)
+              (NP (DT the) (CD 2008) (JJ presidential) (NN race)))))))
+    (, ,)
+    (CC but)
+    (S
+      (S
+        (NP (CD 2010))
+        (VP (VBZ is)
+          (NP (DT another) (NN year))))
+      (: --)
+      (CC and)
+      (S
+        (PP (IN with)
+          (NP (NNS seats)
+            (S
+              (VP (TO to)
+                (VP (VB fill)
+                  (PP (IN at)
+                    (NP (DT a) (NNP Tuesday) (NN rally)))
+                  (PP (IN at)
+                    (NP
+                      (NP (DT the) (NNP University))
+                      (PP (IN of)
+                        (NP (NNP Wisconsin-Madison))))))))))
+        (, ,)
+        (NP (DT the) (NNP Obama) (NN team))
+        (VP (VBD took)
+          (NP
+            (NP (DT the) (NN step))
+            (PP (IN of)
+              (S
+                (VP (VBG sending)
+                  (NP (DT an) (JJ e-mail) (NN message))
+                  (PP (TO to)
+                    (NP (NNS supporters)))))))
+          (PP (IN in)
+            (NP
+              (NP (NN search))
+              (PP (IN of)
+                (NP (DT an) (NN audience))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN president))
+    (VP (VBZ is)
+      (VP (VBN headed)
+        (PP (TO to)
+          (NP (NNP Madison)))
+        (PP (IN as)
+          (NP
+            (NP (NN part))
+            (PP (IN of)
+              (NP
+                (NP (DT a) (NN series))
+                (PP (IN of)
+                  (NP
+                    (NP (NNS rallies))
+                    (PP (IN in)
+                      (NP
+                        (NP (NN swing) (NNS states))
+                        (VP (VBG leading)
+                          (PRT (RP up))
+                          (PP (TO to)
+                            (NP (DT the) (NN election))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (SBAR
+      (WHADVP (WRB where))
+      (S
+        (NP (PRP he))
+        (VP (VBD drew)
+          (NP
+            (NP (DT a) (NN crowd))
+            (PP (IN of)
+              (NP (CD 17,000))))
+          (PP (IN at)
+            (NP
+              (NP (DT the) (NNP University))
+              (PP (IN of)
+                (NP (NNP Wisconsin)))))
+          (PP (IN in)
+            (NP (CD 2008)))
+          (PP (IN during)
+            (NP (DT the) (JJ presidential) (NN race))))))
+    (, ,)
+    (NP (NNS crowds))
+    (VP (VBP are)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (RB significantly) (JJR smaller))
+              (NP (DT this) (NN time) (RP around)))))
+        (: --)
+        (SBAR (RB so) (RB much) (RB so) (IN that)
+          (S
+            (NP
+              (NP
+                (NP (DT the) (NN president) (POS 's))
+                (NN campaign) (NN team))
+              (, ,)
+              (NP
+                (NP (NNP Organizing))
+                (PP (IN for)
+                  (NP (NNP America))))
+              (, ,))
+            (VP (VBZ is)
+              (VP (VBG sending)
+                (PRT (RP out))
+                (NP
+                  (NP (NNP RSVP) (NNS requests))
+                  (PP (IN for)
+                    (NP
+                      (NP
+                        (NP (NNP Tuesday) (POS 's))
+                        (NN rally))
+                      (, ,)
+                      (VP (VBG featuring)
+                        (NP (NN musician) (NNP Ben) (NNP Harper))))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (PRP We))
+    (VP (VBP 've)
+      (VP (VBN got)
+        (NP
+          (NP (DT a) (NN lot))
+          (PP (IN of)
+            (NP (NN work))))
+        (S
+          (VP (TO to)
+            (VP (VB do)
+              (PP (IN between)
+                (UCP
+                  (ADVP (RB now))
+                  (CC and)
+                  (NP (NNP November) (CD 2nd))))
+              (S
+                (VP (TO to)
+                  (VP (VB keep)
+                    (VP (VBG moving)
+                      (NP (NNP America))
+                      (ADVP (RB forward)))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (DT this) (NN movement))
+    (VP (VBZ has) (RB never)
+      (VP (VBN backed)
+        (PRT (RP down))
+        (PP (IN from)
+          (NP (DT a) (JJ tough) (NN fight)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP hope)
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (MD can)
+            (VP (VB join)
+              (NP (PRP me)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP have)
+          (ADVP (RB n't))
+          (ADVP (RB already)))))
+    (, ,)
+    (NP (VB please))
+    (VP (VBP RSVP)
+      (ADVP (RB here)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Hope))
+        (SBAR
+          (S
+            (VP (TO to)
+              (VP (VB see)
+                (NP (PRP you))
+                (ADVP (RB there)))))))
+      (, ,)
+      (NP (NNP President) (NNP Barack) (NNP Obama))
+      (, ,) ('' ''))
+    (VP (VBZ reads)
+      (S
+        (NP (DT the))
+        (VP (VB e-mail)
+          (VP (VBN distributed)
+            (NP (NNP Monday))
+            (PP (IN by)
+              (NP (NNP Organizing)))
+            (PP (IN for)
+              (NP (NNP America)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (VBG According)
+      (PP (TO to)
+        (NP (DT The) (NNP Washington) (NNP Post))))
+    (, ,)
+    (NP
+      (NP (DT the) (NNS students))
+      (PP (IN at)
+        (NP
+          (NP (NNP University))
+          (PP (IN of)
+            (NP (NNP Wisconsin-Madison))))))
+    (VP (VBP are)
+      (NP
+        (NP (JJ typical))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN enthusiasm) (NN gap))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (NP (NNPS Democrats))
+                (VP (VBP recognize)
+                  (VP (VBZ is)
+                    (VP (VBG eating)
+                      (PRT (RP away))
+                      (PP (IN at)
+                        (NP (PRP$ their) (NN chance)
+                          (S
+                            (VP (TO to)
+                              (VP (VB keep)
+                                (NP
+                                  (NP (DT the) (NN majority))
+                                  (PP (IN in)
+                                    (NP (NNP Congress))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP David) (NNP Plouffe))
+        (, ,)
+        (NP
+          (NP (DT a) (JJ Democratic) (NN election) (NN adviser))
+          (CC and)
+          (NP
+            (NP (DT the) (NN president) (POS 's))
+            (CD 2008) (NN campaign) (NN manager)))
+        (, ,))
+      (VP (VBD told)
+        (SBAR
+          (S
+            (NP (DT the) (NNP Post))
+            (VP (VBD said)
+              (SBAR
+                (S
+                  (NP (PRP he))
+                  (VP (VBZ recognizes)
+                    (SBAR
+                      (S
+                        (NP (CD 2010))
+                        (VP (VBZ is)
+                          (ADVP (RB n't))
+                          (VP (VBG going)
+                            (S
+                              (VP (TO to)
+                                (VP (VB mimic)
+                                  (NP (CD 2008))
+                                  (SBAR (`` ``)
+                                    (S
+                                      (NP (DT That))
+                                      (VP (VBZ 's)
+                                        (ADVP (RB not))
+                                        (VP (VBG going)
+                                          (S
+                                            (VP (TO to)
+                                              (VP (VB happen)))))))))))))))))))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD acknowledged))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (PRP We))
+    (VP (VBP 're) (RB not)
+      (VP (VBG dealing)
+        (PP (IN with)
+          (NP (DT a) (NN fantasy) (NN scenario)))
+        (ADVP (RB here))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP 're)
+      (VP (VBG saying)
+        (PP (IN with)
+          (NP
+            (NP (DT some) (JJ small) (NN improvement))
+            (, ,)
+            (NP (NNS races))))
+        (SBAR
+          (S
+            (SBAR
+              (WHADVP (WRB where))
+              (S
+                (NP (PRP you))
+                (VP (VBP 're)
+                  (VP (VBG losing)
+                    (NP (CD 52))
+                    (PP (TO to)
+                      (NP (CD 48)))))))
+            (, ,)
+            (NP (PRP you))
+            (VP (MD can)
+              (VP (VB flip)
+                (NP (PRP it))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (CC But)
+    (SBAR (IN while)
+      (S
+        (NP (DT the) (NN administration))
+        (VP (VBZ recognizes)
+          (SBAR
+            (S
+              (NP (NNP Obama))
+              (VP (VBD won)
+                (ADJP (JJ big))
+                (PP (IN on)
+                  (NP
+                    (NP (DT the) (NNS backs))
+                    (PP (IN of)
+                      (NP
+                        (NP (NN college) (NNS students))
+                        (PP (IN in)
+                          (NP (CD 2008)))))))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ has)
+      (NP
+        (QP (JJR more) (IN than) (DT a))
+        (NNS ways)
+        (S
+          (VP (TO to)
+            (VP (VB go)
+              (S
+                (VP (TO to)
+                  (VP (VB make)
+                    (PRT (RP up))
+                    (PP (IN for)
+                      (NP
+                        (NP (DT the)
+                          (ADJP (RB traditionally) (JJ lazy))
+                          (NN voting))
+                        (PP (JJ demographic) (IN in)
+                          (NP (DT a) (NN year)))))
+                    (SBAR
+                      (WHADVP (WRB when))
+                      (S
+                        (S
+                          (NP (PRP he))
+                          (VP (VBZ 's)
+                            (ADVP (RB not))
+                            (PP (IN on)
+                              (NP (DT the) (NN ballot)))))
+                        (CC and)
+                        (S
+                          (NP (PRP$ his) (NNS policies))
+                          (VP (VBP are)
+                            (VP (VBG looking)
+                              (PP (IN like)
+                                (NP (NNS liabilities)))
+                              (PP (TO to)
+                                (NP
+                                  (NP (DT the) (NNS water-bearers))
+                                  (SBAR
+                                    (WHNP (WP who))
+                                    (S
+                                      (VP (VBD carried)
+                                        (NP (PRP them))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (MD may)
+      (VP (VB take)
+        (NP
+          (NP (JJR more))
+          (PP (IN than)
+            (NP (DT a) (NN four-percentage-point) (`` ``) (JJ flip) ('' ''))))
+        (PP (IN for)
+          (NP (NNP Wisconsin) (NNP Sen.) (NNP Russ) (NNP Feingold)))
+        (S
+          (VP (TO to)
+            (VP (VB turn)
+              (PRT (RP around))
+              (NP (DT this) (NN election) (NN year)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ three-term) (JJ Democratic) (NN senator))
+    (VP (VBZ finds)
+      (NP (PRP himself))
+      (PP (IN in)
+        (NP
+          (NP (DT a)
+            (ADJP (RB surprisingly) (JJ tight))
+            (NN race))
+          (PP (IN against)
+            (NP
+              (NP (NN businessman) (NNP Ron) (NNP Johnson))
+              (, ,)
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBZ 's)
+                    (ADVP (RB up)
+                      (NP
+                        (NP (CD 8) (NN percentage) (NNS points))
+                        (PP (IN in)
+                          (NP
+                            (NP (DT a) (NNP RealClearPolitics) (NN average))
+                            (PP (IN of)
+                              (NP (NNS polls)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Several) (JJ other) (NNS races))
+    (VP (VBP are)
+      (VP (VBG showing)
+        (NP (JJ similar) (NNS differences))))
+    (. .)))
+

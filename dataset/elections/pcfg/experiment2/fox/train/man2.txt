@@ -1,0 +1,520 @@
+(ROOT
+  (S
+    (PP (IN At)
+      (NP
+        (NP
+          (NP (NNP Tuesday) (POS 's))
+          (NN sentencing) (NN hearing))
+        (PP (IN for)
+          (NP (NNP Rod) (NNP Blagojevich)))))
+    (, ,)
+    (NP
+      (QP (JJR more) (IN than) (CD 100))
+      (NNS people)
+      (CC and)
+      (NNS media))
+    (VP (VBD waited)
+      (PP (IN in)
+        (NP (NN line)))
+      (PP (IN for)
+        (NP
+          (NP (DT a) (NN seat))
+          (PP (IN inside)
+            (NP
+              (NP (DT the) (NN courtroom))
+              (CC and)
+              (NP (DT a) (NN chance)
+                (S
+                  (VP (TO to)
+                    (VP (VB hear)
+                      (NP (DT the) (JJ former) (NNP Illinois) (NN governor))
+                      (S
+                        (VP (VB speak))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (NNP Blagojevich))
+    (VP (VBD was)
+      (ADVP (RB n't))
+      (NP (DT the) (JJ only) (NN person))
+      (PP (IN in)
+        (NP (NN court)))
+      (S
+        (VP (VBG attracting)
+          (NP (NN attention))
+          (PP (IN from)
+            (NP (DT the) (NNS media))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Sister) (NNP Susanne) (NNP Kullowitch))
+      (, ,)
+      (NP
+        (NP (DT a) (NN nun))
+        (PP (IN with)
+          (NP
+            (NP (DT the) (NNS Sisters))
+            (PP (IN of)
+              (NP
+                (NP (NNP Catholic) (NNP Charity))
+                (PP (IN in)
+                  (NP (NNP Chicago))))))))
+      (, ,))
+    (VP (VBD showed)
+      (PRT (RP up))
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB see)
+              (NP (NNP Blagojevich)))
+            (CC and)
+            (VP (VB listen)
+              (PP (TO to)
+                (NP
+                  (NP (DT a) (NN portion))
+                  (PP (IN of)
+                    (NP (DT the) (NN hearing))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Kullowitch))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (PRP she))
+          (VP (VBZ 's)
+            (VP (VBN been)
+              (S
+                (VP (VBG praying)
+                  (PP (IN for)
+                    (NP (NNP Blagojevich)))))
+              (SBAR (IN since)
+                (S
+                  (NP (PRP$ his) (NN retrial))
+                  (VP
+                    (VP (VBD began)
+                      (NP (RBR earlier) (DT this) (NN year)))
+                    (CC and)
+                    (VP
+                      (ADVP (RB even))
+                      (VBD sat)
+                      (PP (IN through)
+                        (NP
+                          (NP (JJ several) (NNS days))
+                          (PP (IN of)
+                            (NP (PRP$ his) (NN retrial)))
+                          (SBAR
+                            (WHADVP (WRB where))
+                            (S
+                              (NP (PRP she))
+                              (VP (VBD met)
+                                (NP
+                                  (NP
+                                    (NP (NNP Blagojevich) (POS 's))
+                                    (NN wife))
+                                  (, ,)
+                                  (NP (NNP Patti)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Kullowitch))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP she))
+          (VP (VBZ 's) (`` ``)
+            (ADJP (JJ grateful)
+              (PP (IN for)
+                (SBAR
+                  (WHNP (WP what))
+                  (S
+                    (NP (NNP Blagojevich))
+                    (VP (VBD did)
+                      (PP (IN for)
+                        (NP (NNS seniors))))))))
+            ('' '')
+            (SBAR (IN while)
+              (S
+                (NP (PRP he))
+                (VP (VBD was)
+                  (NP (NNP Illinois) (NN governor))
+                  (, ,)
+                  (S
+                    (VP (VBG providing)
+                      (NP (JJ free) (NNS rides))
+                      (PP (IN on)
+                        (NP (JJ mass) (NN transit))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (ADVP (RB also))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP she))
+          (VP (VBZ believes)
+            (SBAR
+              (S
+                (NP
+                  (NP (DT the) (NN punishment))
+                  (SBAR
+                    (S
+                      (NP (NNP Blagojevich))
+                      (VP (VBZ faces)
+                        (PP (IN for)
+                          (NP (PRP$ his) (NN conviction)))))))
+                (VP (VBZ is)
+                  (ADJP (`` ``)
+                    (ADJP (RB too) (JJ harsh))
+                    (CC and)
+                    (ADJP (JJ severe))))))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (NP (NNS Prosecutors))
+    (VP (VBP want)
+      (S
+        (NP (NNP Blagojevich))
+        (VP (TO to)
+          (VP (VB serve)
+            (NP
+              (QP (CD 15) (TO to) (CD 20))
+              (NNS years))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Kullowitch))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP Blagojevich))
+          (VP
+            (VP (VBZ has)
+              (VP (VBN suffered)
+                (ADVP (RB enough))
+                (PP (IN through)
+                  (NP (JJ public) (NN humiliation)))))
+            (CC and)
+            (VP (VBZ feels)
+              (SBAR
+                (S
+                  (NP (PRP he))
+                  (VP (MD should)
+                    (VP (VB get)
+                      (NP (NN probation))
+                      (PP (RB instead) (IN of)
+                        (S
+                          (VP (VBG serving)
+                            (NP (NN time))
+                            (PP (IN behind)
+                              (NP (NNS bars)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (NNP Kullowitch))
+        (VP (VBD saw)
+          (NP (NNP Rod) (NNP Blagojevich))
+          (PP (IN in)
+            (NP (NN court)))
+          (NP (NN today)))))
+    (, ,)
+    (NP (PRP she))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD told)
+            (NP (PRP her))
+            (S
+              (VP (TO to)
+                (VP (VB continue)
+                  (VP (VBG praying)
+                    (PP (IN for)
+                      (NP (PRP him)))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (DT The) (NN hair) (NNS jokes))
+      (, ,)
+      (NP (DT the) (NN phone) (NNS taps))
+      (, ,)
+      (NP (DT the) (JJ slick) (NNS suits))
+      (, ,)
+      (NP (DT the)
+        (NX
+          (NX (VBG shouting) (NNS attorneys))
+          (CC and)
+          (NX (JJ babbling) (NN defendant)))))
+    (: --)
+    (S
+      (NP
+        (NP (DT all))
+        (PP (IN of)
+          (NP (PRP it))))
+      (VP (VBZ is)
+        (VP (VBG coming)
+          (PP (TO to)
+            (NP (DT an) (NN end)))
+          (SBAR (RB soon) (IN as)
+            (S
+              (NP
+                (NP (DT the) (NN circus))
+                (VP (VBG fsurrounding)
+                  (VP (VBN convicted)
+                    (NP (JJ former) (NNP Illinois) (NNP Gov.) (NNP Rod) (NNP Blagojevich)))))
+              (VP (VBZ packs)
+                (PRT (RP up))
+                (NP (PRP$ its) (NN tent))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Blagojevich))
+      (CC and)
+      (NP (PRP$ his) (NN team)))
+    (VP (MD will)
+      (VP (VB be)
+        (ADVP (RB back))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NNP Dirksen) (NNP Federal) (NNP Building))
+            (PP (IN on)
+              (NP (NNP Tuesday)))))
+        (PP (IN for)
+          (NP (DT a) (JJ pre-sentencing) (NN hearing)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Judge) (NNP James) (NNP Zagel))
+    (VP (VBZ has)
+      (VP (VBN indicated)
+        (SBAR (IN that)
+          (S
+            (NP (PRP he))
+            (VP (MD will)
+              (VP (VB consider)
+                (NP (NNS arguments))
+                (PP
+                  (PP (IN on)
+                    (NP (NNP Tuesday)))
+                  (, ,)
+                  (CC and)
+                  (RB then)
+                  (PP (IN on)
+                    (NP (NNP Wednesday)))))
+              (, ,)
+              (VP (VB deliver)
+                (NP
+                  (NP (DT the) (NN sentence))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBZ threatens)
+                        (S
+                          (VP (TO to)
+                            (VP (VB keep)
+                              (NP (NNP Blago))
+                              (PP (IN off)
+                                (NP (NN reality) (NN TV)))
+                              (PP (IN for)
+                                (NP
+                                  (QP (IN at) (JJS least) (CD 10))
+                                  (NNS years))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ 10-year) (NN figure))
+    (VP (VBZ is)
+      (NP (DT a) (JJ reasonable) (NN calculation))
+      (SBAR (IN because)
+        (S
+          (NP
+            (NP
+              (NP (NNP Blagojevich) (POS 's))
+              (JJ former) (NN fundraiser))
+            (, ,)
+            (NP (NNP Tony) (NNP Rezko))
+            (, ,))
+          (VP (VBD was) (RB recently)
+            (VP (VBD slapped)
+              (PP (IN with)
+                (NP (DT a) (JJ 10-and-half-year) (NN prison) (NN term))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (ADVP (RB Certainly))
+    (NP (NNP Blagojevich))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (JJR broader) (NN scheme))
+        (, ,)
+        (SBAR
+          (S
+            (VP (VBD had)
+              (NP (JJR more) (NN responsibility))
+              (PP (IN than)
+                (NP (NNP Rezko))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (ADVP (RB So))
+      (, ,)
+      (ADVP (RB logically))
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADJP (JJ hard)
+          (S
+            (VP (TO to)
+              (VP (VB see)
+                (SBAR
+                  (WHADVP (WRB how))
+                  (S
+                    (NP (NNP Blagojevich))
+                    (VP (MD should) (RB not)
+                      (VP (VB get)
+                        (NP (DT a) (JJR larger) (NN sentence))))))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (ADJP (JJ former))
+      (JJ federal) (NN prosecutor) (NNP Jeffery) (NNP Cramer))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN number))
+      (PP (IN of)
+        (NP (NNS factors))))
+    (VP (MD can)
+      (VP (VB influence)
+        (NP
+          (NP (NNP Zagel) (POS 's))
+          (NN decision))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN fact))
+      (SBAR (IN that)
+        (S
+          (NP (NNP Blagojevich))
+          (ADVP (RB never))
+          (VP (VBD uttered)
+            (NP
+              (NP (DT a) (NN word))
+              (PP (IN of)
+                (NP (NN contrition))))
+            (, ,)
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NNS volumes))
+                (PP (IN of)
+                  (NP (NN everything))))))
+          (PRN
+            (S
+              (NP (PRP he))
+              (VP (VBD said)))
+            (, ,)))))
+    (VP (MD can)
+      (VP (VB work)
+        (PP (IN against)
+          (NP (PRP him)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (DT The) (NN fact)
+      (SBAR (IN that)
+        (S
+          (NP (NNP Blagojevich))
+          (VP (VBD was) (RB not)
+            (VP (VBN intimidated)
+              (PP (IN by)
+                (NP (DT the) (JJ six-and-a-half-year) (NN sentence))))))))
+    (NP
+      (NP (PRP$ his) (NN predecessor))
+      (, ,)
+      (NP (JJ former) (NNP Gov.) (NNP George) (NNP Ryan))
+      (, ,))
+    (VP (VBZ is)
+      (ADVP (RB currently))
+      (VP (VBG serving)
+        (NP (NNS works))
+        (PP (IN against)
+          (NP (PRP him)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Of)
+      (NP (NN course)))
+    (, ,)
+    (S
+      (VP (VBG working)
+        (PP (IN in)
+          (NP (PRP$ his) (NN favor)))))
+    (VP (VBP are)
+      (NP
+        (NP (JJ executive) (NNS accomplishments))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD helped)
+              (NP
+                (NP (DT the) (NNS residents))
+                (PP (IN of)
+                  (NP (PRP$ his) (NN state)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Law) (NNP Professor) (NNP Len) (NNP Cavise))
+      (PP (IN from)
+        (NP
+          (NP (NNP DePaul) (NNP University))
+          (PP (IN in)
+            (NP (NNP Chicago))))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP Blagojevich))
+          (VP (MD can) (RB also)
+            (VP (VB buy)
+              (NP (DT some) (NN leniency))
+              (PP (IN by)
+                (S
+                  (VP (VBG arguing)
+                    (SBAR (IN that)
+                      (S
+                        (NP (PRP he))
+                        (VP (VBZ 's)
+                          (NP
+                            (NP (DT a) (VBG bumbling) (NN fool))
+                            (PP (IN with)
+                              (NP (DT a) (JJ big) (NN mouth)))))))))))))))
+    (. .)))
+

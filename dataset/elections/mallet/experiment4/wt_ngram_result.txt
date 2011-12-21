@@ -1,0 +1,10 @@
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/wt/wt_pres2211.txt	fox	0.4258417762438362	cnn	0.5741582237561639
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/wt/wt_pres2219.txt	fox	0.5195385916651116	cnn	0.4804614083348884
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/wt/wt_pres2189.txt	fox	0.3510473304028972	cnn	0.6489526695971028
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/wt/wt_pres2180.txt	fox	0.5149154861772197	cnn	0.48508451382278034
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/wt/wt_pres2221.txt	fox	0.4876523299680415	cnn	0.5123476700319586
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/wt/wt_pres2172.txt	fox	0.4708320457149064	cnn	0.5291679542850936
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/wt/wt_pres2245.txt	fox	0.41608826039687885	cnn	0.5839117396031213
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/wt/wt_pres2242.txt	fox	0.49057832725311834	cnn	0.5094216727468817
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/wt/wt_pres2160.txt	fox	0.47149519450472216	cnn	0.5285048054952778
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/wt/wt_pres2196.txt	fox	0.4060030700653896	cnn	0.5939969299346104

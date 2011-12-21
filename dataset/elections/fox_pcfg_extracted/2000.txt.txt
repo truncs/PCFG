@@ -1,0 +1,437 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP (MD can) (RB practically)
+        (VP (VB hear)
+          (NP
+            (NP (DT the) (NNS crickets))
+            (PP (IN in)
+              (NP (NNP Hollywood.Com)))
+            (VP (VBN pared)
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (JJ presidential) (NN election))
+                  (PP (IN of)
+                    (NP (CD 2008)))
+                  (, ,)
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP
+                        (NP (NNS celebrities))
+                        (PP
+                          (PP (IN from)
+                            (NP (NNP Oprah) (NNP Winfrey)))
+                          (PP (TO to)
+                            (NP (NNP Ben) (NNP Affleck))
+                            (PP (TO to)
+                              (NP (NNP Robert) (NNP DeNiro))))))
+                      (VP (VBD went)
+                        (ADVP (DT all) (RP out))
+                        (PP (IN for)
+                          (NP (NNP Barack) (NNP Obama)))
+                        (, ,)
+                        (SBAR
+                          (S
+                            (NP (DT the) (NNS stars))
+                            (VP (VBP are)
+                              (VP (VBG staying)
+                                (NP (NN home))
+                                (PP (IN during)
+                                  (NP (DT the) (CD 2010) (NN midterm) (NN election))))))))))))))))
+      (VP (VB push)))
+    (, ,)
+    (NP (NNS experts))
+    (VP (VBP say))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBZ is)
+        (ADVP (RB definitely))
+        (NP
+          (NP (DT an) (NN enthusiasm) (NN gap))
+          (PP (IN among)
+            (NP
+              (NP (NNS celebrities))
+              (NP (DT this) (NN election) (NN cycle)))))))
+    (, ,) ('' '')
+    (NP
+      (NP (NNP Matthew) (NNP Vadum))
+      (, ,)
+      (NP
+        (NP (JJ senior) (NN editor))
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NNP Capital) (NNP Research) (NNP Center))
+            (PP (IN in)
+              (NP
+                (NP (NNP Washington))
+                (, ,)
+                (NP (NNP D.C.)))))))
+      (, ,))
+    (VP (VBD told)
+      (NP (NNP Pop) (NNP Tarts)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Now)
+      (SBAR (IN that)
+        (S
+          (NP (EX there))
+          (VP (VBZ is)
+            (S
+              (NP (DT no) (NNP George) (NNP W.) (NNP Bush))
+              (VP (TO to)
+                (VP (VB demonize))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ hard)
+        (PP (IN for)
+          (NP (JJS most) (NNS celebrities))))
+      (S
+        (VP (TO to)
+          (VP (VB get)
+            (ADJP (JJ excited)
+              (PP (IN about)
+                (NP (DT the) (JJ off-year) (JJ congressional) (NN election))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (CC Or)
+    (ADVP (RB maybe))
+    (NP (DT the) (NN silence))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN sign))
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NNP Obama) (NN administration))
+            (VP (VBP isn) (RB t)
+              (VP (VBG living)
+                (PRT (RP up))
+                (PP (TO to)
+                  (NP
+                    (NP (NNP Hollywood) (POS 's))
+                    (NNS expectations)))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (NP
+        (NP (DT The)
+          (ADJP (RBR more) (JJ left-wing)))
+        (PP (IN of)
+          (NP (DT the) (NNS celebrities))))
+      (VP (VBP feel)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NNP Obama))
+              (CC and)
+              (NP (DT the) (JJ Democratic) (NNP Congress) (NN haven)))
+            (VP
+              (VP (VBP t)
+                (ADJP (VBN been)
+                  (PRN
+                    (NP
+                      (NP
+                        (NP (JJ liberal))
+                        (ADVP (RB enough)))
+                      (, ,)
+                      (NP (DT no) (NN climate) (NN legislation))
+                      (, ,) (FW etc.))
+                    (-RRB- -RRB-))))
+              (CC and)
+              (VP (VBP are)
+                (NP
+                  (NP (RB therefore) (NN part))
+                  (PP (IN of)
+                    (NP (DT the) (NN enthusiasm) (NN gap))))))))))
+    (, ,)
+    (VP (VBD explained))
+    (NP
+      (NP (NNP Stephen) (NNPS Zunes))
+      (, ,)
+      (NP
+        (NP (DT a) (NNP Professor))
+        (PP (IN of)
+          (NP (NNP Politics)
+            (CC &)
+            (NNP International) (NNPS Studies)))
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NNP University))
+            (PP (IN of)
+              (NP (NNP San) (NNP Francisco)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT Another) (JJ possible) (NN reason))
+      (SBAR (IN that)
+        (S
+          (NP (NNS celebrities) (NN aren))
+          (VP (VBP t)
+            (VP (VBG voicing)
+              (NP (PRP$ their) (JJ political) (NNS opinions))
+              (NP
+                (ADVP (RB so))
+                (RB prominently) (DT this) (NN time)))))))
+    (ADVP (RB around))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT the) (JJ main) (NN campaign) (NN issue))
+            (PRN (: --)
+              (NP (NN unemployment))
+              (: --)))
+          (VP (VBP isn)
+            (VP (VBN t)
+              (NP (DT a) (`` ``) (JJ social) (NN issue) ('' ''))
+              (SBAR
+                (S
+                  (NP (PRP they))
+                  (VP (MD can)
+                    (VP (NN champion))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Celebrities))
+    (VP (VBP are)
+      (PP (IN in)
+        (NP
+          (NP (DT an) (NN industry))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (ADVP (RB always))
+              (VP (VBZ leads)
+                (PP (TO to)
+                  (NP (NN unemployment)))
+                (SBAR
+                  (S
+                    (NP (DT every) (NN job))
+                    (VP (VBZ ends))))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S (CC But)
+      (NP (PRP they))
+      (ADVP (RB definitely))
+      (VP (VBP aren)
+        (VP (VBN t)
+          (PP (IN as)
+            (ADJP (RB fiscally) (JJ liberal)))
+          (SBAR (IN as)
+            (S
+              (NP (PRP they))
+              (VP (VBP are)
+                (ADJP (RB socially) (JJ liberal))))))))
+    (, ,)
+    (VP (VBD said))
+    (NP
+      (NP (NNP Ange-Mare) (NNP Hancock))
+      (, ,)
+      (NP
+        (NP (NN professor))
+        (PP (IN of)
+          (NP (NNP Political) (NNP Science)))
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NNP University))
+            (PP (IN of)
+              (NP (NNP Southern) (NNP California)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Nonetheless))
+    (, ,)
+    (S
+      (VP (VBG staying)
+        (NP (JJ silent) (NN doesn))))
+    (ADVP (RB t))
+    (VP (VBP mean)
+      (SBAR (IN that)
+        (S
+          (NP (JJ big) (NNS players))
+          (VP (VBP aren) (RB t)
+            (VP (VBG showing)
+              (NP (PRP$ their) (NN support))
+              (ADVP (RB monetarily)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Kiefer) (NNP Sutherland))
+        (, ,)
+        (NP
+          (NP
+            (NP (NNP Jamie) (NNP Foxx))
+            (, ,)
+            (NP (NNP Melanie) (NNP Griffith))
+            (CC and)
+            (NP (NNP Seth) (NNP Rogen)))
+          (NP (DT each))))
+      (VP (VBD donated)
+        (NP ($ $) (CD 30,400))
+        (PP (TO to)
+          (NP (DT the) (JJ Democratic) (NNP National) (NNP Committee)))))
+    (, ,)
+    (NP (NNP George) (NNP Clooney))
+    (VP (VBD donated)
+      (NP ($ $) (CD 5,000))
+      (, ,)
+      (SBAR
+        (S
+          (S
+            (NP (NNP Barbra) (NNP Streisand))
+            (VP (VBD gave)
+              (NP ($ $) (CD 10,000))))
+          (, ,)
+          (CC and)
+          (S
+            (NP (NNP Steven) (NNP Spielberg))
+            (VP (VBD dished)
+              (PRT (RP out))
+              (NP
+                (NP ($ $) (CD 15,200))
+                (, ,)
+                (CONJP (RB as) (RB well))
+                (NP ($ $) (CD 10,000)))
+              (PP (TO to)
+                (NP (DT the) (JJ Democratic) (NNP Congressional) (NNP Campaign))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Meanwhile))
+    (NP (NNP Avatar) (NN director) (NNP James) (NNP Cameron))
+    (VP (VBD gave)
+      (NP
+        (QP ($ $) (CD 1) (CD million)))
+      (PP (TO to)
+        (NP (DT the) (NN campaign)
+          (S
+            (VP (TO to)
+              (VP (VB defeat)
+                (NP
+                  (NP (NNP Proposition) (CD 23))
+                  (, ,)
+                  (NP (DT a) (NNP California) (NN ballot) (NN initiative))))))))
+      (S
+        (VP (TO to)
+          (VP (VB suspend)
+            (NP
+              (NP
+                (NP (DT the) (NN state) (POS 's))
+                (JJ global) (NN warming))
+              (NN law))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (ADVP (NNP Rock))
+    (NP
+      (NP (DT the) (NN Vote) (NN spokesperson))
+      (NP (NNP Maegan) (NNP Carberry)))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (PRP$ her) (NN organization))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ seeks)
+                  (S
+                    (VP (TO to)
+                      (VP
+                        (VP (VB engage))
+                        (CC and)
+                        (VP (VB build)
+                          (NP (JJ political) (NN power))
+                          (PP (IN in)
+                            (NP (JJ young) (NNS people))))))))))
+            (, ,))
+          (VP (VBZ sees)
+            (NP
+              (NP (DT the) (NN celebrity) (NN spirit))
+              (VP
+                (ADVP (RB very) (RB much))
+                (JJ alive)
+                (PP (IN for)
+                  (NP (DT the) (NNS midterms)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP
+          (NP (NNP Plenty))
+          (PP (IN of)
+            (NP (NNS stars))))
+        (VP (VBP have)
+          (VP (VBN worked)
+            (PP (IN with)
+              (NP (PRP us)))
+            (S
+              (NP (DT this) (NN cycle))))))
+      (: ;)
+      (S
+        (NP (PRP it))
+        (VP (VBZ s)
+          (ADVP (RB all) (RB just) (RB much))
+          (ADJP (RBR more) (JJ visible))
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (DT the) (NN country))
+              (VP (VBZ is)
+                (VP (VBN focused)
+                  (PP (IN on)
+                    (NP (DT a) (JJ major) (NN race)))
+                  (PP (IN like)
+                    (NP (DT the) (NN presidency))))))))))
+    (, ,) ('' '')
+    (NP (PRP she))
+    (VP (VBD told)
+      (NP (NNP Pop) (NNP Tarts)))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (DT This))
+      (VP (VBZ is)
+        (PP (IN about)
+          (NP (JJ local) (NNS politics)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (VBP are)
+        (VP (VBG seeing)
+          (S
+            (NP (JJ local) (NNS media) (NNS markets))
+            (VP (VB pick)
+              (PRT (RP up))
+              (NP (PRP$ our) (JJ public) (NN service) (NNS ads)))))))
+    (. .)))
+

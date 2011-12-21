@@ -1,0 +1,502 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP White) (NNP House))
+      (PP (IN on)
+        (NP (NNP Monday))))
+    (VP (VBD rejected)
+      (NP
+        (NP (NNS charges))
+        (SBAR (IN that)
+          (S
+            (NP (NNP President) (NNP Obama))
+            (VP (VBZ is)
+              (VP (VBG traveling)
+                (PP (IN on)
+                  (NP (DT the) (NN taxpayer) (NN dime)))
+                (PP (TO to)
+                  (NP
+                    (NP (NN campaign))
+                    (PP (IN in)
+                      (NP (NN swing) (NNS states)))))
+                (ADVP (RBR more) (RB frequently)))))))
+      (PP (IN than)
+        (NP
+          (NP (DT any))
+          (PP (IN of)
+            (NP (PRP$ his) (NNS predecessors)))))
+      (, ,)
+      (S
+        (VP (VBG saying)
+          (SBAR
+            (S
+              (NP (DT a) (JJ new) (NN study))
+              (VP (VBZ does) (RB n't)
+                (VP (VB take)
+                  (PP (IN into)
+                    (NP (NN account)))
+                  (SBAR (IN that)
+                    (S
+                      (NP (NNP Obama))
+                      (VP (`` ``) (VBD expanded)
+                        (ADVP
+                          (NP (DT the) (JJ political) (NN map))
+                          (RB dramatically))
+                        ('' '')
+                        (PP (IN in)
+                          (NP (CD 2008)))
+                        (SBAR (RB so) (IN that)
+                          (S
+                            (NP
+                              (NP (NNS states))
+                              (VP (RB not)
+                                (ADVP (RB previously))
+                                (VBN considered)
+                                (S
+                                  (NP (NNS battlegrounds)))))
+                            (ADVP (RB now))
+                            (VP (VBP are))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP White) (NNP House) (NN spokesman) (NNP Jay) (NNP Carney))
+    (VP (VBD argued)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (DT a) (NNP Wall) (NNP Street) (NNP Journal) (NN study))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBD showed)
+                  (SBAR
+                    (S
+                      (NP (NNP Obama))
+                      (VP (VBZ has)
+                        (VP (VBN attended)
+                          (NP
+                            (NP (CD 54) (NNS events))
+                            (PP (IN in)
+                              (NP (CD 11) (NN battleground) (NNS states))))
+                          (PP (IN over)
+                            (NP
+                              (NP (CD 42) (NNS days))
+                              (PP (IN between)
+                                (NP
+                                  (NP (NNP Jan.) (CD 1))
+                                  (CC and)
+                                  (NP (NNP Nov.) (CD 17) (, ,) (CD 2011) (, ,))))))))))))))
+          (VP (VBZ includes)
+            (NP (NNS trips))
+            (PP (TO to)
+              (NP
+                (NP (NNS places))
+                (PP (IN like)
+                  (NP (NNP Virginia)))))
+            (, ,)
+            (PP (IN in)
+              (NP
+                (NP
+                  (NP (DT the) (NN capital) (POS 's))
+                  (NN backyard))
+                (, ,)
+                (CC and)
+                (NP (NNP North) (NNP Carolina))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (SBAR
+        (WHNP (WP What))
+        (S
+          (VP (VBD happened)
+            (PP (IN in)
+              (NP (CD 2008))))))
+      (VP (VBD was)
+        (SBAR
+          (S
+            (NP
+              (NP (NNP Barack) (NNP Obama))
+              (, ,)
+              (NP (NNP then-Senator) (NNP Obama))
+              (, ,))
+            (VP (VBD expanded)
+              (NP (DT the) (JJ political) (NN map))
+              (ADVP (RB dramatically)))))))
+    (, ,) ('' '')
+    (NP (NNP Carney))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (ADVP (CC And))
+    (NP
+      (NP (DT every) (NN president))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBZ 's)
+            (VP (VBN occupied)
+              (NP (DT the) (NNP Oval) (NNP Office))
+              (ADVP (RB just))
+              (NP (DT a) (JJ few) (JJ short) (NNS minutes))
+              (PP (IN across)
+                (NP
+                  (NP (DT the) (NN river))
+                  (PP (IN from)
+                    (NP (NNP Virginia))))))))))
+    (VP (VBZ travels)
+      (PP (TO to)
+        (NP (NNP Virginia)))
+      (S (RB frequently)
+        (VP (TO to)
+          (VP (VB hold)
+            (NP (NNS events))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (NNP Carney))
+    (VP (VBD added)
+      (SBAR (IN that)
+        (S
+          (SBAR
+            (WHADVP (WRB when))
+            (S
+              (NP (NNP George) (NNP W.) (NNP Bush))
+              (VP (VBD was)
+                (NP (NN president)))))
+          (, ,)
+          (NP (PRP it))
+          (`` ``)
+          (VP (VBD was) (RB not)
+            (VP (VBN perceived)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (ADJP (JJ possible))
+                    (SBAR (IN that)
+                      (S
+                        (NP (DT a) (NNP Democrat))
+                        (VP (MD could)
+                          (VP (VB win) ('' '')
+                            (NP (NNP Virginia))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (DT the) (JJ same) (NN time)))
+    (, ,)
+    (NP (NNP Carney))
+    (VP (VBD contended) (, ,)
+      (SBAR
+        (S
+          (NP (NNP Bush))
+          (VP (VBD traveled)
+            (ADVP (RBR more) (RB frequently))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (JJ same) (NN time))
+                (NN period)
+                (PP (IN than)
+                  (NP (NNP Obama)))))
+            (PP (TO to)
+              (NP
+                (NP (NNS battlegrounds))
+                (PP (IN like)
+                  (NP (NNP Ohio) (, ,) (NNP Wisconsin)
+                    (CC and)
+                    (NNP Florida)))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (SBAR (IN If)
+        (S
+          (NP
+            (NP (DT every) (NN president))
+            (, ,)
+            (SBAR (IN whether)
+              (S
+                (NP (PRP it))
+                (VP (VBZ 's)
+                  (NP
+                    (NP
+                      (NP (NNP President) (NNP Obama))
+                      (CC or)
+                      (NP (PRP$ his) (NN successor)))
+                    (, ,)
+                    (CC or)
+                    (NP
+                      (NP (DT any) (NN successor))
+                      (PP (IN after)
+                        (NP (WDT that))))))))
+            (, ,))
+          (VP (VBD were)
+            (S
+              (VP (TO to)
+                (VP
+                  (ADVP (RB simply))
+                  (VB say)))))))
+      (, ,)
+      (S (`` `)
+        (S
+          (INTJ (UH Oh))
+          (, ,)
+          (NP (PRP I))
+          (VP (MD ca) (RB n't)
+            (VP (VB travel)
+              (PP (TO to)
+                (NP
+                  (NP (DT any) (NN state))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (MD might)
+                        (VP (VB be)
+                          (VP (VBN contested)
+                            (PP (IN in)
+                              (NP (DT the) (JJ next) (NN election)))))))))))))
+        (, ,) ('' ')
+        (NP (RB then) (DT the) (NN president))
+        (VP (MD would)
+          (VP (VB have)
+            (S
+              (VP (TO to)
+                (VP (VB spend)
+                  (NP
+                    (NP (RBS most))
+                    (PP (IN of)
+                      (NP (PRP$ his) (NN time))))
+                  (ADVP (RB here))
+                  (PP (IN in)
+                    (NP (NNP Washington) (, ,) (NNP D.C.)))))))))
+      (CC And)
+      (S
+        (NP (PRP I))
+        (VP (VBP do) (RB n't)
+          (VP (VB think)
+            (SBAR (IN that)
+              (S
+                (NP (DT any) (NN president))
+                (VP (MD should)
+                  (VP (VB do)
+                    (WHNP (WDT that))))))))))
+    (, ,) ('' '')
+    (NP (NNP Carney))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (VBG According)
+      (PP (TO to)
+        (NP
+          (NP
+            (NP
+              (NP (NNS data))
+              (VP (VBN compiled)
+                (PP (IN by)
+                  (NP
+                    (NP (NNP Brendan) (NNP Doherty))
+                    (, ,)
+                    (NP
+                      (NP (DT a) (NNP U.S.) (NNP Naval) (NNP Academy) (JJ assistant) (NN professor))
+                      (VP (VBN cited)
+                        (PP (IN by)
+                          (NP (DT the) (NNP Journal)))))
+                    (, ,)))))
+            (PP (IN between)
+              (NP (NNP Jan.) (CD 1))))
+          (CC and)
+          (NP
+            (NP (NNP Nov.) (CD 17))
+            (PP (IN of)
+              (NP
+                (NP (PRP$ his) (JJ third) (NN year))
+                (PP (IN in)
+                  (NP (NN office)))))))))
+    (, ,)
+    (NP (NNP Bill) (NNP Clinton))
+    (VP (VBD held)
+      (NP (CD 40) (NNS events))
+      (PP (IN over)
+        (NP (CD 24) (NNS days)))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NNS battlegrounds))
+          (PP (IN of)
+            (NP (PRP$ his) (NN time))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN During)
+      (NP
+        (NP (DT the) (JJ same) (NN period))
+        (PP (IN of)
+          (NP
+            (NP (NNP Bush) (POS 's))
+            (NN administration)))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD held)
+      (NP
+        (NP (CD 49) (NNS events))
+        (PP (IN in)
+          (NP (CD 34) (NNS days)))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (NNP Obama))
+      (VP (VBZ has) (RB certainly)
+        (VP (VBN ramped)
+          (PRT (RP up))
+          (NP (DT the) (NN volume)))))
+    (, ,) ('' '')
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (NNP Doherty))
+            (, ,)
+            (NP
+              (NP (NN author))
+              (PP (IN of)
+                (NP
+                  (NP (DT a) (JJ forthcoming) (NN book))
+                  (VP (VBN called)
+                    (S (`` ``)
+                      (NP
+                        (NP (DT The) (NN Rise))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT the) (NNP President) (POS 's))
+                            (NNP Permanent) (NNP Campaign))))
+                      (, ,) ('' '')))))))
+          (VP (VBD told)
+            (NP (DT the) (NNP Journal))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN research))
+    (VP (VBD found)
+      (SBAR (IN that)
+        (S
+          (NP (NNP Obama))
+          (VP (VBZ has)
+            (VP (VBN traveled)
+              (NP (CD 11) (NNS times))
+              (PP (TO to)
+                (NP
+                  (NP (NNP Virginia))
+                  (, ,)
+                  (NP
+                    (NP
+                      (NP (CD 10))
+                      (PP (TO to)
+                        (NP (NNP Florida))))
+                    (, ,)
+                    (NP
+                      (NP (CD eight))
+                      (PP (TO to)
+                        (NP (NNP Pennylvania))))
+                    (, ,)
+                    (NP
+                      (NP (CD seven))
+                      (PP (TO to)
+                        (NP (NNP North) (NNP Carolina)))))
+                  (, ,)
+                  (CC and)
+                  (NP (CD four) (NNS times))))
+              (PP (TO to)
+                (NP (DT both) (NNP Ohio)
+                  (CC and)
+                  (NNP Missouri)))
+              (PP (IN during)
+                (NP
+                  (NP (DT the) (NN period))
+                  (VP (VBN cited)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (ADVP (RB also))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (PP (TO to)
+            (NP (NNP Iowa)
+              (CC and)
+              (NNP Michigan)))
+          (NP (CD three) (NNS times))))
+      (CC and)
+      (VP
+        (PP (TO to)
+          (NP (NNP Nevada)))
+        (ADVP (RB twice))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (ADVP (RB once))
+        (PP (TO to)
+          (NP (NNP Indiana)
+            (CC and)
+            (NNP Wisconsin)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Last) (NN week))
+    (, ,)
+    (NP (NNP Obama))
+    (VP (VBD traveled)
+      (PP (TO to)
+        (NP
+          (NP (NNP New) (NNP Hampshire))
+          (, ,)
+          (NP (DT the) (JJ 12th) (NN battleground) (NN state))
+          (CC and)
+          (NP (PRP$ his) (JJ 43rd) (NN day))))
+      (PP (IN out)
+        (PP (IN of)
+          (NP (NNP Washington)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ heads)
+      (PP (TO to)
+        (NP
+          (NP (NNP Scranton))
+          (, ,)
+          (NP (NNP Pa.))
+          (, ,)))
+      (PP (IN on)
+        (NP (NNP Wednesday)))
+      (PP (IN for)
+        (NP (PRP$ his) (JJ 56th) (NN event))))
+    (. .)))
+
+(ROOT
+  (FRAG (CC and)
+    (VP
+      (NP (PRP$ his) (JJ 44th) (NN day))
+      (PP (IN on)
+        (NP (DT the) (NN trail))))
+    (. .)))
+

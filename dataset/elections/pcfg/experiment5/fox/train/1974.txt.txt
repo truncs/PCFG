@@ -1,0 +1,498 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Forty-four) (NN percent))
+      (PP (IN of)
+        (NP (JJ American) (NNS voters))))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (NNP President) (NNP Obama))
+          (VP (VBZ deserves)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (VP (VBN re-elected) (, ,)
+                    (SBAR (IN while)
+                      (S
+                        (ADVP (RB slightly) (RBR more))
+                        (, ,)
+                        (NP (CD 48) (NN percent))
+                        (VP (VBP think)
+                          (SBAR
+                            (S
+                              (NP (DT the) (NN country))
+                              (VP (MD would)
+                                (VP (VB be)
+                                  (ADJP (JJR better) (RP off))
+                                  (PP (IN with)
+                                    (NP (NN someone) (RB else))))))))))
+                    (, ,)
+                    (PP (VBG according)
+                      (PP (TO to)
+                        (NP
+                          (NP (DT a) (NNP Fox) (NNP News) (NN poll))
+                          (VP (VBN released)
+                            (NP (NNP Thursday))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (NNP December))
+        (, ,)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (DT the) (NNP Fox) (NN poll))
+            (ADVP (JJ last))
+            (VP (VBD asked)
+              (NP (DT that) (NN question)))))))
+    (, ,)
+    (NP
+      (NP (CD 35) (NN percent))
+      (PP (IN of)
+        (NP (NNS voters))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD deserved)
+            (S
+              (VP (TO to)
+                (VP (VB win)
+                  (NP (NN re-election)))))
+            (, ,)
+            (SBAR (IN while)
+              (S
+                (NP (DT a) (CD 53) (NN percent) (NN majority))
+                (VP (VBD disagreed))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN bump))
+        (PP (IN in)
+          (NP (NNP Obama))))
+      (VP (VBZ s)
+        (SBAR
+          (S
+            (NP (JJ re-elect) (NN number))
+            (VP (VBZ comes)
+              (PP
+                (ADVP (RB mainly))
+                (IN from)
+                (NP (NNPS Democrats))))))))
+    (: :)
+    (S
+      (NP (CD 78) (NN percent))
+      (VP (VBP think)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (VBZ deserves)
+              (NP
+                (NP (NN re-election))
+                (VP
+                  (ADVP (RB now))
+                  (VBN compared)
+                  (PP (TO to)
+                    (NP (CD 67) (NN percent))))
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBD thought)
+                      (ADVP (RB so))
+                      (PP (IN in)
+                        (NP (NNP December))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (QP (IN About) (CD one)))
+      (PP (IN in)
+        (NP (CD six) (NNPS Democrats))))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (DT the) (NN country))
+          (VP (MD would)
+            (VP (VB be)
+              (ADJP
+                (ADJP (JJR better) (RP off)
+                  (PP (IN with)
+                    (NP (NN someone) (RB else))))
+                (PP (IN as)
+                  (NP (NN president)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJS Most) (NNS Republicans))
+      (CC and)
+      (NP
+        (NP (NN half))
+        (PP (IN of)
+          (NP (NNS independents)
+            (S
+              (VP (VB don)
+                (NP (NN t))))))))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (NNP Obama))
+          (VP (VBZ deserves)
+            (NP (NN re-election))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Click)
+      (ADVP (RB here))
+      (PP (IN for)
+        (NP (JJ complete) (JJ poll) (NNS results))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP President) (NNP Obama))
+    (VP (VBD announced)
+      (NP (PRP$ his) (CD 2012) (NN re-election) (NN campaign))
+      (NP (NNP Monday))
+      (, ,)
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN middle))
+          (PP (IN of)
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (DT the) (NNP Fox) (NNP News) (NN poll))
+                (VP (VBD was)
+                  (VP (VBG being)
+                    (VP (VBN conducted))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN At)
+      (NP (CD 44) (NN percent)))
+    (, ,)
+    (NP (DT the) (NN president))
+    (VP (VBZ s)
+      (SBAR
+        (S
+          (NP (JJ re-elect) (NN number))
+          (VP (VBZ is)
+            (ADJP
+              (ADJP (RB slightly) (JJR higher))
+              (PP (IN than)
+                (NP
+                  (NP (DT the) (NN number))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNS voters))
+                      (SBAR
+                        (WHNP (WP who))
+                        (S
+                          (VP (VBP approve)
+                            (PP (IN of)
+                              (SBAR
+                                (WHADVP (WRB how))
+                                (S
+                                  (NP (PRP he))
+                                  (VP (VBZ s)
+                                    (VP (VBG handling)
+                                      (NP
+                                        (NP (DT the) (NN economy))
+                                        (, ,)
+                                        (NP (NN job) (NN creation))
+                                        (, ,)
+                                        (CC and)
+                                        (NP (NNP Libya))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT All))
+        (PP (IN in)
+          (NP (DT all)))
+        (, ,)
+        (SBAR
+          (S
+            (NP
+              (NP (CD 49) (NN percent))
+              (PP (IN of)
+                (NP (NNS voters))))
+            (VP (VB approve)))))
+      (PP (IN of)
+        (NP (NNP President) (NNP Obama))))
+    (VP (VBZ s)
+      (NP
+        (NP (NN job) (NN performance))
+        (CC and)
+        (NP (CD 47) (NN percent) (NN disapprove))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Last) (NN month))
+    (, ,)
+    (NP (CD 49) (NN percent))
+    (VP (VBD approved)
+      (PP (CC and)
+        (NP
+          (NP (CD 44) (NN percent))
+          (VP (VBN disapproved)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN majority))
+      (PP (IN of)
+        (NP
+          (NP (NNS voters))
+          (: --)
+          (NP (CD 56) (NN percent))
+          (: --))))
+    (VP (VBZ believes)
+      (SBAR
+        (S
+          (NP (NNP Obama))
+          (VP (VBZ enjoys)
+            (VP (VBG being)
+              (NP (NN president)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP One-third))
+    (VP (VBZ believes)
+      (SBAR (RB instead) (IN that)
+        (S
+          (NP (NNP Obama))
+          (VP (VBZ s)
+            (VP (VBN frustrated)
+              (NP
+                (NP (DT a) (NN lot))
+                (PP (IN of)
+                  (NP (DT the) (NN time)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT a)
+          (ADJP (RB fairly) (JJ rare))
+          (NN instance))
+        (PP (IN of)
+          (NP (JJ partisan) (NN agreement)))))
+    (NP (DT these) (NNS days))
+    (, ,)
+    (NP
+      (NP (NNS majorities))
+      (PP (IN of)
+        (NP
+          (NP (NNPS Democrats))
+          (, ,)
+          (NP (NNPS Republicans))
+          (CC and)
+          (NP
+            (NP (NN half))
+            (PP (IN of)
+              (NP (NNS independents)))))))
+    (VP (VBP agree)
+      (SBAR (IN that)
+        (S
+          (NP (NNP Obama))
+          (VP (VBZ likes)
+            (NP (PRP$ his) (NN job))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN addition)))
+    (, ,)
+    (SBAR (IN while)
+      (S
+        (NP
+          (NP (CD 49) (NN percent))
+          (PP (IN of)
+            (NP (NNPS Democrats))))
+        (VP (VBP are)
+          (VP (VBG looking)
+            (ADVP (RB forward))
+            (PP (TO to)
+              (NP (DT the) (CD 2012) (JJ presidential) (NN campaign)))))))
+    (, ,)
+    (NP
+      (NP
+        (QP (IN over) (PDT half)))
+      (PP (IN of)
+        (NP (NNS Republicans)
+          (CC and)
+          (NNS independents))))
+    (VP (VBP are)
+      (VP (VBG dreading)
+        (NP (PRP it))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Potential) (NNP GOP) (CD 2012) (NNP ContendersOne))
+    (NP
+      (NP (NN thing))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (MD could)
+            (VP (VB be)
+              (S
+                (VP
+                  (VP (VBG helping)
+                    (SBAR
+                      (S
+                        (NP (DT the) (NN president))
+                        (VP (VBZ s)
+                          (NP (JJ re-elect) (NN number))))))
+                  (CC and)
+                  (VP (VBG dampening)
+                    (NP
+                      (NP (JJ Republican) (NN enthusiasm))
+                      (PP (IN for)
+                        (NP (DT the) (CD 2012) (NN campaign))))))))))))
+    (VP (VBZ is)
+      (ADVP (RB not) (RB only))
+      (NP
+        (NP (DT the) (NN absence))
+        (PP (IN of)
+          (NP
+            (NP (DT a) (JJ specific) (NN opponent))
+            (, ,)
+            (CONJP (CC but)
+              (RB also))
+            (NP
+              (NP (DT the) (NN disappointment))
+              (PP (IN in)
+                (NP (JJ potential) (NNS prospects))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NN Half))
+        (PP (IN of)
+          (NP (NNPS Republicans))))
+      (CC and)
+      (NP
+        (NP
+          (QP (IN over) (PDT half)))
+        (PP (IN of)
+          (NP (NNS conservatives)))))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (VP (VBN unimpressed)
+              (PP (IN with)
+                (NP
+                  (NP (DT the) (NNPS Republicans))
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (VBP have)
+                        (VP (VBN expressed)
+                          (NP (DT an) (NN interest))
+                          (PP (IN in)
+                            (S
+                              (VP (VBG challenging)
+                                (NP (NNP Obama))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (QP (JJR More) (IN than) (CD seven)))
+      (PP (IN in)
+        (NP (CD 10) (NNS independents))))
+    (ADVP (RB also))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (VP
+              (ADVP (RB not))
+              (VBN impressed)
+              (PP (IN with)
+                (NP (JJ possible) (JJ Republican) (NNS challengers))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Among)
+      (NP (JJ political) (NNS groups)))
+    (, ,)
+    (NP (DT the) (NNP Tea) (NNP Party))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ only) (NN group))
+        (PP (IN with)
+          (NP
+            (NP (JJR more) (NNS people))
+            (VP (VBN impressed)
+              (PP (IN than)
+                (S
+                  (VP (VBN unimpressed)
+                    (PP (IN with)
+                      (NP
+                        (NP (DT the) (NN list))
+                        (PP (IN of)
+                          (NP
+                            (ADJP (JJ potential)
+                              (NP (CD 2012)))
+                            (JJ Republican) (NNS contenders)))))))))))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHADVP (WRB When))
+    (S
+      (NP (JJ Republican) (NNS voters))
+      (VP (VBP are)
+        (VP (VBN read)
+          (NP
+            (NP (DT a) (NN list))
+            (PP (IN of)
+              (NP (JJ potential) (NNS candidates))))
+          (PP (IN for)
+            (NP
+              (NP (DT the) (CD 2012) (NN nomination))
+              (, ,)
+              (NP
+                (NP (JJ former) (NNP Arkansas) (NNP Gov.) (NNP Mike) (NNP Huckabee))
+                (CC and)
+                (NP (JJ former) (NNP Mass.))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Gov.) (NNP Mitt) (NNP Romney))
+    (VP (VBP are)
+      (NP (DT the) (JJ top) (CD two) (NNS choices)))
+    (. .)))
+

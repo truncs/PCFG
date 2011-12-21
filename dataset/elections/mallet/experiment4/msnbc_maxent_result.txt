@@ -1,0 +1,10 @@
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/msnbc/msnbc_pres2107.txt	cnn	5.387198741337969E-4	fox	0.9994612801258662
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/msnbc/msnbc_pres2117.txt	cnn	0.9160552363873735	fox	0.08394476361262643
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/msnbc/msnbc_pres2140.txt	cnn	0.960207981548605	fox	0.039792018451395
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/msnbc/msnbc_pres2122.txt	cnn	0.32182091841542143	fox	0.6781790815845785
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/msnbc/msnbc_pres2125.txt	cnn	0.9655936499806655	fox	0.03440635001933432
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/msnbc/msnbc_pres2106.txt	cnn	0.1833996954011106	fox	0.8166003045988893
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/msnbc/msnbc_pres2123.txt	cnn	0.9222514955950971	fox	0.07774850440490286
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/msnbc/msnbc_pres2153.txt	cnn	0.0689953786806716	fox	0.9310046213193285
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/msnbc/msnbc_pres2114.txt	cnn	0.9333404735087659	fox	0.066659526491234
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/msnbc/msnbc_pres2148.txt	cnn	0.19849726553066646	fox	0.8015027344693335

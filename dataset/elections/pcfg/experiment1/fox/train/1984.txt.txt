@@ -1,0 +1,526 @@
+(ROOT
+  (S
+    (S
+      (VP (VBG Countering)
+        (NP (JJ conventional) (NN wisdom))
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NNP President) (NNP Obama) (POS 's))
+              (JJ foreign) (NN policy) (NNS successes))
+            (VP (VB bolster)
+              (NP
+                (NP
+                  (NP
+                    (NP (DT the) (NN president) (POS 's))
+                    (NNS credentials))
+                  (ADVP (RB ahead)))
+                (PP (IN of)
+                  (NP (DT the) (CD 2012) (NN election)))))))))
+    (, ,)
+    (NP (NNP Sen.) (NNP Lindsey) (NNP Graham))
+    (VP (VBD said)
+      (NP (NNP Sunday))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (JJ Republican) (JJ presidential) (NNS candidates))
+          (VP (MD must)
+            (VP (VB be)
+              (ADJP (RBR more) (JJ forceful))
+              (PP (IN in)
+                (S
+                  (VP (VBG challenging)
+                    (NP (PRP$ his) (NNS decisions))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (PP (TO To)
+        (NP (DT the) (NNP Republican) (NNP Party))))
+    (: :)
+    (NP (JJ national) (NN security))
+    (VP (VBZ matters) (, ,)
+      (S
+        (VP (VB step)
+          (PRT (RP up))
+          (PP (IN on)
+            (NP (PRP it))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP 've)
+      (VP (VBN got)
+        (NP (DT a) (NNS jobs) (NN problem))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP We))
+      (VP (VBP 've)
+        (VP (VBN got)
+          (NP
+            (NP (DT a) (JJ national) (NN security) (NN problem))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ is)
+                  (VP (VBG growing)
+                    (PP (IN by)
+                      (NP (DT the) (NN day)))))))))))
+    (, ,) ('' '')
+    (NP
+      (NP (NNP Graham))
+      (, ,)
+      (NP (NNP R-S.C.))
+      (, ,))
+    (VP (VBD told)
+      (NP (NNP Fox) (NNP News))
+      (NP (NNP Sunday)))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Graham))
+      (VP (VBD credited)
+        (NP (DT the) (NN president))
+        (PP (IN with)
+          (S
+            (VP
+              (VP (VBG killing)
+                (NP (NNP Al) (NNP Qaeda) (NN leader) (NNP Usama) (NNP bin) (NNP Laden)))
+              (CC and)
+              (VP (VBG supporting)
+                (NP
+                  (NP (DT the) (VB overthrow))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNP Libya) (POS 's))
+                      (NNP Muammar) (NNP Qaddafi))))))))))
+    (, ,)
+    (CC but)
+    (S (, ,)
+      (PP (IN by)
+        (NP
+          (NP (NNP Graham) (POS 's))
+          (NN account)))
+      (, ,)
+      (NP (DT the) (NN president))
+      (VP (VBZ has)
+        (VP (VBN failed)
+          (PP (IN by)
+            (S
+              (VP (VBG allowing)
+                (S
+                  (NP (NNP Tehran))
+                  (VP (TO to)
+                    (VP
+                      (VP (VB get)
+                        (NP (DT a) (NN leg))
+                        (PRT (RP up))
+                        (PP (IN in)
+                          (NP (NNP Iraq))))
+                      (CC and)
+                      (VP (VB get)
+                        (ADJP
+                          (NP (DT that) (RB much))
+                          (RBR closer)
+                          (PP (TO to)
+                            (NP (JJ nuclear) (NNS weapons))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (NNP Obama))
+        (VP (VBZ has)
+          (VP (VBN thrown)
+            (NP (NNP Israel))
+            (`` ``)
+            (PP (IN under)
+              (NP (DT the) (NN bus))))))
+      (, ,) ('' '')
+      (NP (NNP Graham))
+      (VP (VBD said)))
+    (: ;)
+    (S
+      (NP (PRP he))
+      (VP
+        (VP (VBZ has)
+          (VP (VBN blown)
+            (NP (PRP$ his) (NN policy))
+            (PP (IN on)
+              (NP (DT the) (NNP Guantanamo) (NNP Bay) (NN detention) (NN facility)))))
+        (CC and)
+        (VP (VBZ has)
+          (VP (VBN made)
+            (NP (DT a)
+              (ADJP (RB politically) (JJ expedient))
+              (NN decision)
+              (S
+                (VP (TO to)
+                  (VP (VB remove)
+                    (NP (NNP U.S.) (NNS troops))
+                    (PP (IN from)
+                      (NP (NNP Afghanistan)))
+                    (PP (IN by)
+                      (NP (NNP September) (CD 2012)))
+                    (, ,)
+                    (PP (IN before)
+                      (NP (DT the) (NN election)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Obama) (POS 's))
+        (NNS decisions))
+      (VP (VBP are)
+        (VP (VBG being) (`` ``)
+          (VP (VBN run)
+            (PRT (RP out))
+            (PP (IN of)
+              (NP
+                (NP (NNP Chicago))
+                (, ,) (RB not)
+                (NP (NNP Washington))))))))
+    (, ,) ('' '')
+    (NP (NNP Graham))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (PP (IN At)
+      (NP
+        (NP (DT the) (NN end))
+        (PP (IN of)
+          (NP (DT the) (NN day)))))
+    (NP (DT these))
+    (VP (VBP are)
+      (NP (NNS decisions))
+      (SBAR
+        (S
+          (NP (NNP President) (NNP Obama))
+          (VP (VBZ has)
+            (VP (VBN made))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP I))
+        (VP (VBP think)
+          (SBAR
+            (S
+              (NP (PRP they))
+              (VP (VBP are)
+                (ADJP (RB strategically) (JJ unsound)))))))
+      (CC and)
+      (S
+        (NP (PRP I))
+        (VP (VBP think)
+          (SBAR
+            (S
+              (NP (PRP we))
+              (VP (MD 'll)
+                (VP (VB need)
+                  (S
+                    (VP (TO to)
+                      (VP
+                        (VP (VB step)
+                          (PRT (RP up)))
+                        (CC and)
+                        (VP (VB challenge)
+                          (NP (PRP him)))))))))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN senator))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBZ 's)
+            (VP (VBN been)
+              (VP
+                (ADVP (RB deeply))
+                (VBN involved)
+                (PP (IN in)
+                  (NP (NNP U.S.) (JJ foreign) (NN policy)))
+                (PP (IN over)
+                  (NP (DT the) (JJ last) (CD 10) (NNS years)))))))))
+    (VP (VBD said)
+      (SBAR
+        (S (`` ``)
+          (S
+            (ADVP (RB not))
+            (VP (VBG being)
+              (ADJP (JJ able)
+                (S
+                  (VP (TO to)
+                    (VP (VB close)
+                      (NP (DT the) (NN deal))
+                      (PP (IN in)
+                        (NP (NNP Iraq)))))))))
+          ('' '')
+          (VP (VBZ is)
+            (NP (DT a) (JJ grave) (JJ strategic) (NN error))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Graham))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (S
+            (VP (VBG leaving)
+              (NP (NNP Iraq))
+              (ADVP (RB altogether))
+              (PP (IN after)
+                (NP
+                  (NP (DT the) (JJ top) (NNP U.S.) (JJ military) (NN commander))
+                  (SBAR
+                    (S
+                      (NP (EX there))
+                      (VP (VBD warned)
+                        (SBAR (IN that)
+                          (S
+                            (NP
+                              (QP (CD 15,000-18) (CD ,000))
+                              (NNS troops))
+                            (VP (MD should)
+                              (VP (VB remain)
+                                (S
+                                  (VP (TO to) (`` ``)
+                                    (VP (VB secure)
+                                      (NP
+                                        (NP (DT the) (NNS gains))
+                                        (SBAR
+                                          (S
+                                            (NP (PRP we))
+                                            (VP (VBD fought)
+                                              (PP (IN for)))))))
+                                    ('' ''))))))))))))))
+          (VP (VBZ is)
+            (ADJP (`` ``) (RB pretty) (JJ disappointing))))))
+    (. .) ('' '')))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP He))
+      (VP (VBD ended)
+        (NP (NNP Iraq))
+        (ADVP (RB poorly))))
+    (, ,)
+    (VP (VBD fumbled))
+    (NP
+      (NP (DT the) (NN ball) (NN inside))
+      (PP (IN of)
+        (NP (DT the) (CD 10))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (PRP I))
+        (VP (VBP hope)
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBP 'm)
+                (ADJP (JJ wrong)
+                  (PP (IN about)
+                    (SBAR
+                      (WHNP (WP what))
+                      (S
+                        (VP (VBZ happens)
+                          (PP (IN in)
+                            (NP (NNP Iraq)))))))))))))
+      (, ,)
+      (CC but)
+      (S
+        (NP (PRP they))
+        (VP (VBP 're)
+          (VP (VBG dancing)
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NNS streets))
+                (PP (IN in)
+                  (NP (NNP Tehran)))))))))
+    (, ,) ('' '')
+    (NP (NNP Graham))
+    (VP (VBD told)
+      (S (`` ``)
+        (NP (NNP Fox) (NNP News)))
+      (NP (NNP Sunday)))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S (CC But)
+      (NP
+        (NP
+          (NP (NNP Obama) (POS 's))
+          (NX
+            (S
+              (VP (VBG pulling)
+                (NP (NNP U.S.) (NNS troops))
+                (PRT (RP out))))))
+        (PP (IN of)
+          (NP (NNP Iraq))))
+      (VP (VBZ is) (RB not)
+        (ADVP (RB only))
+        (SBAR
+          (S
+            (NP (DT a) (NN campaign))
+            (VP (VBP promise)
+              (VP (VBN kept)
+                (PP (IN by)
+                  (NP (DT this) (NN president)))))))
+        (, ,)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ is)
+              (ADVP (RB also))
+              (NP
+                (NP (DT the) (NN fulfillment))
+                (PP (IN of)
+                  (NP
+                    (NP
+                      (NP (DT the) (NNP Bush) (NN administration) (POS 's))
+                      (NN commitment))
+                    (PP (TO to)
+                      (S
+                        (VP (VBG withdrawing)
+                          (NP (NNS troops))
+                          (PP (IN by)
+                            (NP
+                              (NP (DT the) (NN end))
+                              (PP (IN of)
+                                (NP (CD 2011))))))))))))))))
+    (, ,)
+    (NP
+      (NP (NNP Secretary))
+      (PP (IN of)
+        (NP (NNP State) (NNP Hillary) (NNP Clinton))))
+    (VP (VBD said)
+      (NP (NNP Sunday)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Speaking)
+        (PP (IN from)
+          (NP
+            (NP (NNP Uzbekistan))
+            (, ,)
+            (NP (PRP$ her) (JJS latest) (NN stop))))
+        (PP (IN on)
+          (NP (DT a) (JJ multinational) (NN trip)))))
+    (, ,)
+    (NP (NNP Clinton))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN president))
+          (ADVP (RB also))
+          (`` ``)
+          (VP (VBD fulfilled)
+            (NP
+              (NP (DT the) (NN commitment))
+              (VP (VBN requested)
+                (PP (IN by)
+                  (NP (DT the) (NNPS Iraqis)))))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (NNP Iraq))
+      (VP (VBZ is)
+        (NP (DT a) (JJ sovereign) (JJ independent) (NN nation))
+        (, ,)
+        (PP (IN with)
+          (SBAR
+            (WHNP (WP whom))
+            (S
+              (S
+                (NP (PRP we))
+                (VP (VBP have)
+                  (NP
+                    (ADJP (RB very) (JJ good))
+                    (NNS relations))))
+              (CC and)
+              (S
+                (NP (PRP we))
+                (VP (VBP expect)
+                  (S
+                    (VP (TO to)
+                      (VP (VB have)
+                        (VP (VBG continuing)
+                          (NP
+                            (NP (JJ strong) (NN security) (NN relationship))
+                            (PP (IN for)
+                              (NP (JJ many) (NNS years))))
+                          (S
+                            (VP (TO to)
+                              (VP (VB come)))))))))))))))
+    (, ,) ('' '')
+    (NP (NNP Clinton))
+    (VP (VBD told)
+      (S (`` ``)
+        (NP (NNP Fox) (NNP News)))
+      (NP (NNP Sunday)))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (NNP Clinton))
+    (VP
+      (VP (VBD disputed)
+        (NP
+          (NP (NNS charges))
+          (SBAR (IN that)
+            (S
+              (NP (DT the) (NNP U.S.))
+              (VP (VBZ is)
+                (VP (VBG bailing)
+                  (PP (IN on)
+                    (NP (NNP Iraq)))
+                  (PP (IN at)
+                    (NP
+                      (NP (DT a) (NN time))
+                      (SBAR
+                        (WHADVP (WRB when))
+                        (S
+                          (NP (PRP$ its) (NN ability)
+                            (S
+                              (VP (TO to)
+                                (VP (VB secure)
+                                  (NP (PRP$ its) (JJ own) (NNS borders))))))
+                          (VP (VBZ is)
+                            (ADJP (JJ questionable)))))))))))))
+      (CC and)
+      (VP (VB deflect)
+        (NP
+          (NP (NNP Iran) (POS 's))
+          (NN influence))))
+    (. .)))
+

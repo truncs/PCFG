@@ -1,0 +1,479 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Florida) (NNP Senator) (NNP Marco) (NNP Rubio))
+      (, ,)
+      (NP
+        (NP (DT a) (JJ breakout) (NN star))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (CD 2010) (NN election))
+            (CC and)
+            (NP
+              (NP (DT a) (NN favorite))
+              (PP (IN of)
+                (NP (DT the) (NNP Tea) (NNP Party) (NN movement)))))))
+      (, ,))
+    (VP (VBD kept)
+      (NP (DT a) (JJ low) (NN profile))
+      (PP (IN during)
+        (NP
+          (NP (PRP$ his) (JJ first) (CD three) (NNS months))
+          (PP (IN in)
+            (NP (DT the) (NNP Senate))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ 's)
+      (VP (VBN begun)
+        (S
+          (VP (TO to)
+            (VP (VB change))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (DT a) (NN matter))
+        (PP (IN of)
+          (NP (NNS days)))))
+    (, ,)
+    (NP
+      (NP (NNP Rubio))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP
+            (VP (VBD vanquished)
+              (NP
+                (NP (JJ former) (NNP Florida) (NNP Gov.) (NNP Charlie) (NNP Crist))
+                (PP (IN for)
+                  (NP (DT the) (NNP Senate))))
+              (NP (JJ last) (NN year)))
+            (CC and)
+            (VP (VBN catapulted)
+              (PP (TO to)
+                (NP
+                  (NP (NN fame))
+                  (PP (IN in)
+                    (NP (DT the) (NNP Republican) (NNP Party)))))))))
+      (, ,))
+    (VP
+      (VP (VBZ has)
+        (VP (VBN registered)
+          (NP
+            (ADJP (NN opposition)
+              (PP (TO to)
+                (S
+                  (VP (VBG raising)
+                    (NP (DT the) (JJ federal) (NN debt) (NN ceiling))
+                    (PP (IN in)
+                      (NP (DT a) (JJ high-profile) (NN newspaper) (NN opinion)))))))
+            (NN piece))))
+      (CC and)
+      (VP (VBN called)
+        (PP (IN on)
+          (NP (NNS lawmakers)))
+        (S
+          (VP (TO to)
+            (VP (VB authorize)
+              (NP (NN force))
+              (S
+                (VP (TO to)
+                  (VP (VB capture)
+                    (NP (JJ Libyan) (NN leader) (NNP Muammar) (NNP al-Qaddafi))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Rubio))
+      (, ,)
+      (NP
+        (NP (DT the) (NN son))
+        (PP (IN of)
+          (NP (JJ Cuban) (NNS exiles))))
+      (, ,))
+    (VP (VBD garnered)
+      (NP (NN attention))
+      (NP (JJ last) (NN year))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP he))
+          (VP
+            (VP (VBD challenged)
+              (NP (NNP Crist))
+              (PP (IN for)
+                (NP
+                  (NP (NNP Florida) (POS 's))
+                  (JJ open) (NNP Senate) (NN seat))))
+            (CC and)
+            (VP (VBD defied)
+              (NP (JJ conventional) (NN wisdom))
+              (PP (IN by)
+                (S
+                  (VP
+                    (VP (VBG winning)
+                      (NP (DT the) (NNP Republican) (NN primary)))
+                    (CC and)
+                    (VP (VBG fending)
+                      (PRT (RP off))
+                      (NP
+                        (NP (NNP Crist) (POS 's))
+                        (JJ independent) (NN bid)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ His) (NN election))
+    (VP (VBD created)
+      (NP
+        (NP (DT an) (JJ intense) (NN following))
+        (PP (IN among)
+          (NP
+            (NP (NNP Tea) (NNP Party) (NNS activists))
+            (, ,)
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBD admired)
+                  (NP (PRP$ his) (NNS calls))
+                  (S
+                    (VP (TO to)
+                      (VP (VB curb)
+                        (NP
+                          (NP (JJ federal) (NN spending))
+                          (CC and)
+                          (NP
+                            (NP (JJ stoked) (NN speculation))
+                            (PP (IN of)
+                              (NP (DT a) (JJ future) (JJ presidential) (NN bid)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ 39-year-old)
+        (ADJP (JJ former))
+        (NNP Florida) (NNP House) (NN speaker))
+      (VP (VBD had)
+        (VP (VBN followed)
+          (S
+            (NP
+              (NP (DT a) (NN path))
+              (VP (VBN forged)
+                (PP (IN by)
+                  (NP (JJ one-time) (NNS senators)))))
+            (NP
+              (NP (NNP President) (NNP Obama))
+              (CC and)
+              (NP
+                (NP (NNP Secretary))
+                (PP (IN of)
+                  (NP (NNP State) (NNP Hillary) (NNP Clinton)))))))))
+    (: --)
+    (S
+      (VP (VB keep)
+        (NP (PRP$ your) (NN head))
+        (PRT (RP down))
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (PRP you))
+            (VP
+              (VP (VBP reach)
+                (NP (DT the) (NNP Senate))
+                (, ,)
+                (S
+                  (VP (VB learn)
+                    (NP (DT the) (NNS ropes)))))
+              (CC and)
+              (VP (VBP do) (RB n't)
+                (VP (VB make)
+                  (NP (NNS waves)))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (NNS aides))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP Rubio))
+          (VP (VBD felt)
+            (VP (VBN compelled)
+              (S
+                (VP (TO to)
+                  (VP (VB speak)
+                    (NP (PRP$ his) (NN mind))
+                    (SBAR (IN as)
+                      (S
+                        (NP (DT the) (NNP Senate))
+                        (VP (VBD moved)
+                          (ADVP (RBR closer)
+                            (PP (TO to)
+                              (S
+                                (VP (VBG considering)
+                                  (NP
+                                    (NP (DT a) (NN plan)
+                                      (S
+                                        (VP (TO to)
+                                          (VP (VB raise)
+                                            (NP (DT the) (JJ federal) (NN debt) (NN ceiling))))))
+                                    (, ,)
+                                    (NP (DT a) (NN move)))))))
+                          (SBAR
+                            (S
+                              (NP (JJS most) (NNS conservatives))
+                              (VP (VBP oppose)))))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (SBAR
+        (WHADVP (WRB When))
+        (S
+          (NP (PRP he))
+          (ADVP (RB first))
+          (VP (VBD got)
+            (PP (TO to)
+              (NP (DT the) (NNP Senate))))))
+      (, ,)
+      (NP (EX there))
+      (VP (VBD was)
+        (NP (DT a) (NN lot)
+          (S
+            (VP (TO to)
+              (VP (VB absorb)
+                (ADVP (RB very) (RB quickly))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Todd) (NNP Harris))
+      (, ,)
+      (NP
+        (NP (DT a) (JJ senior) (NN campaign) (NN strategist))
+        (PP (IN for)
+          (NP (NNP Rubio)))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (PP (IN At)
+      (NP (DT the) (JJ same) (NN time)))
+    (, ,)
+    (NP (EX there))
+    (VP (VBD was)
+      (NP (DT no) (NN way))
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD was)
+            (VP (VBG going)
+              (S
+                (VP (TO to)
+                  (VP (VB allow)
+                    (S
+                      (NP
+                        (NP (DT the) (NN fight))
+                        (PP (IN over)
+                          (NP (DT the) (NN debt) (NN limit))))
+                      (VP (TO to)
+                        (VP
+                          (VP (VB come))
+                          (CC and)
+                          (VP (VB go)
+                            (PP (IN without)
+                              (S
+                                (VP (VBG playing)
+                                  (NP (DT a) (JJ key) (NN role)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (DT The) (NNP Treasury) (NNP Department))
+      (VP (VBZ estimates)
+        (SBAR
+          (S
+            (NP (DT the) (NN government))
+            (VP (MD will)
+              (VP (VB reach)
+                (NP (DT the)
+                  (ADJP
+                    (QP ($ $) (CD 14.3) (CD trillion)))
+                  (NN debt) (NN ceiling))
+                (ADVP (RB sometime))
+                (PP (IN between)
+                  (NP
+                    (NP (NNP April) (CD 15))
+                    (CC and)
+                    (NP (NNP May) (CD 31))))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NNP White) (NNP House))
+      (VP (VBZ has)
+        (VP (VBN warned)
+          (SBAR (IN that)
+            (S
+              (NP (PRP it))
+              (VP (MD could)
+                (VP
+                  (VP (VB lead)
+                    (PP (TO to)
+                      (NP
+                        (NP (DT a) (NN default))
+                        (PP (IN on)
+                          (NP (DT the) (JJ national) (NN debt))))))
+                  (CC and)
+                  (VP (VB harm)
+                    (NP (DT the) (NN economy))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (PP (IN in)
+      (NP (DT a) (NNP Wall) (NNP Street) (NNP Journal) (NN article)))
+    (, ,)
+    (NP (NNP Rubio))
+    (VP (VBD wrote)
+      (SBAR (IN that)
+        (S
+          (NP (PRP he))
+          (VP (MD would)
+            (VP (VB vote)
+              (PP (IN against)
+                (NP
+                  (NP (DT an) (NN increase))
+                  (PP (IN in)
+                    (NP (DT the) (NN debt) (NN limit)))))
+              (SBAR (IN unless)
+                (S (`` ``)
+                  (S
+                    (NP (PRP it))
+                    (VP (VBZ is)
+                      (NP (DT the) (JJ last) (CD one))
+                      (SBAR
+                        (S
+                          (NP (PRP we))
+                          (ADVP (RB ever))
+                          (VP (VB authorize))))))
+                  ('' '')
+                  (CC and)
+                  (S
+                    (NP (PRP it))
+                    (VP (VBZ includes)
+                      (NP
+                        (NP (JJ significant) (NN spending) (NNS cuts))
+                        (, ,)
+                        (NP (DT a) (JJ balanced-budget) (NN amendment))
+                        (CC and)
+                        (NP
+                          (NP (NNS reforms))
+                          (PP (TO to)
+                            (NP
+                              (NP (NNP Social) (NNP Security))
+                              (, ,)
+                              (NP (NNP Medicare)
+                                (CC and)
+                                (NNP Medicaid)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (ADVP (RB also))
+    (VP (VBD turned)
+      (NP (PRP$ his) (NN attention))
+      (PP (TO to)
+        (NP (NNP Libya)))
+      (, ,)
+      (S
+        (VP (VBG asking)
+          (NP (NNP Senate) (NNS leaders))
+          (S
+            (VP (TO to)
+              (VP (VB advance)
+                (NP
+                  (NP (DT a) (NN resolution))
+                  (VP (VBG authorizing)
+                    (NP
+                      (NP (NNP Obama) (POS 's))
+                      (NN move)
+                      (S
+                        (VP (TO to)
+                          (VP (VB join)
+                            (PP (IN in)
+                              (NP (JJ military) (NN action)))
+                            (PP (IN in)
+                              (NP (NNP Libya)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (SBAR (IN As)
+        (FRAG
+          (ADVP (RB long))
+          (SBAR (IN as)
+            (S
+              (NP (NNP Qaddafi))
+              (VP (VBZ remains)
+                (PP (IN in)
+                  (NP (NN power))))))))
+      (, ,)
+      (NP (PRP he))
+      (VP (MD will)
+        (VP (VB be)
+          (PP (IN in)
+            (NP (DT a) (NN position)
+              (S
+                (VP (TO to)
+                  (VP (VB terrorize)
+                    (NP
+                      (NP (PRP$ his) (JJ own) (NNS people))
+                      (CC and)
+                      (RB potentially)
+                      (NP
+                        (NP (DT the) (NN rest))
+                        (PP (IN of)
+                          (NP (DT the) (NN world)))))))))))))
+    (, ,) ('' '')
+    (NP (NNP Rubio))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP
+          (NP (DT a) (NN spokesman))
+          (PP (IN for)
+            (NP (NNP Senate) (NNP Majority) (NNP Leader) (NNP Harry) (NNP Reid))))
+        (VP (VBD criticized)
+          (NP (DT the) (NN proposal)))))
+    (, ,)
+    (NP (NNP Rubio))
+    (VP (VBD fired)
+      (PRT (RP off))
+      (NP
+        (NP (DT a) (NN letter))
+        (PP (TO to)
+          (NP (NNP Reid))))
+      (S
+        (VP (VBG asking)
+          (NP (PRP him))
+          (S
+            (VP (TO to)
+              (VP (VB reconsider)))))))
+    (. .)))
+

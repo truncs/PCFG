@@ -1,0 +1,495 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP President) (NNP Obama) (POS 's))
+      (NX
+        (NX (NNS jobs))
+        (CC and)
+        (NX (JJ deficit-reduction) (NNS proposals))))
+    (VP (MD might)
+      (VP (VB be)
+        (NP (DT a) (JJ tough) (NN sell))
+        (PP (IN in)
+          (NP (NNP Congress)))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (DT the) (NN president))
+    (VP (VBZ is)
+      (VP
+        (VP (VBG getting)
+          (NP
+            (NP (NN mileage) (RP out))
+            (PP (IN of)
+              (NP (PRP them))))
+          (ADVP (PDT all) (DT the) (JJ same)))
+        (, ,)
+        (ADVP (RB increasingly))
+        (VP (VBG using)
+          (NP (PRP them))
+          (PP (IN on)
+            (NP (DT the) (NN stump)))
+          (S
+            (VP (TO to)
+              (VP (VB drum)
+                (PRT (RP up))
+                (NP (NN campaign) (NN cash))
+                (ADVP (RB ahead)
+                  (PP (IN of)
+                    (NP (DT a) (JJ key) (NN filing) (NN deadline))))
+                (PP (IN at)
+                  (NP
+                    (NP (DT the) (NN end))
+                    (PP (IN of)
+                      (NP (DT the) (NN month)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT The) (NN president) (POS 's))
+        (JJ frantic) (NN fundraising) (NN schedule))
+      (NP (DT this) (NN week)))
+    (VP (VBZ reflects)
+      (NP (DT a) (NN reality))
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (POS 's)
+            (VP (VBD downplayed)
+              (PP (IN for)
+                (NP (DT the) (JJ past) (JJ several) (NNS weeks))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (S
+        (VP (VBG introducing)
+          (NP (PRP$ his) (NNS jobs) (NN plan)))))
+    (NP (DT this) (NN month))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD stressed)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN country))
+          (VP (MD ca) (RB n't)
+            (VP (VB wait)
+              (PP (IN until)
+                (NP (DT the) (JJ next) (JJ presidential) (NN election)))
+              (S
+                (VP (TO to)
+                  (VP (VB act)
+                    (PP (IN on)
+                      (NP (DT the) (NN economy)))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP
+      (NP
+        (NP
+          (NP (JJ presidential) (NNS politics))
+          (NP (NNS overhangs)))
+        (NP (DT the) (JJ entire) (NN debate)))
+      (: --)
+      (CC and)
+      (NP
+        (NP (DT the) (NN president) (POS 's))
+        (JJ economic) (NNS proposals)))
+    (VP (VBP have)
+      (VP (VBN fit)
+        (ADVP (RB snugly))
+        (PP (IN into)
+          (NP (PRP$ his) (NN campaign) (NN pitch)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Obama))
+    (VP (VBD told)
+      (NP
+        (NP (DT a) (NN crowd))
+        (PP (IN in)
+          (NP
+            (NP (NNP San) (NNP Jose))
+            (, ,)
+            (NP (NNP Calif.))
+            (, ,))))
+      (NP (NNP Sunday) (NN night))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (JJ next) (NN election))
+          (VP (MD will)
+            (VP (VB be)
+              (NP
+                (NP (DT a) (`` ``) (NN contest))
+                (PP (IN of)
+                  (NP (NNS values)))))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (ADVP (RB Later))
+    (S
+      (VP (VBG talking)
+        (PRT (RP up))
+        (NP (PRP$ his) (JJ deficit-reduction) (NN plan))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD described)
+      (NP (PRP it))
+      (PP (IN as)
+        (NP (`` ``)
+          (NP (JJ common) (NN sense))
+          (, ,) ('' '')
+          (NP
+            (ADJP (RB not))
+            (NN class) (NN warfare)))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP We))
+      (VP (VBP have)
+        (S
+          (VP (TO to)
+            (VP (VB remind)
+              (NP (PRP ourselves))
+              (SBAR
+                (S
+                  (NP
+                    (NP (DT the) (NN reason))
+                    (SBAR
+                      (S
+                        (NP (PRP we))
+                        (VP (VBP 're)
+                          (ADJP (JJ successful))))))
+                  (VP (VBZ is)
+                    (SBAR (IN because)
+                      (S
+                        (NP (NN somebody))
+                        (VP (VBD made)
+                          (NP
+                            (NP (DT an) (NN investment))
+                            (PP (IN in)
+                              (NP (PRP us)))))))))))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (PRP We))
+    (VP (VBD did) (RB n't)
+      (VP (VB do)
+        (NP
+          (NP (DT all))
+          (PP (IN of)
+            (NP (DT this))))
+        (PP (IN on)
+          (NP (PRP$ our) (JJ own)))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (PP (IN At)
+      (NP
+        (NP (DT an) (JJR earlier) (NN fundraiser))
+        (PP (IN in)
+          (NP (NNP Seattle)))))
+    (, ,)
+    (NP (NNP Obama))
+    (VP (VBD pressed)
+      (NP (NNPS Republicans))
+      (S
+        (VP (TO to)
+          (VP (VB help)
+            (S
+              (S
+                (VP (VB pass)
+                  (NP (PRP$ his) (JJS latest) (JJ economic) (NN plan))))
+              (, ,)
+              (S
+                (VP (VBG saying)
+                  (SBAR
+                    (S
+                      (NP (PRP it))
+                      (VP (VBZ 's)
+                        (NP
+                          (NP (DT a) (NN choice))
+                          (PP (IN between)
+                            (NP
+                              (NP (PRP$ his) (NN approach))
+                              (CC or)
+                              (NP (DT the) (NN nation)))))
+                        (S
+                          (VP (VBG going)
+                            (PRT (RP back))
+                            (PP (TO to)
+                              (NP (DT the) (`` ``)
+                                (NX (JJ same) (NNS ideas))))))
+                        (SBAR
+                          (S
+                            (NP (DT the) (JJ other) (NN side))
+                            (VP (VBZ is)
+                              (VP (VBG peddling))))))))))
+              (: --)
+              (NP (JJ old) (, ,) (JJ worn-out) (NNS ideas))))))
+      (PP (IN from)
+        (NP
+          (NP (JJ last) (NN decade))
+          ('' '')
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD gave)
+                (NP (DT the) (JJ upper) (NN hand))
+                (PP (TO to)
+                  (NP
+                    (NP (DT the) (JJS wealthiest) (NNS corporations))
+                    (CC and)
+                    (NP (NNS individuals))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN By)
+      (NP
+        (NP (DT the) (NN end))
+        (PP (IN of)
+          (NP (DT the) (NN day)))))
+    (NP (NNP Monday))
+    (, ,)
+    (NP (NNP Obama))
+    (VP (MD will)
+      (VP (VB have)
+        (VP (VBN attended)
+          (NP
+            (NP
+              (QP (IN at) (JJS least) (CD nine))
+              (NNS fundraisers))
+            (CC and)
+            (NP
+              (NP (JJ political) (NNS events))
+              (SBAR (IN since)
+                (S
+                  (S
+                    (VP (VBG delivering)
+                      (NP (PRP$ his) (NNS jobs) (NN plan))))
+                  (VP (VBD overview)
+                    (PP (TO to)
+                      (NP (NNP Congress)))
+                    (NP (NNP Sept.) (CD 8))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The))
+    (VP (VBZ stops)
+      (VP (VBN come)
+        (ADVP (RB ahead)
+          (PP (IN of)
+            (NP
+              (NP (DT the)
+                (NAC (NNP Sept.) (CD 30))
+                (NN filing) (NN deadline))
+              (PP (IN for)
+                (NP (NNS campaigns))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Democratic) (NNS officials))
+    (VP (VBP are)
+      (VP (VBG looking)
+        (S
+          (VP (TO to)
+            (VP (VB raise)
+              (NP
+                (QP (IN about) ($ $) (CD 8) (CD million)))
+              (PP (IN from)
+                (NP
+                  (NP
+                    (NP (DT the) (JJ first) (CD two) (NNS days))
+                    (POS '))
+                  (NNS events))
+                (ADVP (RB alone))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (NNP Seattle))
+        (PP (IN on)
+          (NP (NNP Sunday)))))
+    (, ,)
+    (NP
+      (NP (NNS tickets))
+      (PP (IN for)
+        (NP
+          (NP (DT a) (NN brunch))
+          (PP (IN with)
+            (NP (DT the) (NN president))))))
+    (VP (VBD were)
+      (VP (VBG going)
+        (PP (IN for)
+          (NP
+            (NP
+              (QP (RB nearly) ($ $) (CD 36,000)))
+            (NP (DT a) (NN couple))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Tickets))
+      (PP (TO to)
+        (NP
+          (NP
+            (NP (DT a) (VBG fundraising) (NN dinner))
+            (NP (NNP Sunday)))
+          (NP (NN night))
+          (PP (IN at)
+            (NP
+              (NP (DT the) (NN home))
+              (PP (IN of)
+                (NP (DT a) (NNP Facebook) (NN executive))))))))
+    (VP (VBD went)
+      (PP (IN for)
+        (NP (DT the) (JJ same) (NN amount))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Obama))
+    (VP (VBZ has) (RB also)
+      (VP (VBN made)
+        (NP (JJ several) (JJ non-campaign) (NNS visits))
+        (PP (IN in)
+          (NP (JJ recent) (NNS weeks)))
+        (PP (TO to)
+          (NP
+            (NP (JJ vital) (NN swing) (NNS states))
+            (, ,)
+            (VP (VBG including)
+              (NP (NNP Ohio)))
+            (, ,)
+            (NP (NNP Virginia))
+            (CC and)
+            (NP (NNP North) (NNP Carolina))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN president))
+    (VP
+      (VP (VBZ is)
+        (VP (VBG taking)
+          (NP (PRP$ his) (NN case))
+          (PP (TO to)
+            (NP (DT the) (NN public)))))
+      (, ,)
+      (CC and)
+      (VP
+        (PP (TO to)
+          (NP
+            (NP (NNS donors))
+            (, ,)
+            (SBAR (IN as)
+              (S
+                (NP (PRP he))
+                (VP (VBZ faces)
+                  (NP (DT a) (JJ reluctant) (NNP Congress)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (S
+        (VP (VBG pitching)
+          (NP (DT a)
+            (ADJP
+              (QP ($ $) (CD 447) (CD billion)))
+            (NNS jobs) (NN bill)))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBD proposed)
+      (VP (VBG paying)
+        (PP (IN for)
+          (NP (PRP it)))
+        (PP (IN with)
+          (NP (NN tax) (NNS increases)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Then))
+    (PRN
+      (S
+        (NP (PRP he))
+        (VP (VBN lumped)
+          (NP (DT those) (NNS proposals))
+          (PP (IN in)
+            (PP (IN with)
+              (NP
+                (NP (DT a) (NN total))
+                (PP (IN of)
+                  (NP
+                    (NP
+                      (QP ($ $) (CD 1.5) (CD trillion)))
+                    (PP (IN in)
+                      (NP (VBN proposed) (NN tax) (NNS hikes))))))))
+          (PP (IN as)
+            (NP
+              (NP (NN part))
+              (PP (IN of)
+                (NP (DT a) (JJ 10-year) (NN deficit) (NN reduction) (NN proposal))))))))
+    (NP (PRP he))
+    (VP (VBD submitted)
+      (PP (TO to)
+        (NP
+          (NP (DT the) (JJ bipartisan) (JJ deficit-reduction) (NN committee))
+          (PP (IN in)
+            (NP (NNP Congress))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD was)
+      (VP (VBN met)
+        (PP (IN with)
+          (NP
+            (NP (DT a) (NN chorus))
+            (PP (IN of)
+              (NP
+                (NP (NN criticism))
+                (PP (IN from)
+                  (NP
+                    (NP (JJ Republican) (NNS leaders))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBD accused)
+                          (NP
+                            (NP (DT the) (NN president))
+                            (PP (IN of)
+                              (S
+                                (VP (VBG playing) (`` ``)
+                                  (NP (NN class) (NN warfare))
+                                  ('' '')
+                                  (PP (IN by)
+                                    (S
+                                      (VP (VBG proposing)
+                                        (NP (JJR more) (NNS taxes))
+                                        (PP (IN on)
+                                          (NP (DT the) (JJ wealthy)))))))))))))))))))))
+    (. .)))
+

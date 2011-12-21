@@ -1,0 +1,450 @@
+(ROOT
+  (S
+    (PP (IN After)
+      (NP
+        (NP (NNP Tuesday) (POS 's))
+        (JJ historic) (NN election)))
+    (, ,)
+    (NP (DT the) (NNP Tea) (NNP Party))
+    (VP (MD may)
+      (VP (VB be)
+        (S
+          (ADVP (RB just))
+          (VP (VBG getting)
+            (VP (VBN started))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (QP (JJR More) (IN than) (CD 30))
+      (NNP Tea)
+      (ADJP (JJ Party-supported))
+      (NNS candidates))
+    (VP (VBD seized)
+      (NP (NN victory))
+      (PP (IN on)
+        (NP (NNP Tuesday)))
+      (SBAR (IN as)
+        (S
+          (NP (NNPS Republicans))
+          (VP
+            (VP (VBN captured)
+              (NP (DT the) (NNP House)))
+            (CC and)
+            (VP (VBN diminished)
+              (NP
+                (NP (DT the) (JJ Democratic) (NN majority))
+                (PP (IN in)
+                  (NP (DT the) (NNP Senate)))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN Among)
+      (NP
+        (NP (DT the) (NNS winners))
+        (PP (IN in)
+          (NP (DT the) (NNP Senate)))))
+    (VP (VBD were))
+    (NP
+      (NP (NNP Rand) (NNP Paul))
+      (PP (IN in)
+        (NP
+          (NP
+            (NP (NNP Kentucky) (, ,) (NNP Marco) (NNP Rubio))
+            (PP (IN in)
+              (NP (NNP Florida))))
+          (, ,)
+          (NP
+            (NP (NNP Mike) (NNP Lee))
+            (PP (IN in)
+              (NP (NNP Utah))))
+          (CC and)
+          (NP
+            (NP (NNP Pat) (NNP Toomey))
+            (PP (IN in)
+              (NP (NNP Pennsylvania)))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (S
+      (NP (NN anything))
+      (VP (MD could)
+        (VP (VB happen)
+          (ADVP (IN from) (RB now))
+          (PP (IN until)
+            (NP
+              (NP (DT the) (JJ presidential) (NN election))
+              (PP (IN in)
+                (NP (CD 2012))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ remains)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB be)
+                (VP (VBN seen)
+                  (SBAR (IN whether)
+                    (S
+                      (NP
+                        (NP (DT a) (NN movement))
+                        (SBAR
+                          (WHNP (WDT that))
+                          (S
+                            (VP (VBZ prides)
+                              (NP (PRP itself))
+                              (PP (IN on)
+                                (S
+                                  (VP (VBG being)
+                                    (PP (IN outside)
+                                      (NP (DT the) (NN establishment))))))))))
+                      (VP (MD will)
+                        (VP (NN front)
+                          (NP (PRP$ its) (JJ own) (NNP Tea) (NNP Party) (JJ presidential) (NN candidate))))))))
+              (, ,)
+              (VP (VB revolutionize)
+                (NP (DT the) (NNP Republican) (NNP Party)))
+              (CC or)
+              (ADVP (RB merely))
+              (VP (VB fade)
+                (PRT (RP back))
+                (PP (IN into)
+                  (NP (DT the) (NN background)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (VBG Leading)
+        (NX (NNP Tea) (NNPS Partiers)))
+      (VP (VBD vowed)
+        (S
+          (VP (TO to)
+            (VP (VB keep)
+              (PRT (RP up))
+              (NP
+                (NP (DT the) (NN pressure))
+                (PP (IN on)
+                  (NP (PRP$ their) (JJ favored) (JJ new) (NNS lawmakers)))
+                (S
+                  (VP (TO to)
+                    (VP (VB fight)
+                      (NP (DT a) (NNP Washington) (NN establishment)))))))))))
+    (NP (PRP they))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (VP
+            (VP (VBZ is)
+              (VP (VBN broken)))
+            (CC and)
+            (VP (VBZ does) (RB n't)
+              (VP (VB work)
+                (PP (IN for)
+                  (NP
+                    (NP (DT the) (JJS best) (NNS interests))
+                    (PP (IN of)
+                      (NP (DT the) (JJ American) (NNS people)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (MD could)
+      (VP (VB make)
+        (NP (NN trouble))
+        (PP (IN for)
+          (NP
+            (NP (JJ congressional) (NNS leaders))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP (VBP need)
+                  (NP (NN compromise)
+                    (CC and)
+                    (NN dealmaking))
+                  (S
+                    (VP (TO to)
+                      (VP (VB get)
+                        (S
+                          (NP (DT any) (NN work))
+                          (VP (VBN done)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Several) (NNP Tea) (NNP Party) (NNS winners))
+    (VP (VBD said)
+      (PP (IN in)
+        (NP (NNS interviews)))
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBD were)
+            (VP (VBG reaching)
+              (PRT (RP out))
+              (PP (TO to)
+                (NP (CD one) (DT another)))
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN wake))
+                  (PP (IN of)
+                    (NP (DT the) (NNS elections)))))
+              (S
+                (VP (TO to)
+                  (VP (VB form)
+                    (NP
+                      (NP (DT a) (NN coalition))
+                      (VP (VBN based)
+                        (PP (IN on)
+                          (NP (PRP$ their) (JJ conservative) (NNS principles)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Rep.) (NNP Michele) (NNP Bachmann))
+        (, ,)
+        (NP (NNP R-Minn.))
+        (, ,))
+      (VP (VBD had)
+        (VP (VBN formed)
+          (NP (DT a) (NNP Tea) (NNP Party) (NNS caucus))
+          (NP (DT this) (NN summer))
+          (PP (IN with)
+            (NP
+              (NP (DT a) (NN couple))
+              (NP (NN dozen) (NNS members)))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (JJ unclear))
+        (SBAR (IN whether)
+          (S
+            (NP
+              (NP (NNS freshmen) (NNS lawmakers))
+              (PP (IN with)
+                (NP (NNP Tea) (NNP Party) (NN backing))))
+            (VP (MD would)
+              (VP
+                (VP (VB join)
+                  (NP (PRP$ her) (NN group)))
+                (CC or)
+                (VP (VB start)
+                  (NP
+                    (NP (CD one))
+                    (PP (IN of)
+                      (NP (PRP$ their) (JJ own)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN spokesman))
+      (PP (IN for)
+        (NP (NNP Bachmann))))
+    (VP (VBD told)
+      (NP (NNP FoxNews.com))
+      (SBAR (IN that)
+        (S
+          (S
+            (NP (PRP$ her) (NNS caucus))
+            (VP (VBZ has)
+              (NP (CD 52) (NNS members))))
+          (, ,)
+          (CC and)
+          (S
+            (NP (PRP they))
+            (VP (VBP are)
+              (VP (VBG expecting)
+                (NP
+                  (NP (`` ``) (DT a) (JJ huge) (NN boost))
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (DT the) (JJ new) (NNP Congress))
+                      (VP (VBZ meets)))))))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (NP (CD One) (NN aim))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP (VB prevent)
+            (NP
+              (NP (NNP Tea) (NNP Party) (NNS members))
+              (PP (IN of)
+                (NP (NNP Congress))))
+            (PP (IN from)
+              (S
+                (VP (VBG getting)
+                  (ADJP (`` ``) (JJ co-opted))
+                  (PP (IN by)
+                    (NP (DT the) (NN establishment))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (NNP Tea) (NNP Party) (NNS leaders))
+    (VP (VBP face)
+      (NP
+        (NP (DT a) (JJ similar) (NN choice))
+        (: :)
+        (VP
+          (VP (VB establish)
+            (NP (PRP$ their) (JJ own) (JJ political) (NN party)))
+          (CC or)
+          (VP (VB work)
+            (PP (IN within)
+              (NP (DT the) (NNP Republican) (NNP Party)))
+            (PP (IN at)
+              (NP
+                (NP (DT the) (NN risk))
+                (PP (IN of)
+                  (S
+                    (VP
+                      (VP (VBG being)
+                        (ADJP (JJ co-opted)))
+                      (CC or)
+                      (VP (VBG touching)
+                        (PRT (RP off))
+                        (NP (NNS clashes))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN As)
+      (NP (DT a) (JJ third) (NN party)))
+    (, ,)
+    (NP (DT the) (NNP Tea) (NNP Party))
+    (VP (MD would)
+      (VP (VB have)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB hold)
+                (NP (JJ separate) (NNS primaries)))
+              (, ,)
+              (VP (VB maximize)
+                (NP (NN money) (NNS sources)))
+              (CC and)
+              (VP (VB present)
+                (NP
+                  (NP (DT a) (NN field))
+                  (PP (IN of)
+                    (NP (NNS candidates))))
+                (PP (IN on)
+                  (NP (DT a) (JJ stated) (NN platform)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Staying)
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NN fringe))
+            (PP (IN of)
+              (NP (DT the) (NNP GOP)))))))
+    (VP (MD could)
+      (VP (VB pose)
+        (NP
+          (NP (JJR more))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (JJ same) (NNS problems))
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (VBD did)
+                    (PP (IN in)
+                      (NP
+                        (NP (DT the)
+                          (ADJP (CD 2010) (NN election))
+                          (NN cycle))
+                        (, ,)
+                        (SBAR
+                          (WHADVP (WRB when))
+                          (S
+                            (NP (DT some) (NNP Tea) (NNP Party) (NNS candidates))
+                            (VP
+                              (VP (VBD won)
+                                (NP (JJ Republican) (NNS nominations)))
+                              (CC but)
+                              (VP (VBD failed)
+                                (S
+                                  (VP (TO to)
+                                    (VP (VB prevail)
+                                      (PP (IN in)
+                                        (NP (JJ general) (NNS elections)))
+                                      (SBAR (IN that)
+                                        (S
+                                          (NP (NN establishment) (NNS Republicans))
+                                          (VP (VBD had)
+                                            (VP (VBN been)
+                                              (VP (VBN favored)
+                                                (S
+                                                  (VP (TO to)
+                                                    (VP (VB win))))))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (NN example)))
+    (, ,)
+    (NP (DT the) (NNP Tea) (NNP Party) (NN movement))
+    (VP (VBD failed)
+      (S
+        (VP (TO to)
+          (VP (VB bring)
+            (PRT (RP down))
+            (NP
+              (NP (PRP$ its) (JJS biggest) (NN target))
+              (, ,)
+              (NP
+                (NP (NNP Senate) (NNP Majority) (NNP Leader) (NNP Harry) (NNP Reid))
+                (, ,)
+                (SBAR
+                  (WHNP (WP who))
+                  (SINV (VBD beat)
+                    (NP (NNP Tea) (NNP Party) (JJ favorite) (NNP Sharron) (NNP Angle))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Other) (NNP Tea) (NNP Party) (NNS losers))
+    (VP (VBD were)
+      (NP
+        (NP
+          (NP (NNP Christine) (NNP O'Donnell))
+          (PP (IN in)
+            (NP
+              (NP (NNP Delaware) (POS 's))
+              (NNP Senate) (NN race))))
+        (, ,)
+        (NP
+          (NP (NNP Ken) (NNP Buck))
+          (PP (IN in)
+            (NP
+              (NP (NNP Colorado) (POS 's))
+              (NNP Senate) (NN race))))
+        (, ,)
+        (CC and)
+        (NP (NNP Carl) (NNP Paladino)))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NNP New) (NNP York) (NN governor) (POS 's))
+          (NN race))))
+    (. .)))
+

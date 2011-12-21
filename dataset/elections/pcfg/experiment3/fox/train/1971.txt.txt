@@ -1,0 +1,461 @@
+(ROOT
+  (S
+    (NP (NNP Labor) (NNS unions))
+    (VP (VBP are)
+      (VP (VBG celebrating)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP (PRP$ their) (JJS biggest) (NNS victories))))
+        (PP (IN in)
+          (NP (NNS decades)))
+        (PP (IN after)
+          (S
+            (VP (VBG turning)
+              (PRT (RP back))
+              (NP
+                (NP (DT an) (NNP Ohio) (NN law))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBD curbed)
+                      (NP
+                        (NP (JJ collective) (NN bargaining) (NNS rights))
+                        (PP (IN for)
+                          (NP
+                            (NP (DT the) (NN state) (POS 's))
+                            (JJ public) (NNS workers)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN vote))
+    (VP (VBD showed)
+      (SBAR
+        (S
+          (NP (NNS unions))
+          (VP (VBP are)
+            (ADVP (RB still))
+            (NP
+              (NP (DT a) (JJ potent) (JJ political) (NN force))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP (MD ca) (RB n't)
+                    (VP (VB be)
+                      (VP (VBN ignored)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN question))
+      (PP (IN for)
+        (NP (JJ many))))
+    (VP (VBZ is)
+      (SBAR
+        (SBAR (IN whether)
+          (S
+            (VP (TO to)
+              (VP (VB interpret)
+                (NP
+                  (NP (NNP Tuesday) (POS 's))
+                  (NNP Ohio) (NN referendum))
+                (PP (IN as)
+                  (NP
+                    (NP (RB simply) (DT a) (NN rejection))
+                    (PP (IN of)
+                      (NP
+                        (NP (JJ Republican) (NN overreach))
+                        (PP (IN in)
+                          (NP (DT a)
+                            (ADJP (RB heavily) (VBD unionized))
+                            (NN state)))))))))))
+        (CC or)
+        (SBAR
+          (ADVP
+            (ADVP (RBR more) (RB broadly))
+            (PP (IN as)
+              (NP
+                (NP (DT a) (NN barometer))
+                (PP (IN of)
+                  (NP (DT a) (NN battleground) (NN state))))))
+          (IN that)
+          (S
+            (VP (MD could)
+              (VP (VB resonate)
+                (PP (IN with)
+                  (NP (NNS voters)))
+                (ADVP (RB nationwide))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Union) (NNS leaders))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (PRP they))
+          (VP (VBP hope)
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP
+                  (VP (VBZ brings)
+                    (PP (IN about)
+                      (NP
+                        (NP (DT a) (NN resurgence))
+                        (PP (IN for)
+                          (NP (DT a) (NN labor) (NN movement)))))
+                    (PP
+                      (ADVP (RB long))
+                      (IN in)
+                      (NP (NN decline))))
+                  (CC and)
+                  (VP (VBZ sends)
+                    (NP (DT a) (JJ strong) (NN message))
+                    (PP (TO to)
+                      (NP
+                        (NP (JJ other) (NNS states))
+                        (SBAR
+                          (WHADVP (WRB where))
+                          (S
+                            (NP (NNS lawmakers))
+                            (VP (VBP are)
+                              (VP (VBG thinking)
+                                (PP (IN about)
+                                  (S
+                                    (VP (VBG restricting)
+                                      (NP (NN union) (NNS rights)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (PRP they))
+    (ADVP (RB also))
+    (VP (VBP want)
+      (S
+        (VP (TO to)
+          (VP (VB use)
+            (NP (DT the) (NN outcome))
+            (PP (IN as)
+              (NP (DT a)))
+            (S
+              (VP (VB spark)
+                (S
+                  (VP (TO to)
+                    (VP
+                      (VP (VB help)
+                        (NP (JJ re-elect) (NNP President) (NNP Barack) (NNP Obama)))
+                      (CC and)
+                      (VP (VB put)
+                        (NP (JJR more) (NNS Democrats))
+                        (PP (IN in)
+                          (NP (NN office)))
+                        (NP (JJ next) (NN year))))))))))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP I))
+      (VP (VBP think)
+        (SBAR
+          (S
+            (NP (DT the) (NN outcome))
+            (VP (VBZ is)
+              (NP
+                (NP (DT an) (JJ absolute) (JJ momentum-shifting) (NN victory))
+                (PP (IN for)
+                  (NP (DT the) (NN labor) (NN movement)))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Harold) (NNP Schaitberger))
+      (, ,)
+      (NP
+        (NP (NN president))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NNP International) (NNP Association))
+            (PP (IN of)
+              (NP (NNP Firefighters)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (NNS unions))
+        (VP (VBP succeed)
+          (NP (JJ next) (NN year))
+          (PP (IN in)
+            (S
+              (VP (VBG recalling)
+                (NP
+                  (NP (NNP Wisconsin) (NNP Gov.) (NNP Scott) (NNP Walker))
+                  (, ,)
+                  (NP (DT a) (JJ top) (NN target)))
+                (SBAR (IN after)
+                  (S
+                    (NP (PRP he))
+                    (VP (VBD pushed)
+                      (PP (IN through)
+                        (NP
+                          (NP (JJ similar) (NN legislation))
+                          (VP (VBG limiting)
+                            (NP (NN union) (NNS rights)))))
+                      (PP (IN in)
+                        (NP (PRP$ his) (NN state))))))))))))
+    (, ,)
+    (NP (NNP Schaitberger))
+    (VP (VBD predicted)
+      (NP
+        (NP (`` ``) (JJ tremendous) (NN impact))
+        (PP (IN across)
+          (NP (DT the) (NN country)))))
+    (. .) ('' '')))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (ADVP (RB Now))
+      (NP (PRP you))
+      (VP (VBP 're)
+        (VP (VBG talking)
+          (PP (IN about)
+            (S
+              (VP
+                (VP (VBG having)
+                  (NP
+                    (NP (JJ significant) (NN impact))
+                    (PP (IN in)
+                      (NP (DT the) (CD 2012) (NN election) (NN cycle))))
+                  (PP (IN for)
+                    (NP (JJ many) (NNS politicians))))
+                (CC and)
+                (VP (VBG putting)
+                  (NP (CD two) (NN battleground) (NNS states))
+                  (PP (IN in)
+                    (NP
+                      (NP (JJ strong) (NN play))
+                      (PP (IN for)
+                        (NP (PRP$ our) (NNS candidates))))))))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN By)
+      (NP (DT a)
+        (ADJP
+          (QP (RB nearly) (CD 2-1)))
+        (NN margin)))
+    (, ,)
+    (NP (NNP Ohio) (NNS voters))
+    (VP (VBN repealed)
+      (NP
+        (NP (DT a) (JJ new) (NN law))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (MD would)
+              (VP (VB have)
+                (VP
+                  (ADVP (RB severely))
+                  (VBN limited)
+                  (NP
+                    (NP (DT the) (NN bargaining) (NNS rights))
+                    (PP (IN of)
+                      (NP
+                        (NP
+                          (QP (JJR more) (IN than) (CD 350,000))
+                          (NNS teachers))
+                        (, ,)
+                        (NP
+                          (NP (NNS firefighters))
+                          (, ,)
+                          (NP (NN police) (NNS officers))
+                          (CC and)
+                          (NP (JJ other) (NN state) (NNS employees)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN law))
+      (VP (VBN signed)
+        (PP (IN in)
+          (NP (JJ late) (NNP March)))
+        (PP (IN by)
+          (NP (NNP Republican) (NNP Gov.) (NNP John) (NNP Kasich)))))
+    (VP (MD would)
+      (VP (VB have)
+        (VP
+          (VP (VBN banned)
+            (NP (JJ public) (NN employee) (NNS strikes)))
+          (, ,)
+          (VP (VBN scrapped)
+            (NP (VBG binding) (NN arbitration)))
+          (, ,)
+          (CC and)
+          (VP (VBN denied)
+            (NP (JJ public) (NNS workers))
+            (NP (DT the) (NN ability)
+              (S
+                (VP (TO to)
+                  (VP (VB negotiate)
+                    (NP
+                      (NP
+                        (NP (NNS pensions))
+                        (CC and)
+                        (NP (NN health) (NN care)))
+                      (NP (NNS benefits)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Kasich))
+    (VP (VBD had)
+      (VP (VBN said)
+        (SBAR
+          (S
+            (NP (DT the) (NN law))
+            (VP (MD would)
+              (VP
+                (VP (VB help)
+                  (VP (VB hold)
+                    (PRT (RP down))
+                    (NP (NNS taxes))))
+                (CC and)
+                (VP (VB make)
+                  (S
+                    (NP (DT the) (NN state))
+                    (ADJP (RBR more) (JJ appealing)
+                      (PP (TO to)
+                        (NP (NN business))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP Are)
+      (SBAR
+        (S
+          (NP
+            (NP (NNP Ohio))
+            (, ,)
+            (NP (DT the)
+              (ADJP (RB largely) (JJ union-funded))
+              (NN opponent) (NN coalition))
+            (, ,))
+          (VP (VBD painted)
+            (NP (DT the) (NN issue))
+            (PP (IN as)
+              (NP (DT a) (NN threat)))
+            (PP (TO to)
+              (NP (JJ public) (NN safety)
+                (CC and)
+                (NN middle-class) (NNS workers)))
+            (, ,)
+            (S
+              (VP (VBG spending)
+                (NP
+                  (NP (NNS millions))
+                  (PP (IN of)
+                    (NP (NNS dollars))))
+                (PP (IN on)
+                  (NP
+                    (NP (NN TV) (NNS ads))
+                    (VP (VBN filled)
+                      (PP (IN with)
+                        (NP
+                          (NP (NNS images))
+                          (PP (IN of)
+                            (NP (NNS firefighters) (, ,) (NN police) (NNS officers) (, ,) (NNS teachers)
+                              (CC and)
+                              (NNS nurses))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP (DT a) (JJ huge) (NN victory)))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (NP (PRP It))
+      (VP (MD ca) (RB n't)
+        (VP (VB be)
+          (VP (VBN underestimated)))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP Doug) (NNP Schoen))
+      (, ,)
+      (NP
+        (NP (DT a) (JJ Democratic) (NN strategist))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD worked)
+              (PP (IN for)
+                (NP (NNP President) (NNP Bill) (NNP Clinton))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S (CC But)
+      (NP (NNS unions))
+      (VP (MD will)
+        (VP (VB try)
+          (S
+            (VP (TO to)
+              (VP (VB read)
+                (NP (PRP it))
+                (ADVP (RB broadly))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP I))
+      (VP (VBP do) (RB n't)
+        (VP (VB think)
+          (SBAR
+            (S
+              (NP (PRP it))
+              (VP (VBZ is)))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (NP (NNP Schoen))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNS unions))
+          (VP (MD would)
+            (VP (VB characterize)
+              (NP (DT the) (NN win))
+              (PP (IN as) (`` ``)
+                (NP
+                  (NP (DT a) (NN resurgence))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NN union) (NN movement))
+                      (, ,)
+                      (NP
+                        (NP (DT the) (NN resurgence))
+                        (PP (IN of)
+                          (NP
+                            (NP (DT the) (NN left))
+                            (CC and)
+                            (NP (DT the) (JJ revitalization))))
+                        (PP (IN of)
+                          (NP (DT the) (NNP Democratic) (NNP Party)))))))))))))
+    (. .)))
+

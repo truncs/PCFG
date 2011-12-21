@@ -1,0 +1,470 @@
+(ROOT
+  (S
+    (NP (NNP Bill) (NNP Clinton))
+    (VP (VBZ is)
+      (ADVP (RB everywhere)))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (NNS Republicans))
+    (VP (VBP do) (RB n't)
+      (VP (VB seem)
+        (S
+          (VP (TO to)
+            (VP (VB mind))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (FRAG
+        (NP (NN anything))))
+    (, ,)
+    (NP
+      (NP (DT the) (NN party))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBD brought)
+            (NP (PRP you))
+            (NP
+              (NP (DT the) (JJ second) (JJ presidential) (NN impeachment))
+              (PP (IN in)
+                (NP (NNP U.S.) (NN history))))))))
+    (VP (VBZ is)
+      (VP (VBG pining)
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NNS days))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (DT the) (NNP Clintons))
+                (VP (VBD ruled)
+                  (NP (NNP Washington)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Sen.) (NNP Orrin) (NNP Hatch))
+      (, ,)
+      (NP (NNP R-Utah))
+      (, ,))
+    (VP (VBD said)
+      (PP (IN in)
+        (NP (DT an) (NN interview)))
+      (NP (JJ last) (NN month))
+      (SBAR (IN that)
+        (S
+          (NP (NNP Clinton))
+          (`` ``)
+          (VP (MD will)
+            (VP (VB go)
+              (PRT (RP down))
+              (PP (IN in)
+                (NP (NN history)))
+              (PP (IN as)
+                (NP
+                  (NP (DT a) (JJR better) (NN president))
+                  ('' '')
+                  (PP (IN than)
+                    (NP (NNP Obama))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Rep.) (NNP Paul) (NNP Ryan))
+      (, ,)
+      (NP (NNP R-Wis.))
+      (, ,)
+      (NP (DT a) (VBG rising) (NNP GOP) (NN star))
+      (, ,))
+    (VP (VBD told)
+      (NP (DT The) (NNP New) (NNP York) (NNP Times))
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBZ enjoys)
+            (NP
+              (NP (DT the) (NN ex-president))
+              (CC and)
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (PRP he))
+                      (VP (VBD was)
+                        (PP (IN in)
+                          (NP (NN power))))))
+                  (, ,) (`` ``)
+                  (NP (DT the) (NN nation))
+                  (VP (VBD benefited) ('' '')
+                    (PP (IN from)
+                      (NP (PRP$ his) (NN moderation))))))))))
+      (PRN (: --)
+        (ADVP (IN at) (JJS least))
+        (PP (IN in)
+          (NP (DT the) (JJ last) (CD six) (NNS years)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Ex-Clinton) (NN foe) (NNP David) (NNP Bossie))
+      (, ,)
+      (ADVP (RB now))
+      (NP
+        (NP (DT the) (NN head))
+        (PP (IN of)
+          (NP (DT the) (NNPS Citizens) (NNP United) (NN group)))
+        (PP (IN behind)
+          (NP
+            (NP (DT the) (NNP Supreme) (NNP Court) (NN decision))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBD tore)
+                  (PRT (RP apart))
+                  (NP (NN campaign) (NN finance) (NN law))))))))
+      (, ,))
+    (VP (VBD told)
+      (NP (DT The) (JJ Daily) (NN Beast))
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD was)
+            (ADJP (JJ wrong)
+              (S
+                (VP (TO to)
+                  (VP (VB think)
+                    (SBAR
+                      (S
+                        (NP (NNP Clinton))
+                        (VP (VBD was)
+                          (S
+                            (NP (DT a))
+                            (`` ``)
+                            (ADJP (JJ radical))
+                            ('' '')))))))))
+            (PP (IN in)
+              (NP (DT the) (NNS '90s)))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (VP (VB wait)
+      (NP (DT a) (NN minute)))
+    (. .)))
+
+(ROOT
+  (SQ (VBZ Is) (RB n't)
+    (NP (NNP Clinton) (DT the) (NN guy))
+    (ADJP
+      (ADJP
+        (ADJP (RB actively) (VBG campaigning))
+        (PP (IN for)
+          (NP (NNPS Democrats)))
+        (PP (IN across)
+          (NP (DT the) (NN country))))
+      (SBAR (IN while)
+        (S
+          (VP (VBG offering)
+            (NP
+              (NP (JJ dire) (NNS warnings))
+              (PP (IN about)
+                (SBAR
+                  (WHNP (WP what))
+                  (S
+                    (VP (MD will)
+                      (VP (VB happen)
+                        (SBAR (IN if)
+                          (S
+                            (NP (NNPS Republicans))
+                            (VP (VBP take)
+                              (PP (IN over)
+                                (NP (NNP Congress)))))
+                          (. ?))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP (DT some) (NNPS Republicans))
+        (VP (VBP look)
+          (ADVP (RB back) (RB fondly))
+          (PP (IN on)
+            (NP (DT the) (NNP Clinton) (NNS years)))
+          (PP (IN as)
+            (NP
+              (NP (DT a) (NN time))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP
+                    (NP (JJ bipartisan) (NN legislation))
+                    (PP (IN like)
+                      (NP (NN welfare) (NN reform))))
+                  (VP (VBD was)
+                    (ADJP (JJ possible))))))))))
+    (, ,)
+    (NP
+      (NP (DT those))
+      (PP (IN in)
+        (NP
+          (NP (NNP Clinton) (POS 's))
+          (NNS crosshairs))))
+    (VP (VBP have)
+      (ADVP (RB not))
+      (VP (VBN forgotten)
+        (NP (PRP$ his) (NN power))
+        (PP (IN on)
+          (NP (DT the) (NN stump)))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (NNP Bill) (NNP Clinton))
+      (VP (MD will)
+        (VP (VB stop)
+          (PP (IN at)
+            (NP (NN nothing)
+              (S
+                (VP (TO to)
+                  (VP (VB raise)
+                    (NP (NN money))
+                    (S
+                      (VP (TO to)
+                        (VP (VB defeat)
+                          (NP (PRP me)))))))))))))
+    (, ,) ('' '')
+    (NP
+      (NP (NNP Rep.) (NNP Michele) (NNP Bachmann))
+      (, ,)
+      (NP (NNP R-Minn.))
+      (, ,))
+    (VP (VBD said)
+      (PP (IN in)
+        (NP (DT a) (NN fundraising)))
+      (NP (JJ e-mail) (JJ last) (NN week)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (VBG Pleading)
+      (PP (IN for)
+        (NP (NNS donations)
+          (S
+            (VP (TO to)
+              (VP (VB fight)
+                (PRT (RP back))))))))
+    (, ,)
+    (NP (DT the) (JJ firebrand) (NN congresswoman))
+    (VP (VBD complained)
+      (PP (IN about)
+        (NP (DT a) (NNP Minneapolis) (NN fundraiser)))
+      (SBAR
+        (S
+          (NP (NNP Clinton))
+          (VP
+            (VP (VBD held)
+              (PP (IN for)
+                (NP (NN opponent) (NNP Tarryl) (NNP Clark))))
+            (CC and)
+            (VP (VBD accused)
+              (NP (PRP him))
+              (PP (IN of)
+                (S
+                  (VP (VBG hitting)
+                    (NP (DT a) (`` ``) (JJ new) (NN low) ('' ''))
+                    (PP (IN by)
+                      (S
+                        (VP (VBG calling)
+                          (S
+                            (NP (PRP her))
+                            (`` ``)
+                            (ADJP (JJ stupid))))))))))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (ADVP (RB Actually))
+    (, ,)
+    (NP (NNP Clinton))
+    (VP (VBD did) (RB n't)
+      (VP
+        (ADVP (RB so) (RB much))
+        (VP (VB call)
+          (NP (PRP$ her) (JJ stupid)))
+        (IN as)
+        (VP (VB give)
+          (NP (PRP her))
+          (NP (PRP$ his) (NN trademark) (NN compliment\/insult)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (DT The) (JJ full) (NN quote))
+        (VP (VBD was) (: :) (`` ``)
+          (S
+            (NP (PRP She))
+            (VP (VBZ 's)
+              (ADJP (RB very) (JJ attractive)
+                (PP (IN in)
+                  (S
+                    (VP (VBG saying)
+                      (NP (PDT all) (DT these) (NNS things))))))))))
+      (NP (PRP she))
+      (VP (VBZ says)))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (RB pretty) (JJ stupid))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (ADVP (RB Still))
+    (, ,)
+    (NP (NNP Clinton))
+    (VP (VBZ is)
+      (ADJP (JJ able)
+        (S
+          (VP (TO to)
+            (VP (VB fill)
+              (NP (DT the) (NN void))
+              (PP (IN on)
+                (NP (DT the) (NN campaign) (NN trail)))))))
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP
+            (NP (NNP Obama) (POS 's))
+            (NN presence))
+          (VP (VBZ is)
+            (VP (VBN considered)
+              (ADJP (RB too) (JJ toxic)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Take)
+      (NP
+        (NP (NNP West) (NNP Virginia))
+        (, ,)
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (NNP Clinton))
+            (VP (VBN campaigned)
+              (NP (NNP Monday))
+              (PP (IN for)
+                (NP (JJ Democratic) (NNP Senate) (NN nominee) (NNP Joe) (NNP Manchin))))))))
+    (. .)))
+
+(ROOT
+  (S (CC Or)
+    (NP
+      (NP (NNP Arkansas))
+      (, ,)
+      (SBAR
+        (WHADVP (WRB where))
+        (S
+          (NP (NNP Clinton))
+          (VP (VBN campaigned)
+            (NP (JJ last) (NN month))
+            (PP (IN for)
+              (NP (JJ on-the-ropes) (NNP Sen.) (NNP Blanche) (NNP Lincoln)))
+            (ADVP (CC and))))))
+    (VP (VBZ is)
+      (VP (VBN set)
+        (PP (TO to)
+          (NP
+            (NP (NN stump))
+            (PP (IN for)
+              (NP (PRP her)))))
+        (PP
+          (ADVP (RB again))
+          (IN on)
+          (NP (NNP Wednesday)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Lincoln))
+    (ADVP (RB just))
+    (VP (VBD used)
+      (NP
+        (NP
+          (NP (NNP September) (POS 's))
+          (NNP Clinton) (NN footage))
+        (PP (IN in)
+          (NP (DT a) (JJ new) (NN TV) (NN ad)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Clinton))
+    (VP (VBZ has)
+      (NP
+        (NP (DT another) (NN campaign) (NN stop))
+        (VP (VBN set)
+          (PP (IN for)
+            (NP
+              (NP (NNP Tuesday) (NN night))
+              (PP (IN in)
+                (NP
+                  (NP (NNP Nevada))
+                  (, ,)
+                  (SBAR
+                    (WHADVP (WRB where))
+                    (S
+                      (NP
+                        (NP (PRP he))
+                        (CC and)
+                        (NP (NNP Senate) (NNP Majority) (NNP Leader) (NNP Harry) (NNP Reid)))
+                      (VP (MD will)
+                        (VP (VB hold)
+                          (NP
+                            (NP (DT a) (JJ joint) (NN rally))
+                            (PP (IN in)
+                              (NP (NNP Las) (NNP Vegas)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN From)
+      (ADVP (RB there)))
+    (, ,)
+    (NP (PRP he) (NNS campaigns))
+    (NP (JJ next) (NN week))
+    (VP
+      (ADVP (IN for))
+      (VBD underdog)
+      (NP
+        (NP (JJ Democratic) (NNP Senate) (NN nominee) (NNP Kendrick) (NNP Meek))
+        (PP (IN in)
+          (NP (NNP Florida)))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (PRP he))
+    (VP (VBZ 's)
+      (VP (VBN got)
+        (NP
+          (NP (DT a) (NNP Baltimore) (NN rally))
+          (VP (VBN set)
+            (PP (IN for)
+              (NP (NNP Maryland) (NNP Gov.)))))))))
+

@@ -1,0 +1,463 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Mitt) (NNP Romney))
+      (, ,)
+      (NP (DT the) (JJ leading) (JJ Republican) (JJ presidential) (NN candidate))
+      (, ,))
+    (VP (VBZ is)
+      (VP (VBG calling)
+        (PP (IN for)
+          (NP
+            (NP (DT a) (NN century))
+            (PP (IN of)
+              (NP
+                (NP (JJ American) (NN dominance))
+                (PP (IN in)
+                  (NP
+                    (NP (PRP$ his) (JJ first) (JJ major) (JJ foreign) (NN policy) (NN address))
+                    (, ,)
+                    (VP (VBG outlining)
+                      (NP (NNS plans)
+                        (S
+                          (VP (TO to)
+                            (VP (VB strengthen)
+                              (NP (DT the) (NNP U.S.) (NN military))
+                              (SBAR (IN while)
+                                (S
+                                  (VP (VBG rejecting)
+                                    (NP (JJ multilateral) (NNS institutions))
+                                    (PP (IN like)
+                                      (NP (DT the) (NNP United) (NNPS Nations))))))
+                              (FRAG
+                                (WHADJP (WRB when) (JJ necessary))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ former) (NNP Massachusetts) (NN governor))
+    (ADVP (RB also))
+    (VP (VBZ condemns)
+      (NP
+        (NP (DT the) (JJ isolationist) (NNS policies))
+        (VP (VBN supported)
+          (PP (IN by)
+            (NP
+              (NP (DT some) (JJ conservative) (NN tea) (NN party))
+              (NNS members)))
+          (PP (IN in)
+            (NP (DT a) (NN speech)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (VP (VBN delivered)
+                      (NP (NNP Friday))
+                      (PP (IN at)
+                        (NP
+                          (NP (DT The) (NNP Citadel))
+                          (, ,)
+                          (NP (DT an) (JJ iconic) (JJ military) (NN college))))
+                      (PP (IN in)
+                        (NP (NNP South) (NNP Carolina))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ comes)
+      (SBAR (IN as)
+        (S
+          (NP (NNP Romney))
+          (VP (VBZ has)
+            (VP (VBN jumped)
+              (PRT (RP back))
+              (PP (IN into)
+                (NP
+                  (NP (DT the) (NN lead))
+                  (PP (IN in)
+                    (NP (JJ national) (NN polling)))))
+              (S
+                (VP (VBG following)
+                  (NP
+                    (NP
+                      (NP (NNP Texas) (NNP Gov.) (NNP Rick) (NNP Perry) (POS 's))
+                      (JJ disappointing) (NNS performances))
+                    (PP (IN in)
+                      (NP (JJ political) (NNS debates)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN location))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NN speech))
+          (, ,)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (JJ early) (JJ primary) (NN voting) (NN state))
+              (PP (IN of)
+                (NP (NNP South) (NNP Carolina)))))
+          (, ,))))
+    (VP (VBZ is)
+      (NP (DT no) (NN coincidence)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Next) (NN year) (POS 's))
+      (NN election))
+    (VP (VBZ is)
+      (ADJP (JJ likely)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN dominated)
+                (PP (IN by)
+                  (NP
+                    (NP (JJ domestic) (NNS issues))
+                    (, ,) (RB especially)
+                    (NP
+                      (NP (DT the) (JJ weak) (NNP U.S.) (JJ economic) (NN recovery))
+                      (PP (IN from)
+                        (NP
+                          (NP (DT the) (JJ Great) (NN Recession))
+                          (SBAR
+                            (WHNP (WDT that))
+                            (S
+                              (VP (VBZ has)
+                                (VP (VBN left)
+                                  (NP
+                                    (NP (NNS millions))
+                                    (PP (IN of)
+                                      (NP (NNPS Americans))))
+                                  (PP (IN without)
+                                    (NP (NNS jobs))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (SBAR (IN while)
+      (S
+        (NP (NNP President) (NNP Barack) (NNP Obama))
+        (VP (MD may)
+          (VP (VB be)
+            (ADJP (JJ vulnerable)
+              (PP (TO to)
+                (NP
+                  (NP (NN criticism))
+                  (PP (IN about)
+                    (NP (DT the) (NN economy))))))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBZ has)
+      (NP
+        (NP
+          (ADJP (RB considerably) (JJR more))
+          (ADJP (JJ foreign) (NN policy))
+          (NN experience))
+        (PP (IN than)
+          (NP
+            (NP (NNP Romney))
+            (CC and)
+            (NP
+              (NP
+                (ADJP (RBS most) (JJ other))
+                (NNPS Republicans))
+              (PP (IN in)
+                (NP (DT the) (CD 2012) (NN election) (NN field))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Romney))
+      (PP (IN in)
+        (NP
+          (NP (NNP Friday) (POS 's))
+          (NN speech))))
+    (VP
+      (VP (VBZ speaks)
+        (PP (IN in)
+          (NP
+            (NP (JJ broad) (NNS terms))
+            (PP (IN about)
+              (NP (NNP U.S.) (JJ foreign) (NN policy))))))
+      (CC but)
+      (VP (VBZ gives)
+        (NP (JJ few) (NNS specifics))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (NNP America) (POS 's))
+        (NN moment)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (MD should)
+      (VP
+        (VP (VB embrace)
+          (NP (DT the) (NN challenge)))
+        (, ,) (RB not)
+        (VP
+          (VP (VB shrink)
+            (PP (IN from)
+              (NP (PRP it))))
+          (, ,)
+          (ADVP (RB not))
+          (VP (VB crawl)
+            (PP (IN into)
+              (NP (DT an) (JJ isolationist) (NN shell))))
+          (, ,)
+          (VP
+            (ADVP (RB not))
+            (VB wave)
+            (NP
+              (NP (DT the) (JJ white) (NN flag))
+              (PP (IN of)
+                (NP (NN surrender)))))
+          (, ,)
+          (CC nor)
+          (VP (VB give)
+            (PRT (RP in))
+            (PP (TO to)
+              (NP
+                (NP (DT those))
+                (SBAR
+                  (WHNP (WP who))
+                  (S
+                    (VP (VBP assert)
+                      (SBAR
+                        (S
+                          (NP
+                            (NP (NNP America) (POS 's))
+                            (NN moment))
+                          (VP (VBZ has)
+                            (VP (VBN passed))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT That))
+      (VP (VBZ is)
+        (NP (JJ utter) (NN nonsense))))
+    (, ,) ('' '')
+    (NP (NNP Romney))
+    (VP (VBZ says)
+      (PP (IN in)
+        (NP
+          (NP (JJ prepared) (NNS remarks))
+          (VP (VBN obtained)
+            (PP (IN by)
+              (NP (DT The) (NNP Associated) (NNP Press)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Romney))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (ADVP (RB also))
+          (VP (VBD ran)
+            (PP (IN for)
+              (NP (DT the)
+                (ADJP (CD 2008) (JJ Republican))
+                (JJ presidential) (NN nomination))))))
+      (, ,))
+    (VP
+      (VP (VBZ offers)
+        (NP (DT no) (JJ clear) (NN direction))
+        (PP (IN for)
+          (NP
+            (NP (DT the) (NN war))
+            (PP (IN in)
+              (NP (NNP Afghanistan))))))
+      (, ,)
+      (CC but)
+      (VP (VBZ says)
+        (SBAR
+          (S
+            (NP (PRP he))
+            (VP (MD would)
+              (VP (VB conduct)
+                (NP
+                  (NP (DT a) (JJ full) (NN review))
+                  (PP (IN of)
+                    (NP (DT the) (NN situation))))
+                (PP (IN in)
+                  (NP
+                    (NP (PRP$ his) (JJ first) (CD 100) (NNS days))
+                    (PP (IN in)
+                      (NP (NN office)))))
+                (S
+                  (VP (TO to)
+                    (VP (VB determine)
+                      (NP (`` ``)
+                        (NP (DT the) (NN presence))
+                        (ADJP (JJ necessary)
+                          (S
+                            (VP (TO to)
+                              (VP
+                                (VP (VB secure)
+                                  (NP (PRP$ our) (NNS gains)))
+                                (CC and)
+                                (VP
+                                  (ADVP (RB successfully))
+                                  (VB complete)
+                                  (NP (PRP$ our) (NN mission)))))))))))))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S (`` ``)
+    (NP (DT This) (NN century))
+    (VP (MD must)
+      (VP (VB be)
+        (NP (DT an) (JJ American) (NN century))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN In)
+        (NP (DT an) (JJ American) (NN century)))
+      (, ,)
+      (NP (NNP America))
+      (VP (VBZ has)
+        (NP
+          (NP (DT the) (JJS strongest) (NN economy))
+          (CC and)
+          (NP
+            (NP (DT the) (JJS strongest) (NN military))
+            (PP (IN in)
+              (NP (DT the) (NN world)))))))
+    (, ,) ('' '')
+    (NP (NNP Romney))
+    (VP (VBZ says))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (NNP God))
+    (VP (VBD did) (RB not)
+      (VP (VB create)
+        (NP (DT this) (NN country))
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP
+                (NP (DT a) (NN nation))
+                (PP (IN of)
+                  (NP (NNS followers)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP America))
+    (VP (VBZ is) (RB not)
+      (VP (VBN destined)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (NP
+                (NP (CD one))
+                (PP (IN of)
+                  (NP
+                    (NP (JJ several))
+                    (ADJP (RB equally) (JJ balanced))
+                    (JJ global) (NNS powers)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP America))
+      (VP (MD must)
+        (VP (VB lead)
+          (NP (DT the) (NN world)))))
+    (, ,)
+    (CC or)
+    (S
+      (NP (NN someone) (RB else))
+      (VP (MD will)))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (SBAR (IN While)
+      (S
+        (NP (NNP Romney))
+        (VP (VBD served)
+          (PP (IN as)
+            (NP
+              (NP (DT a) (NN Mormon))
+              (PP (JJ missionary) (IN in)
+                (NP (NNP France)))))
+          (ADVP
+            (NP
+              (QP (JJR more) (IN than) (CD four))
+              (NNS decades))
+            (RB ago)))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBZ has)
+      (NP
+        (ADJP (JJ limited) (JJ foreign) (NN policy))
+        (NN experience)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (NP (PRP he))
+        (VP (VBZ says)
+          (PP (IN in)
+            (NP (RB nearly) (DT every) (NN campaign) (NN stop))))))
+    (, ,)
+    (NP (PRP he))
+    (VP (VBZ has)
+      (VP (VBN spent)
+        (NP
+          (NP (DT the) (NN majority))
+          (PP (IN of)
+            (NP (PRP$ his) (NN life))))
+        (PP (IN in)
+          (NP (DT the) (NN business) (NN world)))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (NNP Romney))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (NP
+          (NP (JJ critical))
+          (PP (IN of)
+            (NP
+              (NP
+                (NP (NNP Obama) (POS 's))
+                (JJ foreign) (NN policy))
+              (, ,) (RB particularly)
+              (NP
+                (NP (DT the) (NN president) (POS 's))
+                (JJ aggressive) (NN timeline)
+                (S
+                  (VP (TO to)
+                    (VP (VB withdraw)
+                      (NP (NNS troops))
+                      (PP (IN from)
+                        (NP (NNP Afghanistan))))))))))))
+    (. .)))
+

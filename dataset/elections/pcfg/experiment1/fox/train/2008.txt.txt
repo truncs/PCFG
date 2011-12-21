@@ -1,0 +1,444 @@
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (NP
+          (NP (NNP Ohio) (NNPS Democrats) (NN prep))
+          (PP (IN for)
+            (NP (DT a) (JJ final) (NN blowout) (NN weekend))))
+        (VP (VBN filled)
+          (PP (IN with)
+            (NP (NNS rallies))))))
+    (, ,)
+    (S
+      (VP (VBG welcoming)
+        (NP (DT both) (NNP President) (NNP Obama)
+          (CC and)
+          (JJ former) (NNP President) (NNP Clinton) (, ,) (JJ Republican) (NNS governors))
+        (PP (IN from)
+          (PP (IN across)
+            (NP (DT the) (NN country))))))
+    (VP (VBP are)
+      (VP (VBG hitting)
+        (NP (DT the) (NNP Buckeye) (NNP State))
+        (NP (NN today))
+        (PP (TO to)
+          (NP
+            (NP (NN campaign))
+            (PP (IN for)
+              (NP (NN challenger) (NNP John) (NNP Kasich)))))
+        (, ,)
+        (NP
+          (NP (DT a) (JJ former) (JJ nine-term) (NN congressman))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBZ has) (RB consistently)
+                (VP (VBN led)
+                  (NP (DT the) (NNS polls))
+                  (PP (IN by)
+                    (NP (DT a) (JJ single) (NN digit) (NN margin))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Ohio) (JJ incumbent) (NNP Governor) (NNP Democrat) (NNP Ted) (NNP Strickland))
+    (VP (VBZ is)
+      (VP (VBG battling)
+        (S
+          (VP (TO to)
+            (VP (VB hold)
+              (NP (PRP$ his) (NN seat))
+              (PP (IN against)
+                (NP
+                  (NP (NNP Kasich))
+                  (, ,)
+                  (NP
+                    (NP (JJ former) (NN chairman))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NNP U.S.) (NNP House) (NNP Committee))
+                        (PP (IN on)
+                          (NP (DT the) (NNP Budget)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The)
+          (ADJP (JJS latest) (JJ Real))
+          (NNP Clear) (NNPS Politics) (NN average))
+        (PP (IN of)
+          (NP (NNS polls))))
+      (VP (VBZ puts)
+        (NP (NNP Kasich))
+        (ADVP (RP up)
+          (NP (CD 3.2) (NNS points))
+          (PP (IN over)
+            (NP (NNP Strickland))))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT a) (NNP Fox) (NNP News) (NNP Poll))
+        (VP (VBN released)
+          (NP (NNP Tuesday))))
+      (VP (VBZ shows)
+        (NP (NNP Kasich))
+        (PRT (RP up))
+        (PP (IN by)
+          (NP (CD 4) (NNS points)))
+        (, ,)
+        (NP
+          (NP (CD 47) (NN percent))
+          (PP (TO to)
+            (NP (CD 43) (NN percent))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Mississippi) (NNP Governor) (NNP Haley) (NNP Barbour))
+      (, ,)
+      (NP (NNP New) (NNP Jersey) (NNP Governor) (NNP Chris) (NNP Christie))
+      (CC and)
+      (NP (NNP Minnesota) (NNP Governor) (NNP Tim) (NNP Pawlenty)))
+    (VP (MD will)
+      (VP (VB join)
+        (NP (NNP Kasich))
+        (PP (IN at)
+          (NP
+            (NP (DT a) (NN rally))
+            (PP (IN in)
+              (NP (JJ historic) (NNP Lebanon)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Ohio))
+    (VP (VBZ has) (RB long)
+      (VP (VBN been)
+        (VP (VBN considered)
+          (UCP
+            (NP (DT a) (JJ quintessential) (JJ bellwether) (NN state))
+            (CC and)
+            (ADJP (RB strategically) (JJ valuable)
+              (PP (IN in)
+                (NP (JJ presidential) (NNS elections))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Ohio) (NNS voters))
+    (VP (VBP have)
+      (NP (DT an) (JJ uncanny) (NN ability)
+        (S
+          (VP (TO to)
+            (VP (VB pick)
+              (NP
+                (NP (NNS presidents))
+                (, ,)
+                (SBAR
+                  (S
+                    (ADVP (RB accurately))
+                    (VP (VBG voting)
+                      (PP (IN for)
+                        (NP (DT the) (NNS winners)))
+                      (NP (DT every) (NN year))
+                      (PP (IN since)
+                        (NP (CD 1964))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Strategists))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBZ 's)
+            (NP
+              (NP (NN part))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN reason))
+                  (SBAR
+                    (S
+                      (NP (NNP President) (NNP Obama))
+                      (VP (VBZ has)
+                        (VP (VBN spent)
+                          (NP
+                            (ADJP (RB so) (JJ much))
+                            (NN time)))))))))
+            (ADVP (RB here))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Barbour)
+      (CC and)
+      (NNP Pawlenty))
+    (VP (VBP are)
+      (ADVP (RB also))
+      (VP
+        (ADVP (RB widely))
+        (VBN considered)
+        (NP (JJ likely) (NNS contenders))
+        (S
+          (VP (TO to)
+            (VP (VB run)
+              (PP (IN for)
+                (NP (DT the) (NNP White) (NNP House)))
+              (PP (IN in)
+                (NP (CD 2012))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Political) (NNS analysts))
+    (VP (VBP say)
+      (SBAR
+        (S
+          (S
+            (VP (VBG having)
+              (NP (DT a) (JJ same-party) (NN governor))
+              (PP (IN in)
+                (NP (NN place)))))
+          (VP (MD can)
+            (VP (VB help)
+              (VP (VB give)
+                (NP (NNS candidates))
+                (NP (DT an) (NN edge))
+                (, ,)
+                (ADVP (RB especially))
+                (PP (IN in)
+                  (NP (DT a) (JJ close) (NN race)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Ohio) (NNP State) (NNP University))
+      (NP (NN professor) (NNP Paul) (NNP Beck)))
+    (VP
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBG tracking)
+            (NP
+              (UCP (NN state)
+                (CC and)
+                (JJ national))
+              (NNS politics))
+            (PP (IN for)
+              (NP (NNS decades))))))
+      (CC and)
+      (VP (VBZ believes)
+        (SBAR
+          (S
+            (NP (NNS governors))
+            (VP (MD can)
+              (VP (VB play)
+                (NP (DT a) (JJ valuable) (NN role))
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP (JJ presidential) (NNS contenders))
+                    (VP (VBP arrive)
+                      (PP (IN in)
+                        (NP (NN town))))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (VP (VBG Having)
+        (NP
+          (NP (DT a) (NN governor))
+          (PP (IN in)
+            (NP (NN place))))
+        (ADVP (RB still))))
+    (VP (VBZ brings)
+      (NP (PRP you))
+      (NP (DT an) (JJ on-the-ground) (NN organization)))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (NP (PRP It))
+      (VP (VBZ brings)
+        (NP (PRP you))
+        (NP
+          (NP (DT the) (NN kind))
+          (PP (IN of)
+            (NP (NN support)))
+          (SBAR
+            (S
+              (NP (PRP you))
+              (VP (MD can)
+                (VP (VB get)
+                  (SBAR
+                    (WHADVP (WRB when))
+                    (S
+                      (NP (PRP you))
+                      (VP (VBP come)
+                        (PP (TO to)
+                          (NP (DT a) (NN state)))
+                        (, ,)
+                        (S
+                          (VP (VBG turning)
+                            (PRT (RP out))
+                            (NP (NNS crowds))))
+                        (, ,)
+                        (S
+                          (VP (VBG doing)
+                            (NP
+                              (NP (DT a) (NN variety))
+                              (PP (IN of)
+                                (NP (JJ other) (NNS things))))))))))))))))
+    (, ,) ('' '')
+    (VP (VBZ says))
+    (NP (NNP Beck))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (CD 2006)))
+    (NP (NNP Strickland))
+    (VP (VBD won)
+      (NP (DT the) (NN race))
+      (PP (IN for)
+        (NP (NN governor)))
+      (PP (IN by)
+        (NP
+          (NP (DT a) (JJ wide) (NN margin))
+          (VP (VBG following)
+            (NP
+              (NP (CD 16) (NNS years))
+              (PP (IN of)
+                (NP (JJ Republican) (NN rule))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Then))
+    (NP (NNP Mr.) (NNP Obama))
+    (VP (VBD took)
+      (NP (DT the) (NN state))
+      (PP (IN in)
+        (NP (DT the) (CD 2008) (JJ presidential) (NN election)))
+      (, ,)
+      (S
+        (VP (VBG beating)
+          (NP
+            (NP (NNP McCain) (CD 51) (NN percent))
+            (PP (TO to)
+              (NP
+                (NP (CD 47) (NN precent))
+                (PP (IN in)
+                  (NP (DT a) (NN state)))))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBD backed)
+                  (NP (NNP President) (NNP Bush))
+                  (PP (IN in)
+                    (NP (DT both) (CD 2000)
+                      (CC and)
+                      (CD 2004))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Now))
+    (, ,)
+    (S
+      (PP (IN in)
+        (NP (CD 2010)))
+      (, ,)
+      (NP (NN unemployment))
+      (VP (VBZ is)
+        (ADJP (JJ high))))
+    (CC and)
+    (S
+      (NP (JJ sustained) (NN job) (NNS losses))
+      (VP (VBP are)
+        (VP (VBG haunting)
+          (NP (DT the) (NN labor) (NN sector)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Since)
+      (S
+        (NP (DT the) (NN stimulus))
+        (VP (VBD was)
+          (VP (VBN signed)
+            (PP (IN in)
+              (NP
+                (NP (NNP February))
+                (PP (IN of)
+                  (NP (CD 2009)))))))))
+    (, ,)
+    (NP (DT the) (NN state))
+    (VP (VBZ has)
+      (VP (VBN shed)
+        (NP
+          (QP (JJR more) (IN than) (CD 166,000))
+          (NNS jobs))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Strickland))
+      (VP (VBZ is)
+        (VP (VBG facing)
+          (NP (DT a) (JJ tough) (NN battle)))))
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (ADJP (JJ clear))
+        (SBAR
+          (S
+            (NP (DT the) (NNP White) (NNP House))
+            (VP (VBZ sees)
+              (NP (DT the) (NN race))
+              (PP (IN as)
+                (NP (JJ critical)
+                  (CC and)
+                  (NNP Ohio)))
+              (PP (IN as)
+                (ADJP (RB strategically) (JJ important))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP President) (NNP Obama))
+    (VP (VBZ has)
+      (VP (VBN made)
+        (NP
+          (NP (NNS eleven) (NNS trips))
+          (PP (TO to)
+            (NP
+              (NP (DT the) (NN state))
+              (PP (IN since)
+                (S
+                  (VP (VBG taking)
+                    (NP
+                      (ADJP (NN office)
+                        (CC and)
+                        (NN will))
+                      (NN headline))
+                    (NP (PRP$ his) (JJ final) (JJ major) (NN rally))
+                    (PP (IN before)
+                      (NP
+                        (NP (NN election) (NN day))
+                        (PP (IN in)
+                          (NP (NNP Cleveland)))))))))))
+        (PP (IN on)
+          (NP (NNP Sunday)))))
+    (. .)))
+

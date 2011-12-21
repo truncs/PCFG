@@ -1,0 +1,491 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP President) (NNP Obama))
+        (CC and)
+        (NP (NNPS Democrats)))
+      (VP (VBP have)
+        (VP (VBN proposed)
+          (NP (DT a)
+            (ADJP ($ $) (CD 250))
+            (NN rebate))
+          (PP (TO to)
+            (NP
+              (NP (NNS seniors))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBP are) (RB not)
+                    (VP (VBG getting)
+                      (NP
+                        (NP (DT a) (JJ cost-of-living) (NN increase))
+                        (PP (IN in)
+                          (NP
+                            (NP (PRP$ their) (NNP Social) (NNP Security) (NNS benefits))
+                            (PP (IN for)
+                              (NP (DT the) (JJ second) (NN year)))))
+                        (PP (IN in)
+                          (NP (DT a) (NN row)))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (NNS critics))
+      (VP (VBP are)
+        (VP (VBG suggesting)
+          (SBAR
+            (S
+              (NP (DT the) (VBN promised) (NN pay-out))
+              (VP
+                (VP (VBZ is)
+                  (ADVP (RB merely))
+                  (VP (VBN intended)
+                    (S
+                      (VP (TO to)
+                        (VP (VB sway)
+                          (NP (DT the) (JJ senior) (NN vote)))))))
+                (: --)
+                (CC and)
+                (VP
+                  (ADVP (RB likely))
+                  (MD wo) (RB n't)
+                  (VP
+                    (ADVP (RB even))
+                    (VB succeed)
+                    (PP (IN in)
+                      (NP (WDT that)))
+                    (, ,)
+                    (PP (IN with)
+                      (NP
+                        (NP (DT the) (NN midterm) (NN election))
+                        (ADVP
+                          (NP (CD two) (NNS weeks))
+                          (RB away))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Polls))
+    (VP (VBP suggest)
+      (SBAR
+        (S
+          (NP (DT the) (NNP Social) (NNP Security) (NN work-around))
+          (VP (MD wo) (RB n't)
+            (VP (VB have)
+              (NP
+                (NP (JJ much) (JJ political) (NN impact))
+                (PP (IN on)
+                  (NP
+                    (NP (NNS seniors))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP
+                          (VP (VBP are)
+                            (VP (VBN poised)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB turn)
+                                    (PRT (RP out))
+                                    (PP (IN in)
+                                      (NP
+                                        (NP (NN record) (NNS levels))
+                                        (PP (IN on)
+                                          (NP (NNP Nov.) (CD 2))))))))))
+                          (CC and)
+                          (VP (VBP are)
+                            (ADJP (JJ likely)
+                              (S
+                                (VP (TO to)
+                                  (VP (VB pull)
+                                    (NP (DT the) (NN lever))
+                                    (PP (IN for)
+                                      (NP
+                                        (NP (DT the) (JJ Republican) (NN candidate))
+                                        (: --)
+                                        (NP
+                                          (NP (DT an) (NN advantage))
+                                          (SBAR
+                                            (WHNP (WDT that))
+                                            (S
+                                              (VP (MD could)
+                                                (VP (VB propel)
+                                                  (NP (DT the) (NNP GOP))
+                                                  (PP (IN into)
+                                                    (NP
+                                                      (NP (NN power))
+                                                      (PP (IN in)
+                                                        (NP
+                                                          (NP (DT the) (NNP House))
+                                                          (CC and)
+                                                          (RB possibly)
+                                                          (NP (DT the) (NNP Senate)))))))))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN proposal))
+    (VP (VBZ comes)
+      (SBAR (IN as)
+        (S
+          (NP
+            (QP (JJR more) (IN than) (CD 200))
+            (JJ Democratic) (NNS candidates))
+          (VP (VBP urge)
+            (S
+              (NP (NNP Obama))
+              (VP (TO to)
+                (VP (VB reject)
+                  (NP (DT any) (VBN proposed) (NNS cuts))
+                  (PP (TO to)
+                    (NP (NNP Social) (NNP Security) (NNS benefits)))
+                  (PP (IN from)
+                    (NP
+                      (NP (PRP$ his) (JJ fiscal) (NN commission))
+                      (, ,)
+                      (SBAR
+                        (WHNP (WDT which))
+                        (S
+                          (VP (VBZ has)
+                            (VP (VBN said)
+                              (SBAR
+                                (S
+                                  (NP
+                                    (NP (NN everything))
+                                    (, ,)
+                                    (VP (VBG including)
+                                      (NP (NNS entitlements)))
+                                    (, ,))
+                                  (VP (VBP are)
+                                    (PP (IN on)
+                                      (NP (DT the) (NN table)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Critics))
+    (VP (VBP dismiss)
+      (NP (DT the) (NNS efforts))
+      (PP (IN as)
+        (NP (DT a) (JJ cheap) (NN stunt))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP I))
+      (VP (VBP think)
+        (SBAR
+          (S
+            (NP
+              (NP
+                (NP (DT the) (NNP Democratic) (NNP Party) (POS 's))
+                (NN standing))
+              (PP (IN between)
+                (UCP
+                  (ADVP (RB now))
+                  (CC and)
+                  (NP (NNP November)))))
+            (VP (VBZ is)
+              (NP
+                (NP (JJ past) (DT the) (NN point))
+                (PP (IN of)
+                  (NP
+                    (NP (NN rescue))
+                    (PP (IN with)
+                      (NP (NNS seniors)))))))))))
+    (, ,) ('' '')
+    (NP
+      (NP (NNP Glen) (NNP Bolger))
+      (, ,)
+      (NP (DT a) (NNP GOP) (NN pollster))
+      (, ,))
+    (VP (VBD told)
+      (NP (NNP FoxNews.com)))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (JJ Democratic) (NN pollster) (NNP Mark) (NNP Mellman))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN proposal))
+          (VP (MD ca) (RB n't)
+            (VP (VB hurt))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADJP (JJ hard)
+          (S
+            (VP (TO to)
+              (VP (VB say)
+                (SBAR (IN that)
+                  (S
+                    (NP (DT any) (NN policy))
+                    (VP (VBZ makes)
+                      (NP (DT the) (NN difference)))))))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (CC But)
+    (NP (PRP it))
+    (VP (VBZ does)
+      (VP (VB underline)
+        (SBAR
+          (S
+            (NP
+              (NP (NNS differences))
+              (PP (IN between)
+                (NP (NNPS Republicans)
+                  (CC and)
+                  (NNPS Democrats)))
+              (PP (IN on)
+                (NP
+                  (NP (NNP Social) (NNP Security))
+                  (CC and)
+                  (NP (NNP Social) (NNP Security)))))
+            (VP (MD can)
+              (VP (VB make)
+                (NP
+                  (NP (DT a) (JJ real) (NN difference))
+                  (PP (IN in)
+                    (NP
+                      (NP (NNS seniors) (POS '))
+                      (NN voting) (NNS decisions))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (JJ Democratic) (NN pollster) (NNP Guy) (NNP Molyneux))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNS seniors))
+          (VP (MD will)
+            (VP (VB have)
+              (NP
+                (NP (DT a) (`` ``) (JJ positive) (NN reaction) ('' ''))
+                (PP (TO to)
+                  (NP
+                    (NP (NNS candidates))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VB support)
+                          (NP (DT the) (NN proposal)))))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (SBAR (IN Whether)
+        (S
+          (NP (PRP it))
+          (VP (MD will)
+            (VP (VB move)
+              (NP (PRP$ their) (NNS votes))))))
+      (, ,)
+      (NP (PRP I))
+      (ADVP (RB really))
+      (VP (VBP do) (RB n't)
+        (VP (VB know))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Obama) (POS 's))
+      (JJ 18-member) (JJ bipartisan) (NN deficit) (NN commission))
+    (VP (VBZ is)
+      (VP (VBN expected)
+        (S
+          (VP (TO to)
+            (VP (VB unveil)
+              (NP
+                (NP (DT a) (NN set))
+                (PP (IN of)
+                  (NP (NNS proposals))))
+              (PP (IN for)
+                (S
+                  (VP (VBG cutting)
+                    (NP (DT the) (NN deficit))
+                    (PP (IN in)
+                      (NP (NNP December)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (CD two) (NNS leaders))
+      (PP (IN of)
+        (NP (DT the) (NN panel))))
+    (VP
+      (VP (VBP have)
+        (VP (VBN warned)
+          (SBAR (IN that)
+            (S
+              (NP (NNP Social) (NNP Security))
+              (VP (VBZ is)
+                (VP (VBG careening)
+                  (PP (IN toward)
+                    (NP (NN bankruptcy)))))))))
+      (CC and)
+      (VP (VBP have)
+        (VP (VBN indicated)
+          (SBAR (IN that)
+            (S
+              (NP (DT every) (NN option))
+              (VP (VBZ is)
+                (PP (IN on)
+                  (NP (DT the) (NN table)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (MD could)
+      (VP (VB mean)
+        (NP (NNS proposals)
+          (S
+            (VP (TO to)
+              (VP
+                (VP (VB cut)
+                  (NP (JJ future) (NNS benefits)))
+                (CC or)
+                (VP (VB increase)
+                  (NP (NN payroll) (NNS taxes)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Several) (JJ Republican) (NNS candidates))
+      (PP (IN on)
+        (NP (DT the) (NN campaign) (NN trail))))
+    (VP (VBP have)
+      (VP (VBN warned)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NNS workers))
+              (PP (IN under)
+                (NP (NN age) (CD 55))))
+            (VP (MD should)
+              (VP (VB prepare)
+                (S
+                  (VP (TO to)
+                    (VP (VB face)
+                      (NP
+                        (NP (NNS changes))
+                        (PP (IN in)
+                          (NP
+                            (NP (DT the) (NN way))
+                            (SBAR
+                              (S
+                                (NP (NNP Social) (NNP Security))
+                                (VP (VBZ calculates)
+                                  (NP (NN retirement)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP
+      (NP
+        (QP (JJR more) (IN than) (CD 200))
+        (NNS Democrats))
+      (, ,)
+      (VP (VBG including)
+        (NP
+          (NP (CD 81) (NNP House) (NNS candidates))
+          (, ,)
+          (NP
+            (NP (CD 11) (NNP Senate) (NNS candidates))
+            (CC and)
+            (NP (CD 133) (JJ congressional) (NNS incumbents)))))
+      (, ,))
+    (VP (VBP have)
+      (VP (VBN signed)
+        (NP
+          (NP (DT a) (NN petition))
+          (VP (VBN circulated)
+            (PP (IN by)
+              (NP (DT the) (NNP Progressive) (NNP Change) (NNP Campaign) (NNP Committee)))
+            (S
+              (VP (TO to)
+                (VP (VB protect)
+                  (NP
+                    (NP (DT the) (FW status) (FW quo))
+                    (PP (IN of)
+                      (NP (DT the) (NN program)))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (NNP Social) (NNP Security))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (NN promise))
+          (SBAR
+            (WHNP (IN that))
+            (S
+              (VP (MD must) (RB not)
+                (VP (VB be)
+                  (VP (VBN broken)))))))))
+    (, ,) ('' '')
+    (NP (DT the) (NN pledge))
+    (VP (VBZ reads)
+      (PP (IN in)
+        (NP (NN part))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (PRP We))
+    (VP (VBP need)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB strengthen)
+              (NP (NNP Social) (NNP Security)))
+            (, ,) (RB not)
+            (VP (VB cut)
+              (NP (PRP it)))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP
+      (NP (NNS Members))
+      (PP (IN of)
+        (NP (DT the) (NNP Congressional) (NNP Progressive) (NNP Caucus))))
+    (ADVP (RB also))
+    (VP (VBD wrote)
+      (PP (TO to)
+        (NP (NNP Obama)))
+      (NP (JJ last) (NN month))
+      (S
+        (VP (VBG opposing)
+          (NP (DT any) (NNS cuts))
+          (PP (TO to)
+            (NP
+              (NP (NNP Social) (NNP Security) (NNS benefits))
+              (, ,)
+              (VP (VBG including)
+                (S
+                  (VP (VBG raising)
+                    (NP (DT the) (NN retirement) (NN age))))))))))
+    (. .)))
+

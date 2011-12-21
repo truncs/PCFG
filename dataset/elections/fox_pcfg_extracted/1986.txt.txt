@@ -1,0 +1,517 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Former) (NNP President) (NNP Bill) (NNP Clinton))
+      (PP (IN on)
+        (NP (NNP Friday))))
+    (VP
+      (VP (VBD called)
+        (NP (DT the) (NNP November) (NN election))
+        (NP
+          (NP (DT a) (NN clash))
+          (PP (IN of)
+            (NP (NNS ideas)))))
+      (CC and)
+      (VP (VBD urged)
+        (NP (JJ Democratic) (NNS voters))
+        (S (RB not)
+          (VP (TO to)
+            (VP (VB let)
+              (S
+                (NP
+                  (NP (PRP$ their) (NN anger))
+                  (PP (IN over)
+                    (NP (DT the) (JJ sluggish) (NN economy))))
+                (VP (VB cloud)
+                  (NP (PRP$ their) (NN judgment)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Clinton))
+    (VP (VBD spoke)
+      (PP (TO to)
+        (NP
+          (QP (IN about) (CD 1,000))
+          (NNS supporters)))
+      (PP (IN at)
+        (NP
+          (NP (DT a) (NN rally))
+          (PP (IN in)
+            (NP (NNP Santa) (NNP Ana)))))
+      (S
+        (VP (TO to)
+          (VP (VB drum)
+            (PRT (RP up))
+            (NP
+              (NP (NN support))
+              (PP (IN for)
+                (NP
+                  (NP (JJ Democratic) (NNP Congresswoman) (NNP Loretta) (NNP Sanchez))
+                  (, ,)
+                  (SBAR
+                    (WHNP (WP who))
+                    (S
+                      (VP (VBZ is)
+                        (VP (VBG facing)
+                          (NP (PRP$ her) (JJ first) (JJ serious) (NN challenge))
+                          (PP (IN in)
+                            (NP
+                              (NP (CD 14) (NNS years))
+                              (PP (IN against)
+                                (NP (NNP Republican) (NN state) (NNP Assemblyman) (NNP Van) (NNP Tran))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ former) (NN president))
+    (VP (VBD credited)
+      (NP (NNPS Democrats))
+      (PP (IN with)
+        (S
+          (VP (VBG helping)
+            (S
+              (VP (TO to)
+                (VP (VB stem)
+                  (NP (DT the) (JJ economic) (NN downturn))))))))
+      (, ,)
+      (S
+        (VP (VBG noting)
+          (SBAR
+            (S
+              (NP (NNP Sanchez))
+              (VP (VBD voted)
+                (PP (IN for)
+                  (NP (DT the) (JJ federal) (NN stimulus) (NN package)))
+                (SBAR (IN that)
+                  (S
+                    (NP (PRP he))
+                    (VP (VBD said)
+                      (SBAR
+                        (S
+                          (VP (VBD helped)
+                            (VP (VB prevent)
+                              (NP (DT a) (JJ bad) (NN situation))
+                              (PP (IN from)
+                                (S
+                                  (VP (VBG getting)
+                                    (NP (JJR worse))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (PRP You))
+    (VP (VBP have)
+      (NP (DT a) (NN choice)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBP Do) (RB n't)
+      (VP (VB let)
+        (S
+          (NP (DT this) (NN election))
+          (VP (VB be)
+            (NP
+              (NP (DT a) (NN referendum))
+              (PP (IN on)
+                (NP
+                  (NP (NNS people) (POS 's))
+                  (NN disappointment)
+                  (CC and)
+                  (NN anger))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBP Do) (RB n't)
+        (VP (VB let)
+          (S
+            (NP (NN amnesia))
+            (VP (VB get)
+              (PP (IN in)
+                (NP (DT the) (NN way))))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD told)
+      (NP (DT the) (NN crowd))
+      (PP (IN after)
+        (S
+          (VP (VBG running)
+            (PP (IN through)
+              (NP
+                (NP (DT a) (NN list))
+                (PP (IN of)
+                  (NP
+                    (NP (NNS votes))
+                    (VP (VBN taken)
+                      (PP (IN by)
+                        (NP (NNP Tran))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Clinton))
+    (VP (VBD was)
+      (S
+        (VP (VBG appearing)
+          (NP (RB later) (NNP Friday))
+          (PP (IN with)
+            (NP (JJ Democratic) (JJ gubernatorial) (NN candidate)))
+          (NP
+            (NP (NNP Jerry) (NNP Brown))
+            (PP (IN at)
+              (NP
+                (NP (DT the) (NNP University))
+                (PP (IN of)
+                  (NP
+                    (NP (NNP California))
+                    (, ,)
+                    (NP (NNP Los) (NNP Angeles))
+                    (, ,)
+                    (SBAR
+                      (WHADVP (WRB where))
+                      (S
+                        (NP
+                          (NP (NNS hundreds))
+                          (PP (IN of)
+                            (NP
+                              (NP (NNS students))
+                              (CC and)
+                              (NP (JJ other) (NNS supporters)))))
+                        (VP (VBD awaited)
+                          (NP (PRP$ his) (NN arrival)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBZ heads)
+      (PP (TO to)
+        (NP (NNP Northern) (NNP California)))
+      (PP (IN next)
+        (PP (IN for)
+          (NP
+            (NP (NN weekend) (NNS rallies))
+            (PP (IN in)
+              (NP (NNP San) (NNP Jose)
+                (CC and)
+                (NNP Napa)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Clinton))
+    (VP (VBZ is)
+      (VP (VBG campaigning)
+        (ADVP (RB nationwide))
+        (PP (IN with)
+          (NP
+            (NP (NNPS Democrats))
+            (, ,)
+            (SBAR
+              (WHNP
+                (NP (JJ many))
+                (WHPP (IN of)
+                  (WHNP (WP whom))))
+              (S
+                (VP (VBP are)
+                  (ADJP (JJ vulnerable))
+                  (NP (DT this) (NN year)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBD was)
+        (PP (IN in)
+          (NP (NNP Mississippi)
+            (CC and)
+            (NNP Arkansas)))
+        (PP (IN on)
+          (NP (NNP Thursday))))
+      (CC and)
+      (VP (VBZ has)
+        (ADVP (RB also))
+        (VP (VBN campaigned)
+          (PP (IN on)
+            (NP
+              (NP (NN behalf))
+              (PP (IN of)
+                (NP
+                  (NP
+                    (NP (NNS incumbents))
+                    (VP (VBG facing)
+                      (NP (JJ tough) (NNS challengers))
+                      (NP (DT this) (NN year))))
+                  (, ,)
+                  (VP (VBG including)
+                    (NP
+                      (NP (NNP Senate) (NNP Majority) (NNP Leader) (NNP Harry) (NNP Reid))
+                      (PP (IN of)
+                        (NP
+                          (NP (NNP Nevada))
+                          (CC and)
+                          (NP
+                            (NP (NNP Sen.) (NNP Patty) (NNP Murray))
+                            (PP (IN of)
+                              (NP (NNP Washington)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (NP
+          (NP (NNP Sanchez) (POS 's))
+          (NN district))
+        (VP (VBZ is) (RB predominantly)
+          (ADJP (JJ Democratic)))))
+    (, ,)
+    (NP (PRP she))
+    (VP (MD could)
+      (VP (VB be)
+        (VP (VBN hurt)
+          (NP (DT this) (NN year))
+          (PP (IN by)
+            (NP
+              (NP (DT a) (NN tide))
+              (PP (IN of)
+                (NP
+                  (NP (JJ anti-incumbent) (NN sentiment))
+                  (PP (VBG sweeping)
+                    (NP
+                      (NP (DT a) (NN nation))
+                      (VP (VBN frustrated)
+                        (PP (IN by)
+                          (NP (DT the) (NN economy)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN race))
+      (PP (IN in)
+        (NP
+          (NP (NNP California) (POS 's))
+          (JJ 47th) (JJ Congressional) (NN district))))
+    (VP (VBD came)
+      (PP (IN into)
+        (NP (DT the) (NN spotlight)))
+      (SBAR (IN after)
+        (S
+          (NP (NNP Sanchez))
+          (VP (VBD told)
+            (NP (DT a) (JJ Spanish-language) (NN television) (NN interviewer))
+            (SBAR
+              (S
+                (NP (DT the)
+                  (NP (`` ``)
+                    (NP (NNS Vietnamese))
+                    (CC and)
+                    (NP (NNPS Republicans))
+                    ('' '')))
+                (VP (VBD were)
+                  (VP (VBG trying)
+                    (S
+                      (VP (TO to)
+                        (VP (VB unseat)
+                          (S
+                            (NP (PRP her))
+                            (: --)
+                            (VP (VBG prompting)
+                              (S
+                                (NP (NNP Tran))
+                                (VP (TO to)
+                                  (VP (VB accuse)
+                                    (NP (PRP her))
+                                    (PP (IN of)
+                                      (S
+                                        (VP (VBG going)
+                                          (PP (IN on)
+                                            (NP (DT a) (`` ``) (JJ racial) (NN rampage))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP
+      (NP (DT The) (JJ ethnic) (NN friction))
+      (PP (IN in)
+        (NP (DT the) (NN campaign))))
+    (VP (VBZ is)
+      (ADJP (JJ unique)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (JJ gritty) (NN district))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ is)
+                  (NP (NN home))
+                  (PP (TO to)
+                    (NP
+                      (NP (NNP Disneyland))
+                      (, ,)
+                      (SBAR
+                        (WHADVP (WRB where))
+                        (S
+                          (S
+                            (NP
+                              (NP (CD 71) (NN percent))
+                              (PP (IN of)
+                                (NP (NNS residents))))
+                            (VP (VBP are)
+                              (NP (NNP Latino))))
+                          (CC and)
+                          (S
+                            (NP (CD 9) (NN percent))
+                            (VP (VBP are)
+                              (ADJP (JJ Vietnamese))
+                              (, ,)
+                              (ADJP (JJ many)
+                                (PP (IN of)
+                                  (SBAR
+                                    (WHNP (WP whom))
+                                    (S
+                                      (VP (VBD arrived)
+                                        (PP (IN as)
+                                          (NP (NNS refugees)))
+                                        (PP (IN in)
+                                          (NP (DT the) (NNS 1970s)))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Clinton))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (JJ last) (NN time))
+            (SBAR
+              (S
+                (NP (PRP he))
+                (VP (VBD spoke)
+                  (PP (IN at)
+                    (NP (DT a) (NN rally)))
+                  (PP (IN in)
+                    (NP (NNP Santa) (NNP Ana)))))))
+          (VP (VBD was)
+            (S
+              (VP (TO to)
+                (VP (VB help)
+                  (S
+                    (NP (NNP Sanchez))
+                    (VP (VB win)
+                      (NP (NN election))
+                      (PP (IN in)
+                        (NP (CD 1996))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT this) (NN year) (POS 's))
+            (NNS elections))
+          (VP (VBP mark)
+            (NP
+              (NP (DT an) (JJ important) (NN choice))
+              (PP (IN between)
+                (NP
+                  (NP (CD two) (NNS sets))
+                  (PP (IN of)
+                    (NP
+                      (NP (VBG competing) (NNS ideas))
+                      (PP (IN about)
+                        (SBAR
+                          (WHADVP (WRB where))
+                          (S
+                            (VP (TO to)
+                              (VP (VB take)
+                                (NP (DT the) (NN country))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNPS Democrats))
+      (PRN (, ,)
+        (NP (NNP Clinton))
+        (VP (VBD said))
+        (, ,))
+      (VP (VBD helped)
+        (S
+          (VP (VB slow)
+            (NP (DT the) (JJ economic) (NN downturn))))
+        (, ,)
+        (SBAR (IN while)
+          (S
+            (NP (DT the) (NNPS Republicans))
+            (VP
+              (VP (VBP blame)
+                (NP (NN government))
+                (PP (IN for)
+                  (NP
+                    (NP (DT the) (NN economy) (POS 's))
+                    (NNS ills))))
+              (CC and)
+              (VP (VBP want)
+                (S
+                  (VP (TO to)
+                    (VP (VB cut)
+                      (NP (NNS taxes))
+                      (PP (IN for)
+                        (NP (DT the) (JJ rich)))
+                      (: --)
+                      (NP (NNS taxes)))))))))))
+    (NP (PRP he))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBZ does) (RB n't)
+            (VP (VB mind)
+              (VP (VBG paying)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Clinton))
+      (, ,)
+      (VP (VBG professing)
+        (NP
+          (NP (PRP$ his) (NN love))
+          (PP (IN for)
+            (NP (NN football)))))
+      (, ,))
+    (VP (VBD ran)
+      (PRT (RP off))
+      (NP
+        (NP (DT a) (NN list))
+        (PP (IN of)
+          (NP (NNS measures))))
+      (SBAR
+        (S
+          (NP (NNPS Democrats))
+          (VP (VBP have)
+            (VP (VBN taken)
+              (S
+                (VP (TO to)
+                  (VP
+                    (VP (VB help)
+                      (NP (JJ small) (NNS businesses)))
+                    (CC and)
+                    (VP (VB encourage)
+                      (NP
+                        (NP (NN investment))
+                        (PP (IN in)
+                          (NP (JJ clean) (NN energy)))))))))))))
+    (. .)))
+

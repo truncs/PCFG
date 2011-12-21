@@ -1,0 +1,475 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ new) (NN strategist))
+      (PP (IN for)
+        (NP
+          (NP (NNP Joe) (NNP Miller) (POS 's))
+          (NN campaign))))
+    (VP
+      (VP (VBD raised)
+        (NP
+          (NP (DT the) (NN specter))
+          (PP (IN of)
+            (NP (NN voter) (NN suppression)
+              (CC and)
+              (NN fraud))))
+        (PP (IN in)
+          (NP (DT the) (NNP Alaska) (NNP Senate) (NN race))))
+      (, ,)
+      (CC but)
+      (VP (VBD offered)
+        (NP (JJ little) (NN proof)
+          (S
+            (VP (TO to)
+              (VP (VB back)
+                (PRT (RP up))
+                (NP (DT those) (NNS claims))))))
+        (NP (NNP Thursday))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Floyd) (NNP Brown))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD was)
+            (PP (IN behind)
+              (NP (DT the) (JJ infamous) (NNP Willie) (NNP Horton) (NNS ads)))
+            (PP (IN during)
+              (NP (DT the) (CD 1988) (JJ presidential) (NN campaign))))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (DT a) (NN voter) (NN fraud))
+            (JJ hot) (NN line))
+          (VP (VBZ has)
+            (VP (VBN been)
+              (VP (VBN set)
+                (PRT (RP up))
+                (PP (IN for)
+                  (NP (NNS people)))
+                (S
+                  (VP (TO to)
+                    (VP (VB call)
+                      (SBAR (IN if)
+                        (S
+                          (NP (PRP they))
+                          (VP (VBD had)
+                            (VP (VBN been)
+                              (VP (VBN intimidated)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN number))
+    (VP (VBZ asks)
+      (NP (NNS callers))
+      (S
+        (VP (TO to)
+          (VP (VB leave)
+            (NP
+              (NP (DT a) (`` ``) (JJ detailed) (NN message))
+              (PP (IN of)
+                (NP
+                  (NP (NN vote) (NN fraud))
+                  (PP (IN in)
+                    (NP (PRP$ your) (NN area))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (PRP He))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (EX there))
+          (VP
+            (VP (VBD had)
+              (VP (VBN been)
+                (NP (`` ``)
+                  (NP (JJ serious) (NNS allegations))
+                  ('' '')
+                  (PP (IN of)
+                    (NP
+                      (NP (NN fraud))
+                      (CC and)
+                      (NP (NN voter) (NN intimidation)))))))
+            (CC but)
+            (VP (VBD offered)
+              (NP
+                (NP (DT no) (JJ solid) (NN proof))
+                (CC or)
+                (NP (NNS names)))
+              (, ,)
+              (S
+                (VP (VB save)
+                  (NP (DT an) (NN affidavit))
+                  (PP (IN from)
+                    (NP
+                      (NP (DT a) (NNP Fairbanks) (NN poll) (NN watcher))
+                      (, ,)
+                      (NP
+                        (NP (NNP Rocky) (NNP MacDonald))
+                        (, ,)
+                        (SBAR
+                          (WHNP (WP who))
+                          (S
+                            (VP (VBD cited)
+                              (NP (JJ such) (NNS things))
+                              (PP (IN as)
+                                (NP
+                                  (NP (DT an) (JJ unsecured) (NN ballot) (NN box))
+                                  (SBAR
+                                    (WHNP (WDT that))
+                                    (S
+                                      (VP (VBD left)
+                                        (S
+                                          (NP (PRP him))
+                                          (VP (VBG wondering) (`` ``)
+                                            (PP (IN about)
+                                              (NP
+                                                (NP (DT the) (NN integrity))
+                                                (PP (IN of)
+                                                  (NP
+                                                    (NP (PRP$ our) (NN state) (NN operation))
+                                                    (PP (IN of)
+                                                      (NP (NN polling) (NNS places)))))))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (NNP MacDonald))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NNP Miller) (NN campaign))
+          (VP (VBD asked)
+            (NP (PRP him))
+            (S
+              (VP (TO to)
+                (VP (VB fill)
+                  (PRT (RP out))
+                  (NP (DT the) (NN affidavit)))))
+            (SBAR (IN after)
+              (S
+                (NP (PRP he))
+                (VP (VBD reported)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (NP (PRP he))
+                      (VP (MD 'd)
+                        (VP (VBN seen)
+                          (PP (IN at)
+                            (NP (DT the) (NN polling) (NN place))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (VP (VBD did) (RB n't)
+            (ADVP (RB really))
+            (VP (VB have)
+              (NP
+                (NP (NN complaint))
+                (PP (IN about)
+                  (NP
+                    (NP (DT the) (NN election) (NNS judges))
+                    (, ,)
+                    (NP (RB just) (DT the) (NN process))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (NP (DT the) (JJ whole) (NN system)))
+    (. .)))
+
+(ROOT
+  (SINV
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's)
+        (ADJP (RB wide) (JJ open)
+          (PP (TO to)
+            (NP (NNS problems))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP
+      (NP (NNP MacDonald))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD was)
+            (NP
+              (NP (DT a) (JJ first-time) (NN poll) (NN watcher))
+              (PP (IN for)
+                (NP (DT the) (NN state) (NNP Republican) (NNP Party))))
+            (PP (IN on)
+              (NP (NNP Election) (NNP Day)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Brown))
+    (ADVP (RB also))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NN campaign))
+          (VP (VBD planned)
+            (S
+              (VP (TO to)
+                (VP (VB sue)
+                  (PP (IN for)
+                    (NP (NN voter) (NNS rolls)))
+                  (S
+                    (VP (TO to)
+                      (VP (VB match)
+                        (NP (PRP them))
+                        (PP (IN against)
+                          (NP
+                            (NP (NNS votes))
+                            (VP (VBN counted)
+                              (PP (IN in)
+                                (NP (JJ certain) (NNS precincts))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (`` ``)
+              (ADJP (RB unreasonably) (JJ low))
+              ('' '') (NN voter) (NN turnout))
+            (PP (IN for)
+              (NP (PDT such) (DT a) (JJ high-profile) (NN race))))
+          (VP (VBD suggested)
+            (NP (NN voter) (NN suppression))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Turnout))
+    (ADVP (RB currently))
+    (VP (VBZ stands)
+      (PP (IN at)
+        (NP (CD 47) (NN percent)))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (NNS thousands))
+          (PP (IN of)
+            (NP (NNS votes)
+              (S (RB yet)
+                (VP (TO to)
+                  (VP (VB be)
+                    (VP (VBD tallied)
+                      (SBAR (IN that)
+                        (S
+                          (VP (MD would)
+                            (VP (VB boost)
+                              (NP (PRP it)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (CD 2006) (JJ general) (NN election))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (NN turnout))
+        (PP (IN of)
+          (NP
+            (QP (IN around) (CD 50))
+            (NN percent)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Brown))
+    (VP (VBD referred)
+      (PP (TO to)
+        (NP (PRP himself)))
+      (PP (IN as)
+        (NP
+          (NP (DT a) (`` ``) (NN volunteer) (NN strategist) ('' ''))
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBD responded)
+                (PP (TO to)
+                  (NP (DT a) (JJ nationwide) (NN call)))
+                (S
+                  (VP (TO to)
+                    (VP (VB help)
+                      (NP
+                        (NP (NNP Miller) (POS 's))
+                        (NN campaign))
+                      (PP (IN in)
+                        (NP
+                          (NP (DT the) (NN wake))
+                          (PP (IN of)
+                            (NP
+                              (NP (JJ last) (NN week) (POS 's))
+                              (JJ too-close-too-call) (NN election))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD was)
+      (NP
+        (NP
+          (NP (DT a) (JJ founding) (NN chairman))
+          (PP (IN of)
+            (NP (NNPS Citizens) (NNP United))))
+        (, ,)
+        (NP
+          (NP (DT the) (NN group))
+          (SBAR
+            (WHNP (WP$ whose) (NN lawsuit))
+            (S
+              (VP (VBD paved)
+                (NP
+                  (NP (DT the) (NN way))
+                  (PP (IN for)
+                    (NP (NNS unions)
+                      (CC and)
+                      (NNS corporations))))
+                (S
+                  (VP (TO to)
+                    (VP (VB use)
+                      (NP (PRP$ their) (JJ own) (NN money))
+                      (S
+                        (VP (TO to)
+                          (VP (VB run)
+                            (NP (NNS ads))
+                            (PP
+                              (PP (IN for))
+                              (CC or)
+                              (PP (IN against)
+                                (NP (NNS candidates))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT That) (NN use))
+      (PP (IN of)
+        (NP (JJ corporate) (NNS dollars))))
+    (VP (VBD was)
+      (VP (VBN decried)
+        (PP (IN by)
+          (NP (NNP Miller)))
+        (PP (IN during)
+          (NP
+            (NP
+              (NP (DT the) (NN campaign))
+              (, ,)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP he))
+                  (VP (VBD complained)
+                    (PP (IN about)
+                      (NP (DT a) (NNP PAC)))))))
+            (VP (VBN formed)
+              (PP (IN by)
+                (NP
+                  (NP (NNP Alaska) (JJ Native) (NNS corporations))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBD spent)
+                        (NP
+                          (QP (RB nearly) ($ $) (CD 1.3) (CD million)))
+                        (S
+                          (VP (TO to)
+                            (VP (VB support)
+                              (NP
+                                (NP (PRP$ his) (NN rival))
+                                (, ,)
+                                (NP (NNP U.S.) (NNP Sen.) (NNP Lisa) (NNP Murkowski))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Miller) (NN spokesman) (NNP Randy) (NNP DeSoto))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (NNP Brown))
+            (, ,)
+            (VP (VBN identified)
+              (PP (IN as)
+                (NP (DT a) (`` ``) (NNP Miller) (NN adviser) ('' '')))
+              (PP (IN in)
+                (NP (DT a) (NN news) (NN release))))
+            (, ,))
+          (VP (VBD spoke)
+            (PP (IN for)
+              (NP (DT the) (NN campaign)))
+            (`` ``)
+            (ADVP (RB certainly))
+            (PP (IN in)
+              (NP (DT this) (NN event)))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (JJ Write-in) (NNS ballots))
+    (VP (VBD led)
+      (NP (NNP Miller))
+      (PP (IN by)
+        (NP (CD 10,799) (NNS votes)))
+      (PP (IN in)
+        (NP (JJ initial)
+          (CC and)
+          (JJ absentee) (NNS returns))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Murkowski))
+    (VP (VBD mounted)
+      (NP (DT a) (JJ write-in) (NN campaign))
+      (PP (IN after)
+        (S
+          (VP (VBG losing)
+            (NP (DT the) (NNP GOP) (NN primary))
+            (PP (TO to)
+              (NP (PRP him)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB Early) (VBG tallying))
+      (PP (IN of)
+        (NP (DT those) (JJ write-in) (NNS ballots))))
+    (VP (VBD showed)
+      (NP (NNP Murkowski) (NN undisputedly))
+      (PP (IN with)
+        (NP
+          (NP (CD 89) (NN percent))
+          (PP (IN of)
+            (NP
+              (NP (DT that) (NN vote))
+              (ADVP (RB so) (RB far)))))))
+    (. .)))
+

@@ -1,0 +1,528 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNPS Democrats)
+        (CC and)
+        (NNPS Republicans))
+      (PP (IN in)
+        (NP (DT this) (JJ feisty) (NN election) (NN season))))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (RBR more) (JJ likely)
+          (S
+            (VP (TO to)
+              (VP (VB reach)
+                (PP (IN across)
+                  (NP (DT the) (NN aisle)))
+                (S
+                  (VP (TO to)
+                    (VP (VB take)
+                      (NP (DT a) (JJ political) (NN punch)))))))))
+        (SBAR (IN than)
+          (S
+            (VP (TO to)
+              (VP (VB offer)
+                (NP
+                  (NP (DT a) (NN hug))
+                  (CC or)
+                  (NP (DT a) (NN handshake)))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (ADVP (RB even)
+      (PP (IN with)
+        (NP
+          (NP (JJ partisan) (NN rhetoric))
+          (VP (VBG spouting)
+            (PP (IN from)
+              (NP
+                (NP (NNS stumps))
+                (ADJP (JJ nationwide))))))))
+    (, ,)
+    (NP
+      (NP (NNPS Democrats))
+      (PP (IN in)
+        (NP
+          (NP (NNS states))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD saw)
+                (S
+                  (NP (NNP Tea) (NNP Party) (NNS candidates))
+                  (VP (VB win)
+                    (NP (DT the) (NNP GOP) (NN nomination))))))))))
+    (VP (VBP are)
+      (VP (VBG touting)
+        (NP (NNS endorsements))
+        (PP (IN from)
+          (NP (DT some) (JJ high-profile) (NN state) (NNS Republicans)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Reid) (POS 's))
+      (NN campaign))
+    (NP (NNP Thursday))
+    (VP (VBD announced)
+      (SBAR
+        (S
+          (NP (CD 200) (NNS GOPers))
+          (VP (VBD had)
+            (VP (VBN joined)
+              (NP
+                (NP (PRP$ its) (`` ``)
+                  (NX
+                    (NX (NNPS Republicans))
+                    (PP (IN for)
+                      (NP (NNP Harry) (NNP Reid))))
+                  ('' ''))
+                (NP (NN group))))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (PP (IN Among)
+      (NP (PRP them)))
+    (VP (VBP are)
+      (NP (JJ big-time) (NNS players))
+      (PP (IN in)
+        (NP
+          (NP
+            (NP (DT the) (NN state) (POS 's))
+            (JJ key) (NNS industries))
+          (, ,)
+          (SBAR
+            (WHNP (WP who))
+            (S
+              (VP (VBP have)
+                (VP (VBN benefited)
+                  (PP (IN from)
+                    (NP
+                      (NP (DT a)
+                        (NAC (NNP Nevadan)
+                          (PP (IN as)
+                            (NP (NNP Senate))))
+                        (NN majority) (NN leader))
+                      (, ,)
+                      (CONJP (RB as) (RB well) (IN as))
+                      (NP
+                        (NP (JJ prominent) (NNS figures))
+                        (PP (IN in)
+                          (NP
+                            (NP (NNP Silver) (NNP State) (NNS politics))
+                            (PP (JJ such) (IN as)
+                              (NP
+                                (NP (NNP Sig) (NNP Rogich))
+                                (, ,)
+                                (NP (DT a) (JJ former) (NNP George) (NNP H.W.) (NNP Bush) (NN adviser))
+                                (, ,)
+                                (NP
+                                  (NP (JJ former) (NN chair))
+                                  (PP (IN of)
+                                    (NP
+                                      (NP (DT the) (NNP Nevada) (NNPS Taxpayers) (POS '))
+                                      (NNP Association) (NNP Fred) (NNP Gibson))))
+                                (, ,)
+                                (CC and)
+                                (NP
+                                  (ADJP (RB politically) (JJ active))
+                                  (JJ former) (JJ first) (NN lady))))))))))))))))
+    (NP
+      (NP (NNP Dema) (NNP Guinn))
+      (, ,)
+      (NP
+        (NP (NN widow))
+        (PP (IN of)
+          (NP (JJ former) (NNP Gov.) (NNP Kenny) (NNP Guin)))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (PP (IN After)
+      (S
+        (VP (VBG losing)
+          (PP (TO to)
+            (NP (PRP me)))
+          (PP (IN in)
+            (NP
+              (NP (DT a) (NN primary))
+              (, ,)
+              (SBAR
+                (WHPP (IN during)
+                  (WHNP (WDT which)))
+                (S
+                  (NP (PRP she))
+                  (VP
+                    (VP (VBD ran)
+                      (NP (DT a)
+                        (ADJP (RB very) (JJ negative))
+                        (NN campaign)))
+                    (CC and)
+                    (VP (VBN distorted)
+                      (NP (PRP$ my) (NN record)))
+                    (, ,)
+                    (VP (VBD referred)
+                      (PP (TO to)
+                        (NP (PRP me)))
+                      (PP (IN as)
+                        (NP
+                          (NP (DT a) (NN liar))
+                          (CC and)
+                          (NP (DT a) (NN RINO)))))))))))))
+    (, ,)
+    (NP (PRP I))
+    (ADVP (RB never))
+    (VP (VBD heard)
+      (NP (CD one) (NN word))
+      (PP (IN from)
+        (NP
+          (NP
+            (NP (PRP her))
+            (, ,)
+            (CC or)
+            (NP (DT a) (NN concession))
+            (, ,))
+          (CC or)
+          (NP
+            (NP (DT an) (NN offer))
+            (PP (IN of)
+              (NP (NN support)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Instead))
+      (NP (PRP she))
+      (VP (VBD lent)
+        (NP (NN aid)
+          (CC and)
+          (NN comfort))
+        (PP (IN in)
+          (NP (DT an) (NN effort)
+            (S
+              (VP (TO to)
+                (VP (VB recall)
+                  (NP (PRP me))
+                  (PP (IN as)
+                    (NP (NN state) (NN senator))))))))))
+    (, ,) ('' '')
+    (NP
+      (NP (NNP Nevada) (NN state) (NNP Senate))
+      (NP (NN minority) (NN leader) (NNP Bill) (NNP Raggio)))
+    (VP (VBD said)
+      (PP (IN of)
+        (NP (NNP Sharron) (NNP Angle)))
+      (PP (IN in)
+        (NP
+          (NP (DT a) (NN statement))
+          (PP (VBG endorsing)
+            (NP (NNP Reid))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (DT Those))
+      (VP (VBP are)
+        (NP
+          (NP (JJ personal) (NNS issues))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (NP (PRP I))
+              (VP (VBD was)
+                (ADJP (JJ willing)
+                  (S
+                    (VP (TO to)
+                      (VP (VB put)
+                        (PP (IN behind)
+                          (NP (PRP me)))))))))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD continued))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Raggio))
+      (VP (VBD went)
+        (PRT (RP on))
+        (S
+          (VP (TO to)
+            (VP (VB indicate)
+              (SBAR
+                (S
+                  (NP (PRP he))
+                  (VP (VBD was) (RB not)
+                    (VP (VBN thrilled)
+                      (S
+                        (VP (TO to)
+                          (VP (VB endorse)
+                            (NP (NNP Reid))))))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP he))
+      (VP (MD could) (RB not)
+        (VP (VB overlook)
+          (NP
+            (NP (DT either) (NNP Angle) (POS 's))
+            (UCP (`` ``)
+              (ADJP
+                (ADJP (RB totally) (JJ ineffective) ('' ''))
+                (SBAR
+                  (S
+                    (VP (VB turn)
+                      (PP (IN as)
+                        (NP
+                          (NP (NN assemblywoman))
+                          (CC or)
+                          (NP (PRP$ her) (`` ``) (NN unwillingness))))
+                      (S
+                        (VP (TO to)
+                          (VP (VB work)
+                            (PP (IN with)
+                              (NP (NNS others))))))))))
+              ('' '')
+              (CC and)
+              (`` ``)
+              (NP (JJ extreme)))
+            (NNS positions)))))
+    (. .) ('' '')))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (EX There))
+      (VP (VBZ 's)
+        (NP
+          (NP (DT a) (NN lot))
+          (PP (IN of)
+            (NP (JJ bad) (NN blood))))
+        (ADVP (RB there))))
+    (, ,) ('' '')
+    (VP (VBZ says))
+    (NP
+      (NP (NNP Dave) (NNP Damore))
+      (, ,)
+      (NP
+        (NP (JJ associate) (NN professor))
+        (PP (IN of)
+          (NP (JJ political) (NN science)))
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NNP University))
+            (PP (IN of)
+              (NP
+                (NP (NNP Nevada))
+                (, ,)
+                (NP (NNP Las) (NNP Vegas))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (PRP She))
+    (VP (VBZ 's) (RB never)
+      (VP (VBN been)
+        (NP
+          (NP (DT the) (NN sort))
+          (PP (IN of)
+            (NP (JJ get-along) (, ,) (JJ go-along) (NN politician))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ other) (NN thing))
+    (VP (VBZ is) (, ,)
+      (PP (IN for)
+        (NP
+          (NP (DT a) (NN lot))
+          (PP (IN of)
+            (NP
+              (NP (NNS folks))
+              (ADVP (RB here))))))
+      (, ,)
+      (SBAR
+        (S
+          (NP (DT the) (NN question))
+          (VP (VBZ is) (, ,)
+            (SQ (VBP are)
+              (NP (PRP we))
+              (VP (VBG going)
+                (S
+                  (VP (TO to)
+                    (VP (VB be)
+                      (ADJP (JJR better) (RP off)
+                        (S
+                          (VP (VBG losing)
+                            (NP (DT the) (NNP Senate) (NN majority) (NN leader)))))))))
+              (. ?))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN sense))
+      (VP (VBZ is) (, ,)
+        (SBAR
+          (S
+            (NP (PRP we))
+            (VP (MD may) (RB not)
+              (VP (VB like)
+                (NP
+                  (NP (DT some))
+                  (PP (IN of)
+                    (NP (DT these) (NNS things))))))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ 's)
+        (VP (VBG going)
+          (S
+            (VP (TO to)
+              (VP (VB do)
+                (ADVP
+                  (NP (DT a) (NN lot))
+                  (JJR more))
+                (PP (IN for)
+                  (NP (NNP Nevada)))
+                (PP (IN than)
+                  (NP
+                    (NP (DT a) (NNP Senate) (NN delegation))
+                    (PP (IN of)
+                      (NP
+                        (NP (-LRB- -LRB-) (NNP Sen.) (NNP John) (-RRB- -RRB-) (NNP Ensign))
+                        (CC and)
+                        (NP (NNP Angle))))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (ADVP (CC And))
+    (NP
+      (NP (JJ anti-establishment) (NN atmosphere))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBD helped)
+            (VP (VB boost)
+              (NP (NNP Tea) (NNP Party) (NNS candidates))
+              (PP (TO to)
+                (NP
+                  (NP (DT the) (NN top))
+                  (PP (IN in)
+                    (NP
+                      (NP (NNS primaries))
+                      (PP (IN in)
+                        (NP
+                          (NP (NNP Utah))
+                          (, ,)
+                          (NP (NNP Delaware))
+                          (, ,)
+                          (CC and)
+                          (NP (NNP Alaska))))))))))))
+      (, ,))
+    (VP (VBZ is)
+      (ADJP (JJ unattractive)
+        (PP (TO to)
+          (NP
+            (NP (DT some) (NNS Nevadans))
+            (VP
+              (ADVP (RB deeply))
+              (VBN rooted)
+              (PP (IN in)
+                (NP
+                  (NP (NN state) (NNS politics))
+                  (CC and)
+                  (NP (NN industry)))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP They))
+      (VP
+        (VP (VBP 're)
+          (NP (DT all) (NNPS Republicans)))
+        (, ,)
+        (CC but)
+        (VP
+          (NP
+            (NP (NN sort))
+            (PP (IN of)
+              (NP (NN establishment) (NNS types)))))))
+    (, ,) ('' '')
+    (NP (NNP Damore))
+    (VP (VBZ says)
+      (PP (IN of)
+        (NP (`` ``)
+          (NP (NNPS Republicans))
+          (PP (IN for)
+            (NP (NNP Reid)))
+          (, ,) ('' '')
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ includes)
+                (NP
+                  (NP (JJ several) (JJ high-profile) (NNS businessmen))
+                  (PP (IN in)
+                    (NP
+                      (NP (NNP Nevada) (POS 's))
+                      (NN gaming) (NN industry))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (PP (IN In)
+      (NP (JJ many) (NNS ways)))
+    (PRN (, ,)
+      (S
+        (NP (PRP$ her) (NN campaign))
+        (VP (VBZ is)
+          (ADJP (RB as) (JJ much)
+            (PP (IN against)
+              (NP
+                (NP (NNP Harry) (NNP Reid))
+                (CC and)
+                (NP
+                  (NP (DT the) (NN perception))
+                  (PP (IN of)
+                    (NP (DT the) (NNP Obama) (JJ liberal) (NN agenda)))))))
+          (SBAR (IN as)
+            (S
+              (NP (PRP it))
+              (VP (VBZ is)
+                (NP (FW versus))
+                (NP
+                  (NP (DT the) (NN sort))
+                  (PP (IN of)
+                    (NP (NN establishment))))))))))
+    (NP
+      (NP (NNP Republican))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBZ has)
+            (ADJP (JJR more)
+              (CC or)
+              (JJR less))
+            (, ,)
+            (PP (IN in)
+              (NP (PRP$ her) (NN view))))))
+      (, ,))
+    (VP (VBD strayed)
+      (PP (IN from)
+        (NP
+          (NP (DT the) (NN party) (POS 's))
+          (NNS principles))))
+    (. .)))
+

@@ -1,0 +1,508 @@
+(ROOT
+  (S
+    (NP (NNP California) (NNPS Republicans))
+    (VP (VBD picked)
+      (NP (JJ former) (JJ eBay) (JJ chief) (NN executive))
+      (NP
+        (NP (NNP Meg) (NNP Whitman)
+          (CC and)
+          (JJ former) (NNP Hewlett-Packard) (NNP CEO) (NNP Carly) (NNP Fiorina))
+        (PP (IN on)
+          (NP (NNP Tuesday))))
+      (S
+        (VP (TO to)
+          (VP (VB lead)
+            (NP (PRP$ their) (NN party))
+            (PP (IN in)
+              (NP (PRP$ its) (NN quest))))))
+      (NP (DT this) (NN fall))
+      (S
+        (VP (TO to)
+          (VP (VB maintain)
+            (NP
+              (NP (NN control))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN state) (POS 's))
+                  (JJS highest) (NN office))))
+            (S
+              (VP (TO to)
+                (VP (VB unseat)
+                  (NP (NNP Sen.) (NNP Barbara) (NNP Boxer)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Fiorina))
+    (VP (VBD defeated)
+      (NP (JJ former) (NN congressman))
+      (SBAR
+        (S
+          (NP
+            (NP (NNP Tom) (NNP Campbell))
+            (CC and)
+            (NP (NN state) (NNP Assemblyman) (NNP Chuck) (NNP DeVore)))
+          (VP (TO to)
+            (VP (VB earn)
+              (NP (DT a) (NN shot))
+              (PP (IN at)
+                (S
+                  (VP (VBG challenging)
+                    (NP (DT the) (JJ vulnerable) (NN Boxer))
+                    (PP (IN in)
+                      (NP (NNP November)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Whitman))
+      (, ,)
+      (PP (IN in)
+        (S
+          (VP (VBG seeking)
+            (NP
+              (NP
+                (NP (DT the) (NN party) (POS 's))
+                (NN nomination))
+              (PP (IN for)
+                (NP (NN governor)))))))
+      (, ,))
+    (VP (VBD tapped)
+      (NP (PRP$ her) (JJ personal) (NN fortune))
+      (S
+        (VP (TO to)
+          (VP (VB beat)
+            (NP
+              (NP (NN state) (NNP Insurance) (NNP Commissioner))
+              (NP (NNP Steve) (NNP Poizner))))))
+      (, ,)
+      (S
+        (VP (VBG advancing)
+          (S
+            (VP (TO to)
+              (VP (VB face)
+                (NP
+                  (NP (DT a) (JJ Democratic) (NN icon))
+                  (, ,)
+                  (NP (JJ former) (NNP two-term) (NNP Gov.) (NNP Jerry) (NNP Brown)))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP I))
+      (VP (VBP am)
+        (ADJP (JJ battle-tested))
+        (ADVP (RB now))))
+    (, ,) ('' '')
+    (NP (NNP Whitman))
+    (VP (VBD said)
+      (PP (IN in)
+        (NP (PRP$ her) (NN victory) (NN speech))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (CC And)
+    (NP (PRP I))
+    (VP (VBP 'm)
+      (ADJP (JJ ready)
+        (S
+          (VP (TO to)
+            (VP (VB give)
+              (NP (NNP Jerry) (NNP Brown))
+              (NP
+                (NP (DT the) (JJS toughest) (NN election))
+                (PP (IN of)
+                  (NP (PRP$ his) (NN career)))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (DT The) (NNS victories))
+    (VP (VBP mark)
+      (NP (DT the) (JJ first) (NN time))
+      (SBAR
+        (S
+          (NP (DT the) (NNP California) (NNP Republican) (NNP Party))
+          (VP (VBZ has)
+            (VP (VBN put)
+              (NP (CD two) (NNS women))
+              (PP (IN at)
+                (NP
+                  (NP
+                    (NP (DT the) (NN top))
+                    (PP (IN of)
+                      (NP (PRP$ its) (NN ticket))))
+                  (, ,)
+                  (NP
+                    (NP (DT a) (NN breakthrough))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBZ is)
+                          (VP (VBN expected)
+                            (S
+                              (VP (TO to)
+                                (VP (VB set)
+                                  (PRT (RP off))
+                                  (NP
+                                    (NP (DT an) (NN election) (NN season))
+                                    (PP (IN of)
+                                      (NP (JJ big-money) (NNS campaigns))))))))))))
+                  (CC and)
+                  (NP
+                    (NP (JJ high) (NN drama))
+                    (PP (IN in)
+                      (NP
+                        (NP (DT the) (NN nation) (POS 's))
+                        (ADJP (RBS most) (JJ populous))
+                        (NN state))))))))))
+      (, ,)
+      (S
+        (VP (VBG pitting)
+          (NP (CD two) (JJ deep-pocketed) (NNP Silicon) (NNP Valley) (NN business) (NNS stars))
+          (PP (IN against)
+            (NP
+              (NP (NNS stalwarts))
+              (PP (IN of)
+                (NP (DT the) (JJ Democratic) (NNP Party) (NN establishment))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Whitman))
+      (, ,)
+      (NP (CD 53))
+      (, ,))
+    (VP (VBD worked)
+      (PP (IN on)
+        (NP
+          (NP (DT the) (JJ presidential) (NNS campaigns))
+          (PP (IN of)
+            (NP
+              (NP (NNP Mitt) (NNP Romney))
+              (CC and)
+              (NP (NNP John) (NNP McCain)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP
+      (VP (VBZ has)
+        (VP (VBN spent)
+          (NP
+            (NP (JJ much))
+            (PP (IN of)
+              (NP (DT the) (NN primary))))
+          (PP (IN in)
+            (NP
+              (ADJP (RB tightly) (VBN scripted))
+              (NNS appearances)))))
+      (CC and)
+      (VP (VBD was)
+        (VP (VBN criticized)
+          (ADVP (RB early))
+          (PP (IN on))
+          (PP (IN for)
+            (S
+              (VP (VBG avoiding)
+                (NP
+                  (NP (JJ detailed) (NNS questions))
+                  (PP (IN from)
+                    (NP (JJ political) (NNS reporters))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN On)
+      (NP (NNP Tuesday)))
+    (, ,)
+    (NP (NNP Brown))
+    (VP (VBD took)
+      (NP (DT a) (NN swipe))
+      (PP (IN at)
+        (NP
+          (NP
+            (NP (NNP Whitman) (POS 's))
+            (NN reputation))
+          (PP (IN for)
+            (S
+              (VP (VBG controlling)
+                (NP (PRP$ her) (NN message))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP I))
+      (VP (VBP 'm)
+        (VP (VBG looking)
+          (ADVP (RB forward))
+          (PP (TO to)
+            (NP
+              (NP (DT a) (NN campaign))
+              (SBAR
+                (WHADVP (WRB where))
+                (S
+                  (NP (NNS people))
+                  (VP (VBP get)
+                    (S
+                      (VP (TO to)
+                        (VP (VB see)
+                          (NP
+                            (NP (DT the) (NNS candidates))
+                            (, ,)
+                            (CONJP (RB not) (RB just))
+                            (NP (DT the) (NNS commercials))))))))))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT The) (NN opponent))
+        (SBAR
+          (S
+            (NP (NNP Whitman))
+            (VP (VBD beat)
+              (NP (NNP Tuesday))))))
+      (, ,)
+      (NP (NNP Poizner))
+      (, ,))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ wealthy)
+          (ADJP (NNP Silicon) (NNP Valley))
+          (NN entrepreneur))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP
+              (VP (VBD spent)
+                (NP
+                  (NP
+                    (QP ($ $) (CD 25) (CD million)))
+                  (PP (IN of)
+                    (NP (PRP$ his) (NN money))))
+                (PP (IN on)
+                  (NP (PRP$ his) (NN race))))
+              (CC but)
+              (VP (VBD paled)
+                (PP (IN in)
+                  (NP (NN comparison)))
+                (PP (TO to)
+                  (NP
+                    (NP (NNP Whitman))
+                    (, ,)
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBD spent)
+                          (NP
+                            (NP
+                              (QP ($ $) (CD 68) (CD million)))
+                            (PP (IN of)
+                              (NP (PRP$ her) (CD billion) (JJ dollar-plus) (NN fortune)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ heated) (NN battle))
+      (PP (IN with)
+        (NP (NNP Poizner)))
+      (S
+        (VP (TO to)
+          (VP (VB win)
+            (PRT (RP over))
+            (NP (JJ conservative) (NNP GOP) (JJ primary) (NNS voters))))))
+    (VP (VBD forced)
+      (S
+        (NP (NNP Whitman))
+        (VP (TO to)
+          (VP (VB move)
+            (PP (TO to)
+              (NP
+                (NP (DT the) (NN right))
+                (PP (IN on)
+                  (NP
+                    (NP (NNS issues))
+                    (PP (JJ such) (IN as)
+                      (NP
+                        (NP
+                          (NP (NN abortion))
+                          (CC and)
+                          (NP (JJ illegal) (NN immigration)))
+                        (, ,)
+                        (NP
+                          (NP (NNS moves))
+                          (SBAR
+                            (WHNP (WDT that))
+                            (S
+                              (VP (MD could)
+                                (VP (VB hurt)
+                                  (NP (PRP her))
+                                  (PP (IN against)
+                                    (NP (NNP Brown)))
+                                  (PP (IN in)
+                                    (NP (NNP November))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNPS Democrats))
+      (CC and)
+      (NP (JJ moderate) (NNS independents)))
+    (VP (VBP comprise)
+      (NP
+        (NP (NNS two-thirds))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN electorate))
+            (PP (IN in)
+              (NP (NNP California)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Without)
+      (NP (DT a) (JJ serious) (JJ primary) (NN challenger)))
+    (, ,)
+    (NP (NNP Brown))
+    (VP (VBZ has)
+      (VP (VBN positioned)
+        (NP (PRP himself))
+        (PP (IN as)
+          (NP (DT a) (JJ moderate)))
+        (, ,)
+        (S
+          (VP (VBG pledging)
+            (S (RB not)
+              (VP (TO to)
+                (VP
+                  (VP (VB raise)
+                    (NP (NNS taxes)))
+                  (CC and)
+                  (VP (TO to)
+                    (VP (VB make)
+                      (NP
+                        (NP (DT the) (NN kind))
+                        (PP (IN of)
+                          (NP (NN spending) (NNS cuts))))
+                      (SBAR (IN that)
+                        (S
+                          (NP (NNP Whitman))
+                          (ADVP (RB also))
+                          (VP (VBN campaigned)
+                            (PP (IN on))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ gubernatorial) (NN race))
+    (VP (VBZ promises)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (NP (DT the) (RBS most) (JJ expensive))
+            (PP (IN in)
+              (NP (NN state) (NN history)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Whitman) (POS 's))
+      (JJ primary) (NN race))
+    (VP (VBD cost)
+      (NP ($ $) (CD 81))
+      (, ,)
+      (S
+        (ADVP (RB far))
+        (VP (VBG outpacing)
+          (NP
+            (NP (DT any) (JJ previous) (JJ primary) (NN contest))
+            (PP (IN in)
+              (NP (NNP California)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP
+      (VP (VBD had) (RB previously)
+        (VP (VBD said)
+          (SBAR
+            (S
+              (NP (PRP she))
+              (VP (MD would)
+                (VP (VB spend)
+                  (NP
+                    (NP
+                      (QP ($ $) (CD 150) (CD million)))
+                    (PP (IN in)
+                      (NP (DT all))))
+                  (PP (IN on)
+                    (NP (PRP$ her) (JJ gubernatorial) (NN bid)))))))))
+      (, ,)
+      (CC but)
+      (VP (VBZ has)
+        (VP (VBN declined)
+          (PP (IN in)
+            (NP (JJ recent) (NNS weeks)))
+          (S
+            (VP (TO to)
+              (VP (VB say)
+                (SBAR (IN whether)
+                  (S
+                    (NP (DT that) (NN number))
+                    (VP (VBZ is)
+                      (ADJP (RB now) (JJR higher)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Brown))
+      (VP (MD will) (RB not)
+        (VP (VB be)
+          (ADJP (JJ able)
+            (S
+              (VP (TO to)
+                (VP (VB match)
+                  (NP
+                    (NP (NNP Whitman) (POS 's))
+                    (NNS millions)))))))))
+    (: --)
+    (S
+      (NP (PRP he))
+      (VP
+        (VP (VBZ has)
+          (NP
+            (NP
+              (QP ($ $) (CD 20) (CD million)))
+            (PP (IN in)
+              (NP (DT the) (NN bank))))
+          (ADVP (RB so) (RB far)))
+        (: --)
+        (CC but)
+        (VP (VBZ is)
+          (VP (VBG relying)
+            (PP (IN on)
+              (NP
+                (ADJP (RB Democratically) (VBN aligned))
+                (JJ independent) (NNS groups)))
+            (S
+              (VP (TO to)
+                (VP (VB fund)
+                  (NP (DT an) (NN opposition) (NN campaign)))))))))
+    (. .)))
+

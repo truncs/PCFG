@@ -1,0 +1,22 @@
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/test/cnn/2078.txt	cnn	0.10727752664936312	fox	0.8927224733506368
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/test/cnn/2044.txt	cnn	0.5978694059932103	fox	0.40213059400678974
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/test/cnn/2030.txt	cnn	0.15730368159847175	fox	0.8426963184015283
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/test/cnn/2070.txt	cnn	0.44347965991334626	fox	0.5565203400866537
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/test/cnn/2038.txt	cnn	0.9921155880308385	fox	0.00788441196916134
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/test/cnn/2014.txt	cnn	0.7690111807870386	fox	0.23098881921296144
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/test/cnn/2028.txt	cnn	0.9493506148444453	fox	0.05064938515555484
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/test/cnn/2093.txt	cnn	0.07959884578137301	fox	0.920401154218627
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/test/cnn/2063.txt	cnn	0.8330903102346079	fox	0.16690968976539214
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/test/cnn/2067.txt	cnn	0.9574365393452047	fox	0.0425634606547953
+
+
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/test/fox/1997.txt	cnn	0.7837105301369635	fox	0.21628946986303654
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/test/fox/1990.txt	cnn	0.028262331721585668	fox	0.9717376682784143
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/test/fox/1995.txt	cnn	0.3557003382106453	fox	0.6442996617893547
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/test/fox/1986.txt	cnn	0.03697156092748522	fox	0.9630284390725148
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/test/fox/1989.txt	cnn	0.11907841966785908	fox	0.8809215803321409
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/test/fox/1985.txt	cnn	0.23890159976492845	fox	0.7610984002350716
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/test/fox/1983.txt	cnn	0.5722564722003537	fox	0.4277435277996462
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/test/fox/1996.txt	cnn	0.9573501074893945	fox	0.04264989251060543
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/test/fox/1984.txt	cnn	0.11987173487794521	fox	0.8801282651220548
+file:/home/abhishek/Nlp/mallet-2.0.7/../elections/mallet/experiment4/test/fox/1991.txt	cnn	0.7083674427142288	fox	0.29163255728577125

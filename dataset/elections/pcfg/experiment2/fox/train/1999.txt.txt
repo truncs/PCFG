@@ -1,0 +1,453 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT Neither) (NN fundraising))
+      (CC nor)
+      (NP
+        (NP (DT the) (NN building))
+        (PP (IN of)
+          (NP
+            (NP (JJ grass-roots) (NNS organizations))
+            (PP (IN in)
+              (NP (JJ key) (JJ primary) (NNS states)))))))
+    (VP (VBZ is)
+      (VP (VBG driving)
+        (NP (DT the) (JJ Republican) (JJ presidential) (NN race))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Endorsements))
+    (VP (VBP have)
+      (ADVP (RB n't))
+      (VP (VBN mattered)
+        (ADVP (RB much))
+        (ADVP (RB either))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Stump) (NNS speeches))
+    (VP (VBP have)
+      (VP (VBN been)
+        (PP (IN of)
+          (NP (JJ minimal) (NN importance)))))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP
+      (NP (NN policy) (NNS papers))
+      (PP (JJ such) (IN as)
+        (NP
+          (NP
+            (NP (JJ former) (NNP Massachusetts) (NNP Gov.) (NNP Mitt) (NNP Romney) (POS 's))
+            (JJ 59-point) (JJ economic) (NN plan))
+          (CC or)
+          (NP
+            (NP
+              (NP (JJ ex-Utah) (NNP Gov.) (NNP Jon) (NNP Huntsman) (POS 's))
+              (NN proposal))
+            (PP (IN for)
+              (NP (NN tax) (NN rate) (NNS cuts)))))))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP
+          (ADVP (RB largely))
+          (VBN overlooked))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (IN By) (RB far))
+    (NP
+      (NP (DT the) (JJS biggest) (NN influence))
+      (PP (IN on)
+        (NP (DT the) (JJ Republican) (NN contest))))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (NP
+          (NP (DT the) (NN series))
+          (PP (IN of)
+            (NP
+              (ADJP (RB nationally) (VBN televised))
+              (NNS debates))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP (VBP have)
+        (VP (VBN been)
+          (NP
+            (NP (JJR more) (NNS debates))
+            (PP (IN than)
+              (NP
+                (QP (RB ever) (CD six)))))
+          (ADVP (RB so) (RB far)))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP have)
+        (VP (VBN attracted)
+          (NP (NN record) (NNS audiences)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The)
+        (ADJP (RBS most) (JJ recent))
+        (NN debate))
+      (PP (IN on)
+        (NP (NNP Sept.) (CD 22)))
+      (PP (IN on)
+        (NP (NNP Fox) (NNP News))))
+    (VP (VBD drew)
+      (NP
+        (NP
+          (QP (JJR more) (IN than) (CD six) (CD million))
+          (NN TV) (NNS viewers))
+        (, ,)
+        (CC plus)
+        (NP (DT another)
+          (QP (CD six) (CD million))))
+      (PP (VBG watching)
+        (PP (IN on)
+          (S
+            (VP (VBG streaming)
+              (NP (NN video)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS debates))
+    (VP (VBP have)
+      (VP (VBN overwhelmed)
+        (NP (DT the) (JJ Republican) (NN race))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (PRP They))
+      (VP (VBP are)
+        (NP
+          (QP (IN about) (PDT all)))
+        (SBAR
+          (S
+            (NP (EX there))
+            (VP (VBZ 's)
+              (VP (VBN been)
+                (PP (TO to)
+                  (NP (DT the) (NN campaign)))))))))
+    (, ,) ('' '')
+    (VP (VBZ says))
+    (NP (NNP Fox) (JJ political) (NN commentator) (NNP Brit) (NNP Hume))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (NP (DT each) (NN debate)))
+    (NP (DT the) (NN campaign))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN frozen)
+          (PP (IN until)
+            (NP (DT the) (JJ next) (CD one)))
+          (, ,)
+          (PP (IN except)
+            (PP (IN for)
+              (NP
+                (NP (NNS arguments))
+                (PP (IN over)
+                  (NP
+                    (NP (NNS issues))
+                    (VP (VBN spawned)
+                      (PP (IN by)
+                        (NP (DT the) (NNS debates)))
+                      (S
+                        (NP (PRP themselves))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Gov.) (NNP Rick) (NNP Perry) (POS 's))
+        (NN policy))
+      (PP (IN of)
+        (S
+          (VP (VBG offering)
+            (NP (JJ instate) (NN tuition))
+            (PP (IN at)
+              (NP
+                (NP
+                  (NP (NNP Texas) (NNS colleges))
+                  (PP (IN for)
+                    (NP (JJ illegal) (NNS immigrants))))
+                (, ,)
+                (CC and)
+                (NP (PRP$ his) (NN effort)
+                  (S
+                    (VP (TO to)
+                      (VP (VB require)
+                        (S
+                          (NP (JJ 12-year-old) (NNS girls))
+                          (VP (TO to)
+                            (VP (VB be)
+                              (VP (VBN inoculated)
+                                (PP (IN against)
+                                  (NP (NNP HPV) (NN virus)))))))))))
+                (, ,)))))))
+    (VP (VBD became)
+      (NP (JJ prominent) (NNS issues))
+      (SBAR (IN once)
+        (S
+          (NP (PRP he))
+          (VP (VBD was)
+            (VP (VBN pelted)
+              (PP (IN with)
+                (NP
+                  (NP (NNS questions))
+                  (PP (IN about)
+                    (NP (PRP them)))))
+              (PP (IN in)
+                (NP (DT the) (NNS debates))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (NNP Mr.) (NNP Romney))
+        (VP (VBD attacked)
+          (NP
+            (NP
+              (NP (NNP Mr.) (NNP Perry) (POS 's))
+              (NN position))
+            (PP (IN on)
+              (NP (NNP Social) (NNP Security)))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD emerged)
+      (PP (IN as)
+        (NP (DT a) (JJ front-burner) (NN issue))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Mr.) (NNP Perry))
+    (VP (VBD gave)
+      (NP (DT the) (NN issue))
+      (NP (DT a) (NN news) (NN hook))
+      (PP (IN by)
+        (S
+          (VP (VBG calling)
+            (NP (NNP Social) (NNP Security)))))
+      (S
+        (NP (DT a) (`` ``) (NNP Ponzi) (NN scheme))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (SBAR (IN While)
+      (S
+        (NP
+          (NP
+            (NP (NNP Mr.) (NNP Romney) (POS 's))
+            (NN record))
+          (PP (IN in)
+            (NP (NNP Massachusetts))))
+        (VP (VBD was)
+          (ADVP (RB always))
+          (VP (VBG going)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (NP (DT a) (JJ major) (NN issue)))))))))
+    (, ,)
+    (NP (DT the) (NNS debates))
+    (VP (VBP have)
+      (VP (VBN made)
+        (NP (PRP it))
+        (ADVP (RBR more) (RB so))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ same))
+    (VP (VBZ is)
+      (NP (DT the) (NN case))
+      (PP (IN with)
+        (NP
+          (NP (NNP Mr.) (NNP Perry) (POS 's))
+          (NN opposition)
+          (S
+            (VP (TO to)
+              (VP (VB erecting)
+                (NP
+                  (NP (DT a) (NN fence))
+                  (PP (IN across)
+                    (NP
+                      (NP (DT the) (NNP U.S.) (NN border))
+                      (PP (IN with)
+                        (NP (NNP Mexico))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT Another) (NN effect))
+      (PP (IN of)
+        (NP (DT the) (NNS debates))))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (NP (DT the) (JJ Republican) (NN race))
+              (NP
+                (ADJP
+                  (ADJP (RBR more) (JJ combative))
+                  (SBAR (IN than)
+                    (S
+                      (NP (PRP it))
+                      (VP (MD might) (RB otherwise)
+                        (VP (VB have)
+                          (VP (VBN been)
+                            (PRN (, ,)
+                              (ADVP (IN at) (JJS least))
+                              (PP
+                                (ADVP
+                                  (NP (DT this) (RB far))
+                                  (RB ahead))
+                                (IN of)
+                                (NP (NN election))))))))))
+                (NN year)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS media))
+      (PP (IN like)
+        (NP (NN conflict)))
+      (, ,))
+    (VP
+      (VP (VBP encourage)
+        (NP (PRP it)))
+      (, ,)
+      (CC and)
+      (VP (VBP have)
+        (VP (VBN succeeded)
+          (PP (IN in)
+            (S
+              (VP (VBG generating)
+                (NP (PRP it))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN impact))
+      (PP (IN of)
+        (NP (DT the) (NNS debates)))
+      (PP (IN on)
+        (NP (DT the) (NNS candidates))))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (ADJP (JJ palpable))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (NP (CD three) (JJ poor) (NN debate) (NNS performances)))
+    (NP (JJ last) (NN month))
+    (, ,)
+    (NP (NNP Mr.) (NNP Perry))
+    (VP (VBD dropped)
+      (PP (IN out)
+        (PP (IN of)
+          (NP
+            (NP (JJ first) (NN place))
+            (PP (IN in)
+              (NP (NNS polls)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD fell)
+      (PP (TO to)
+        (NP
+          (NP (CD 17) (NN %))
+          (PP (IN in)
+            (NP (DT the) (NNP ABC) (NNP News\/Washington) (NNP Post) (NN survey)))))
+      (PP (IN in)
+        (NP (JJ late) (NNP September)))
+      (, ,)
+      (PP (IN from)
+        (NP (CD 29) (NN %))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VP (VBD trailed)
+        (NP
+          (NP (NNP Mr.) (NNP Romney))
+          (PP (IN in)
+            (NP (DT that) (NN poll)))))
+      (CC and)
+      (VP (VBD was)
+        (VP (VBN tied)
+          (PP (IN with)
+            (NP (NN businessman) (NNP Herman) (NNP Cain))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN reverse))
+    (VP (VBZ is)
+      (ADJP (JJ true)
+        (PP (IN for)
+          (NP (NNP Mr.) (NNP Cain)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ His) (JJ conservative) (NN message))
+      (CC and)
+      (NP
+        (NP (JJ personal) (NN appeal))
+        (PP (IN in)
+          (NP (NNS debates)))))
+    (VP (VBP have)
+      (VP (VBN increased)
+        (NP (PRP$ his) (NN support))
+        (PP (TO to)
+          (NP
+            (NP (CD 17) (NN %))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NNP ABC) (NNP News\/Washington) (NNP Post) (NN poll))
+                (PP (IN in)
+                  (NP (JJ late) (NNP September)))))))
+        (, ,)
+        (PP (IN from)
+          (NP
+            (NP (CD 3) (NN %))
+            (PP (IN in)
+              (NP (JJ late) (NNP August)))))))
+    (. .)))
+
+(ROOT
+  (NP (NNP Rep.)))
+

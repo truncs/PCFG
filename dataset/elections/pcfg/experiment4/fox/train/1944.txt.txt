@@ -1,0 +1,476 @@
+(ROOT
+  (S
+    (NP
+      (ADJP (JJ Republican) (JJ presidential) (NN contender))
+      (NNP Michele) (NNP Bachmann))
+    (VP (VBD lost)
+      (NP (PRP$ her) (NN campaign))
+      (NP (JJ chief) (NNP Monday))
+      (, ,)
+      (PP (IN along)
+        (PP (IN with)
+          (NP (PRP$ his) (JJ close) (NN deputy))))
+      (, ,)
+      (PP (IN in)
+        (NP
+          (NP (DT a) (NN campaign) (NN shake-up))
+          (SBAR (IN that)
+            (S
+              (NP
+                (NP (DT the) (NNP Minnesota) (NN congresswoman) (POS 's))
+                (NNS aides))
+              (VP (VBD sought)
+                (PP (TO to)
+                  (NP (NN downplay)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (VBG Citing)
+      (NP
+        (NP (NN health) (NNS reasons))
+        (, ,)
+        (NP (JJ veteran) (NNP GOP) (NN strategist))))
+    (NP (NNP Ed) (NNP Rollins))
+    (VP (VBD stepped)
+      (PRT (RP down))
+      (PP (IN as)
+        (NP (NN campaign) (NN manager))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Bachmann))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (CD one))
+            (PP (IN of)
+              (NP (PRP$ her) (NNS strategists))))
+          (VP (MD would)
+            (VP (VB take)
+              (PRT (RP over))
+              (PP (IN on)
+                (NP (DT an) (JJ interim) (NN basis)))
+              (SBAR (IN as)
+                (S
+                  (NP (NNP Rollins))
+                  (VP (VBZ moves)
+                    (PP (TO to)
+                      (NP (DT a) (JJ senior) (NN adviser) (NN role)))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (PP (IN In)
+        (UCP
+          (NP
+            (QP (JJR less) (IN than) (CD 50))
+            (NNS days))
+          (CC and)
+          (PP (IN with)
+            (NP
+              (NP (JJR fewer) (NNS resources))
+              (PP (IN than)
+                (NP (JJ other) (NNS campaigns)))))))
+      (, ,)
+      (NP (NNP Ed))
+      (VP (VBD was)
+        (NP
+          (NP (DT the) (NN architect))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD led)
+                (NP (PRP$ our) (NN campaign))
+                (PP (TO to)
+                  (NP
+                    (NP (DT a) (JJ historic) (NN victory))
+                    (PP (IN in)
+                      (NP (NNP Iowa)))))))))))
+    (, ,) ('' '')
+    (NP (NNP Bachmann))
+    (VP (VBD said)
+      (PP (IN in)
+        (NP
+          (NP (DT a) (NN statement))
+          (VP (VBN released)
+            (NP (JJ late) (NNP Monday)))))
+      (, ,)
+      (S
+        (VP (VBG pointing)
+          (PP (TO to)
+            (S
+              (NP (PRP her))
+              (VP (VB win)
+                (PP (IN in)
+                  (NP (DT the) (NNP Ames) (NNP Straw) (NNP Poll))))))
+          (NP (JJ last) (NN month)))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (PRP I))
+    (VP
+      (VP (VBP am)
+        (ADJP (JJ grateful)
+          (PP (IN for)
+            (NP (PRP$ his) (NN guidance)
+              (CC and)
+              (NN leadership)))))
+      (, ,)
+      (CC and)
+      (VP (JJ fortunate)
+        (S
+          (VP (TO to)
+            (VP (VB retain)
+              (NP (PRP$ his) (JJ valuable) (NN advice))
+              (SBAR (RB even) (IN though)
+                (S
+                  (NP (PRP$ his) (NN health))
+                  (ADVP (RB no) (RB longer))
+                  (VP (VBZ permits)
+                    (S
+                      (NP (PRP him))
+                      (VP (TO to)
+                        (VP (VB oversee)
+                          (NP
+                            (NP (DT the) (JJ day-to-day) (NNS operations))
+                            (PP (IN of)
+                              (NP (DT the) (NN campaign)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (PP (VBG Speaking)
+      (PP (TO to)
+        (NP
+          (NP (NNP CNN))
+          (, ,)
+          (SBAR
+            (WHADVP (WRB where))
+            (S
+              (NP (PRP he))
+              (VP (VBD was)
+                (NP (DT a) (NN contributor))
+                (PP (IN before)
+                  (NP (DT the) (NNP Bachmann) (NN campaign)))))))))
+    (, ,)
+    (NP (DT the) (JJ 68-year-old) (NNP Rollins))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NNS front-runners))
+          (VP (VBD were)
+            (NP
+              (NP (RB now) (JJ former) (NNP Massachusetts) (NNP Gov.) (NNP Mitt) (NNP Romney))
+              (CC and)
+              (NP (NNP Texas) (NNP Gov.) (NNP Rick) (NNP Perry)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP
+              (NP (NNP Perry) (POS 's))
+              (JJ late) (NN entry))
+            (PP (IN into)
+              (NP (DT the) (NN race))))
+          (VP (VBD slowed)
+            (NP
+              (NP (NNP Bachmann) (POS 's))
+              (NN buzz)
+              (CC and)
+              (NN fundraising))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP I))
+      (VP (VBP think)
+        (SBAR (RB legitimately)
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's)
+              (NP (DT a) (JJ Romney-Perry) (NN race)))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (S
+            (NP (PRP she))
+            (VP (VBZ 's)
+              (NP (DT the) (JJ third) (NN candidate))
+              (PP (IN at)
+                (NP
+                  (NP
+                    (NP (DT this) (NN point))
+                    (PP (IN in)
+                      (NP (NN time))))
+                  (PRN (: --)
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP (VBZ is)
+                          (ADJP
+                            (ADJP (RB way) (JJ different))
+                            (CC and)
+                            (ADJP (JJR better)
+                              (SBAR (IN than)
+                                (S
+                                  (NP (PRP we))
+                                  (VP (MD 'd)
+                                    (VP (VBN thought)
+                                      (SBAR
+                                        (WHADVP (WRB when))
+                                        (S
+                                          (NP (PRP we))
+                                          (VP (VBD started)
+                                            (NP (DT this) (NN thing))))))))))))))
+                    (: --))))))
+          (CC and)
+          (S
+            (NP (PRP she))
+            (VP (VBZ 's)
+              (ADVP (RB very) (RB much))
+              (PP (IN in)
+                (NP (DT this) (NN thing))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP
+      (NP (NNP Rollins))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD suffered)
+            (NP (DT a) (NN stroke))
+            (ADVP
+              (NP
+                (NP (DT a) (NN year))
+                (CC and)
+                (NP (DT a) (NN half)))
+              (RB ago)))))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP$ his) (NN plan))
+          (VP (VBD had)
+            (VP (VBN been)
+              (S
+                (VP (TO to)
+                  (VP
+                    (VP
+                      (VP (VB put)
+                        (PRT (RP together))
+                        (NP (DT a) (NN team)))
+                      (CC and)
+                      (VP (VB get)
+                        (PP (IN through)
+                          (NP (DT the) (NNP Iowa) (NN straw) (NN poll)))))
+                    (CC and)
+                    (VP
+                      (ADVP (RB then))
+                      (VB make)
+                      (NP (DT a) (NN transition)))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (PRP I))
+    (VP (VBP have)
+      (NP
+        (NP (JJ great) (NN affection))
+        (PP (IN for)
+          (NP (PRP her)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'll)
+      (VP (VB do)
+        (NP
+          (NP (NN everything))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (MD can)
+                (S
+                  (VP (TO to)
+                    (VP (VB help)
+                      (NP (PRP her)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ 's) (RB still)
+        (ADVP (RB very) (RB much))
+        (NP (DT the) (NN team))))
+    (NP (PRP I))
+    (VP (VBD put)
+      (PP (IN in)
+        (NP (NN place))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB just))
+      (VP (VBP do) (RB n't)
+        (VP (VB have)
+          (NP (DT the)
+            (ADJP (JJ endurance)
+              (S
+                (VP (TO to)
+                  (VP (VB go)
+                    (FRAG
+                      (FRAG
+                        (NP (CD 12)))
+                      (: -)
+                      (FRAG (, ,)
+                        (NP (JJ 14-hour) (NNS days))))))))
+            (NP (CD seven) (NNS days)))
+          (NP (DT a) (NN week))
+          (PP (RB anymore)))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Rollins) (POS '))
+        (NN departure))
+      (PP (IN as)
+        (NP (NN campaign) (NN chief))))
+    (VP (VBD was)
+      (VP
+        (ADVP (RB first))
+        (VBN reported)
+        (PP (IN by)
+          (NP (NNP Politico)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ His) (NN deputy))
+      (, ,)
+      (NP
+        (NP (NNP David) (NNP Polyansky))
+        (, ,)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD worked)
+              (PP (IN with)
+                (NP (PRP him)))
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (PRP they))
+                  (VP (VBD ran)
+                    (NP
+                      (NP
+                        (NP (JJ former) (NNP Arkansas) (NNP Gov.) (NNP Mike) (NNP Huckabee) (POS 's))
+                        (JJ presidential) (NN bid))
+                      (PP (IN in)
+                        (NP (CD 2008))))))))))
+        (, ,))
+      (ADVP (RB also))
+      (VP (VBD planned)
+        (S
+          (VP (TO to)
+            (VP (VB step)
+              (ADVP (RB aside)))))))
+    (, ,)
+    (NP (NNP Rollins))
+    (VP (VBD told)
+      (NP (NNP CNN)))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (NNP David)
+        (CC and)
+        (PRP I))
+      (VP (VBP have)
+        (VP (VBN been)
+          (NP (DT a) (NN team))
+          (PP (IN for)
+            (NP (DT a) (JJ long) (NN time))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (PRP It))
+    (VP (VBZ 's)
+      (ADVP (RB just))
+      (NP (DT a) (JJ good) (NN time)
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (NP (DT a) (NN change)))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP
+      (NP (NNP Bachmann))
+      (, ,)
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP
+            (VP (VBD won)
+              (NP (NN election))
+              (PP (TO to)
+                (NP (NNP Congress)))
+              (PP (IN in)
+                (NP (CD 2006))))
+            (CC and)
+            (VP (VBD was)
+              (NP
+                (NP (DT a) (NN leader))
+                (PP (IN of)
+                  (NP
+                    (NP (NN tea) (NNS partyers))
+                    (PP (IN on)
+                      (NP (NNP Capitol) (NNP Hill))))))))))
+      (, ,))
+    (VP (VBD had)
+      (VP (VBN been)
+        (S
+          (VP (VBG making)
+            (NP (JJ great) (NNS strides))
+            (PP (IN in)
+              (NP (PRP$ her) (JJ presidential) (NN bid)))))))
+    (. .)))
+

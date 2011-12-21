@@ -1,0 +1,461 @@
+(ROOT
+  (S
+    (NP (JJ Criminal) (NNS charges))
+    (VP (VBD were)
+      (ADJP (JJ likely)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN filed)
+                (NP (NNP Friday))
+                (PP (IN against)
+                  (NP
+                    (NP (NNP John) (NNP Edwards))
+                    (, ,)
+                    (NP
+                      (NP (DT the) (NN culmination))
+                      (PP (IN of)
+                        (NP
+                          (NP (DT a) (JJ two-year) (JJ federal) (NN investigation))
+                          (PP (IN into)
+                            (NP
+                              (NP (NN money))
+                              (VP (VBN used)
+                                (S
+                                  (VP (TO to)
+                                    (VP (VB cover)
+                                      (PRT (RP up))
+                                      (NP (DT an) (JJ extramarital) (NN affair))
+                                      (PP (IN during)
+                                        (NP (DT the) (CD 2008) (JJ presidential) (NN election))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Edwards) (POS '))
+      (NN attorney) (NNP Greg) (NNP Craig))
+    (VP (VBD was)
+      (VP (VBG traveling)
+        (S
+          (VP (TO to)
+            (VP (VB meet)
+              (PP (IN with)
+                (NP (NNS prosecutors)))
+              (PP (IN in)
+                (NP
+                  (NP (NNP North) (NNP Carolina))
+                  (, ,)
+                  (NP
+                    (NP (DT an) (NN indication))
+                    (SBAR (IN that)
+                      (S
+                        (NP (DT the) (JJ former) (JJ presidential) (NN candidate))
+                        (VP (MD will) (RB likely)
+                          (VP (VB be)
+                            (VP (VBN charged) (, ,)
+                              (PP (CC either)
+                                (PP (IN in)
+                                  (NP
+                                    (NP (DT a) (JJ grand) (NN jury))
+                                    (NN indictment)))
+                                (CC or)
+                                (PP (IN in)
+                                  (NP
+                                    (NP (DT a) (VBN negotiated) (NN charge))
+                                    (PP (TO to)
+                                      (SBAR
+                                        (WHNP (WDT which))
+                                        (S
+                                          (NP (PRP he))
+                                          (VP (MD would)
+                                            (VP (VB plead)
+                                              (ADJP (JJ guilty)))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN person))
+      (PP (IN with)
+        (NP
+          (NP (NN knowledge))
+          (PP (IN of)
+            (NP (DT the) (NN investigation))))))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP
+            (NP (NNP Craig))
+            (, ,)
+            (NP
+              (NP (DT a) (NNP Washington) (NN lawyer))
+              (SBAR
+                (WHNP (WP who))
+                (S
+                  (VP (VBD was)
+                    (NP
+                      (NP (NNP President) (NNP Barack) (NNP Obama) (POS 's))
+                      (JJ first)
+                      (NP (NNP White) (NNP House))
+                      (NN counsel))))))
+            (, ,))
+          (VP (VBD planned)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (PP (IN in)
+                    (NP
+                      (NP (PRP$ his) (NN client) (POS 's))
+                      (NN home) (NN state))))))
+            (NP (NNP Friday))
+            (, ,)
+            (SBAR
+              (WHADVP (WRB where))
+              (S
+                (NP (NNS prosecutors))
+                (VP (VBD were)
+                  (VP (VBN prepared)
+                    (S
+                      (VP (TO to)
+                        (VP (VB file)
+                          (NP (NNS charges)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN source))
+    (VP (VBD insisted)
+      (PP (IN on)
+        (NP (NN anonymity)))
+      (SBAR (IN in) (NN order)
+        (S
+          (VP (TO to)
+            (VP (VB discuss)
+              (NP (DT the) (JJ private) (NNS negotiations)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (NNS Prosecutors))
+        (VP (VBP have)
+          (VP (VBN told)
+            (NP (NNP Edwards))
+            (SBAR
+              (S
+                (NP (PRP they))
+                (VP (MD will)
+                  (VP (VB charge)
+                    (NP (PRP him))
+                    (NP (NNP Friday)))))))))
+      (CC but)
+      (S
+        (NP (NN plea) (NNS negotiations))
+        (VP (VBP continue) (, ,)
+          (SBAR (IN so)
+            (S
+              (NP
+                (NP (DT a)
+                  (ADJP (JJ grand) (NN jury))
+                  (NN indictment))
+                (CC or)
+                (NP
+                  (NP (NN deal))
+                  (PP (IN on)
+                    (NP (DT a) (VBN negotiated) (NN charge)))))
+              (VP (VBP are) (DT both)
+                (ADJP (RB still) (JJ possible))))))))
+    (, ,)
+    (NP (DT the) (NN person))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ federal) (NN prosecutor))
+      (PP (IN for)
+        (NP
+          (NP
+            (NP (NNP North) (NNP Carolina) (POS 's))
+            (NNP Eastern) (NNP District))
+          (, ,)
+          (NP (NNP U.S.) (NNP Attorney) (NNP George) (NNP Holding))
+          (, ,))))
+    (VP (VBD arrived)
+      (PP (IN at)
+        (NP
+          (NP (DT the) (JJ federal) (NN courthouse))
+          (PP (IN in)
+            (NP (NNP Raleigh)))))
+      (PP
+        (ADVP (RB shortly))
+        (IN before)
+        (NP (CD 9) (NN a.m.))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD declined)
+      (NP (NN comment)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Federal) (NNS officials))
+    (VP (VBP have)
+      (VP (VBN approved)
+        (NP (JJ criminal) (NNS charges))
+        (, ,)
+        (S
+          (VP (VBG deciding)
+            (SBAR (IN that)
+              (S
+                (NP
+                  (NP (DT the) (NNS hundreds))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNS thousands))
+                      (PP (IN of)
+                        (NP (NNS dollars)))
+                      (SBAR
+                        (S
+                          (NP (CD two) (NNP Edwards) (NNS donors))
+                          (VP (VBD gave)
+                            (S
+                              (VP (TO to)
+                                (VP (VB help)
+                                  (VP (VB keep)
+                                    (NP
+                                      (NP (PRP$ his) (NN mistress))
+                                      (PP (IN in)
+                                        (NP (NN hiding))))))))))))))
+                (VP (VBD were)
+                  (NP
+                    (NP (NNS contributions))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (MD should)
+                          (VP (VB have)
+                            (VP (VBN been)
+                              (VP (VBN reported)
+                                (ADVP (RB publicly))
+                                (PP (IN by)
+                                  (NP (PRP$ his) (NN campaign) (NN fund)))
+                                (SBAR (IN because)
+                                  (S
+                                    (NP (PRP they))
+                                    (VP (VBD aided)
+                                      (NP (PRP$ his) (NN bid))
+                                      (PP (IN for)
+                                        (NP (DT the) (JJ Democratic)
+                                          (ADJP (NNP White) (NNP House))
+                                          (NN nomination))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Edwards) (POS '))
+      (NNS lawyers))
+    (VP (VBP have)
+      (VP (VBN argued)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NNS funds))
+            (VP (VBD were)
+              (NP
+                (NP (NNS gifts))
+                (PP (IN from)
+                  (NP
+                    (NP (NNS friends))
+                    (VP (VBN intended)
+                      (S
+                        (VP (TO to)
+                          (VP (VB keep)
+                            (NP (DT the) (NN affair))
+                            (NP (DT a) (NN secret))
+                            (PP (IN from)
+                              (NP
+                                (NP (PRP$ his) (NN wife))
+                                (, ,)
+                                (NP (NNP Elizabeth))
+                                (, ,)))))))
+                    (SBAR
+                      (WHNP (WP who))
+                      (S
+                        (VP (VBD died)
+                          (PP (IN of)
+                            (NP (NN cancer)))
+                          (PP (IN in)
+                            (NP (NNP December))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN plea))
+      (PP (TO to)
+        (NP
+          (NP (DT a) (NN felony) (NN charge))
+          (VP (VBG involving)
+            (NP (NN campaign) (NNS finances))))))
+    (VP (MD could)
+      (VP
+        (VP (VB strip)
+          (NP
+            (NP (NNP Edwards))
+            (PP (IN of)
+              (NP (PRP$ his) (NN law) (NN license)))))
+        (CC and)
+        (VP (VB end)
+          (NP
+            (NP (DT any) (NN hope))
+            (SBAR
+              (S
+                (NP (PRP he))
+                (VP (MD could)
+                  (VP (VB work)
+                    (PP (IN as)
+                      (NP
+                        (NP (DT an) (NN attorney))
+                        (PP (IN for)
+                          (NP (DT the) (JJ poor)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S (CC And)
+      (NP (DT a) (NN trial))
+      (VP (MD would)
+        (VP (VB mean)
+          (NP
+            (NP
+              (ADJP (RBR more) (JJ sordid))
+              (NNS stories))
+            (PP (IN about)
+              (NP
+                (NP (PRP$ his) (NN campaign) (NN affair))
+                (CC and)
+                (NP (DT the) (NN child))))))))
+    (NP (PRP he))
+    (VP (VBD fathered)
+      (PP (IN during)
+        (NP (PRP it)))
+      (, ,)
+      (S
+        (ADVP (RB further))
+        (VP (VBG battering)
+          (NP (PRP$ his) (NN reputation)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB Even) (IN if)
+      (S
+        (NP (PRP he))
+        (VP (VBD were)
+          (S
+            (VP (TO to)
+              (VP (VB win)
+                (NP (DT the) (NN case))))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ appears)
+      (SBAR
+        (S
+          (NP (DT the)
+            (ADJP (CD 2004) (JJ Democratic) (NN vice))
+            (JJ presidential) (NN nominee))
+          (VP (MD would)
+            (VP (VB do)
+              (ADVP (RB so))
+              (PP (IN by)
+                (S
+                  (VP (VBG making)
+                    (NP (DT a) (JJ humiliating) (NN argument)))))
+              (: :)
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (NN money))
+                    (VP (VBN used)
+                      (S
+                        (VP (TO to)
+                          (VP (VB keep)
+                            (NP
+                              (NP
+                                (NP (PRP$ his) (NN mistress))
+                                (CC and)
+                                (NP (JJ out-of-wedlock) (NN child)))
+                              (PP (IN in)
+                                (NP (NN hiding)))))))))
+                  (VP (VBD was)
+                    (VP (VBN intended)
+                      (S
+                        (VP (TO to)
+                          (VP (VB shield)
+                            (NP (DT the) (NN affair))
+                            (PP (IN from)
+                              (NP (PRP$ his) (JJ cancer-stricken) (NN wife)))
+                            (S (RB not)
+                              (VP (TO to)
+                                (VP (VB aid)
+                                  (NP
+                                    (NP (PRP$ his) (NN candidacy))
+                                    (, ,)
+                                    (SBAR
+                                      (WHNP (WDT which))
+                                      (S
+                                        (VP (VBZ is)
+                                          (SBAR
+                                            (WHNP (WP what))
+                                            (S
+                                              (NP (NNS prosecutors))
+                                              (VP (VBP believe)))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (UCP
+        (NP (NN Trial))
+        (CC or)
+        (ADVP (RB not)))
+      (, ,)
+      (NP (NNP John) (NNP Edwards))
+      (VP (VBZ is)
+        (NP
+          (NP (DT the)
+            (NP
+              (NP (NNP Charlie) (NNP Sheen))
+              (PP (IN of)
+                (NP (JJ American) (NNS politics))))
+            (JJ great) (NN hair))
+          (CC and)
+          (NP
+            (NP (DT no) (NN chance))
+            (PP (IN for)
+              (NP (NN rehabilitation)))))))
+    (, ,) ('' '')
+    (NP (JJ Democratic) (NN consultant) (NNP Jack) (NNP Quinn))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Political) (NN sex) (NNS scandals))
+    (VP (MD can)
+      (VP
+        (ADVP (RB either))
+        (VB be)
+        (NP
+          (NP (RB just) (DT a) (NN career) (NN glitch))
+          (CC or)
+          (NP (DT a) (NN career-ender)))))
+    (. .)))
+

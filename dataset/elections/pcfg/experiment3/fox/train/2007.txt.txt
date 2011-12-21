@@ -1,0 +1,465 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP
+          (NP (NNP Senator) (NNP Robert) (NNP Byrd))
+          (PP (IN of)
+            (NP (NNP West) (NNP Virginia))))
+        (, ,)
+        (NP
+          (NP (DT the) (JJ longest-serving) (NN senator))
+          (PP (IN in)
+            (NP (JJ American) (NN history))))
+        (, ,))
+      (VP (VBD died)
+        (NP (NNP Monday))
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NN age))
+            (PP (IN of)
+              (NP (CD 92)))))))
+    (, ,)
+    (NP
+      (NP (DT a) (NN spokesman))
+      (PP (IN for)
+        (NP (DT the) (NN family))))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Byrd))
+      (, ,)
+      (NP
+        (NP (DT a) (NNP Democrat))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBD served)
+              (PP (IN in)
+                (NP (DT the) (NNP U.S.) (NNP Senate)))
+              (PP (IN since)
+                (NP (CD 1959)))))))
+      (, ,))
+    (VP
+      (VP (VBD had)
+        (VP (VBN been)
+          (VP (VBN plagued)
+            (PP (IN by)
+              (NP
+                (NP (NN health) (NNS problems))
+                (PP (IN in)
+                  (NP (JJ recent) (NNS years))))))))
+      (CC and)
+      (VP (VBD was)
+        (VP (VBN confined)
+          (PP (TO to)
+            (NP (DT a) (NN wheelchair))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD had)
+      (SBAR
+        (S
+          (VP (VBD skipped)
+            (NP
+              (NP (JJ several) (NNS votes))
+              (PP (IN in)
+                (NP (NNP Congress))))
+            (PP (IN in)
+              (NP (DT the) (JJ past) (NNS months)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Jesse) (NNP Jacobs))
+      (, ,)
+      (NP (DT a) (NN family) (NN spokesman))
+      (, ,))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (NNP Byrd))
+          (VP (VBD died)
+            (ADVP (RB peacefully))
+            (PP (IN at)
+              (NP
+                (QP (IN about) (CD 3))
+                (NN a.m.)))
+            (PP (IN at)
+              (NP
+                (NP (NNP Inova) (NNP Hospital))
+                (PP (IN in)
+                  (NP
+                    (NP (NNP Fairfax))
+                    (, ,)
+                    (NP (NNP Va.))))))
+            (SBAR
+              (S
+                (NP (PRP He))
+                (VP (VBD was)
+                  (NP
+                    (NP (DT the) (JJS oldest) (NN member))
+                    (PP (IN of)
+                      (NP (DT the) (JJ 111th) (NNP Congress)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN passing))
+      (PP (IN of)
+        (NP (NNP Sen.) (NNP Byrd))))
+    (VP (MD will) (RB not)
+      (VP (VB affect)
+        (NP
+          (NP (DT the) (NN balance))
+          (PP (IN of)
+            (NP (NN power))))
+        (PP (IN in)
+          (NP (DT the) (NNP Senate)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP West) (NNP Virginia) (NNP Governor) (NNP Joe) (NNP Manchin))
+      (, ,)
+      (NP (DT a) (NNP Democrat))
+      (, ,))
+    (VP (MD will)
+      (VP (VB appoint)
+        (NP (DT a) (NN replacement) (NN senator))
+        (S
+          (VP (TO to)
+            (VP (VB serve)
+              (PRT (RP out))
+              (NP
+                (NP (DT the) (NN remainder))
+                (PP (IN of)
+                  (NP
+                    (NP
+                      (NP (NNP Byrd) (POS 's))
+                      (NN term))
+                    (, ,)
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP (VBZ ends)
+                          (PP (IN in)
+                            (NP (CD 2012))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Statements))
+      (PP (IN from)
+        (NP (PRP$ his) (JJ longtime) (NNS colleagues))))
+    (VP (VBD poured)
+      (PRT (RP out))
+      (NP (NNP Monday) (NN morning))
+      (, ,)
+      (SBAR (IN as)
+        (S
+          (NP (JJ fellow) (NNS senators))
+          (VP (VBD remembered)
+            (NP (NNP Byrd))
+            (PP (IN as)
+              (NP
+                (NP (DT a) (JJ steadfast) (NN presence))
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (NN chamber))
+                    (CC and)
+                    (NP
+                      (NP (DT a) (JJ veritable) (NN tome))
+                      (PP (IN of)
+                        (NP (NN knowledge))))))))
+            (PP (IN on)
+              (SBAR
+                (WHADVP (WRB how))
+                (S
+                  (NP (DT the) (NNP Senate))
+                  (VP (VBZ works)))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (S
+        (NP
+          (NP (DT The) (NNS people))
+          (PP (IN of)
+            (NP (NNP West) (NNP Virginia))))
+        (VP (VBP have)
+          (VP (VBN lost)
+            (NP (DT a) (JJ dedicated) (JJ public) (NN servant)))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (NNP America))
+        (VP (VBZ has)
+          (VP (VBN lost)
+            (NP
+              (NP (DT a) (JJ great) (NN defender))
+              (PP (IN of)
+                (NP (PRP$ its) (RBS most) (JJ precious) (NNS traditions))))))))
+    (, ,) ('' '')
+    (NP (NNP Senate) (NNP Majority) (NNP Leader) (NNP Harry) (NNP Reid))
+    (VP (VBD said)
+      (PP (IN in)
+        (NP (DT a) (VBN written) (NN statement))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP He))
+      (VP (VBD was)
+        (NP
+          (NP (DT the) (JJ foremost) (NN guardian))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NNP Senate) (POS 's))
+              (JJ complex) (NNS rules) (, ,) (NNS procedures)
+              (CC and)
+              (NNS customs))))))
+    (, ,)
+    (CC and)
+    (S
+      (PP (IN as)
+        (NP
+          (NP (NN leader))
+          (PP (IN of)
+            (NP (DT both)
+              (NP (DT the) (NN majority))
+              (CC and)
+              (NP
+                (NP (DT the) (NN minority) (NNS caucuses))
+                (PP (IN in)
+                  (NP (DT the) (NNP Senate))))))))
+      (NP (PRP he))
+      (VP (VBD knew)
+        (ADJP
+          (ADJP (JJR better))
+          (ADVP (IN than) (JJS most))
+          (SBAR (IN that)
+            (S
+              (NP (NN legislation))
+              (VP (VBZ is)
+                (NP
+                  (NP (DT the) (NN art))
+                  (PP (IN of)
+                    (NP (NN compromise))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN By)
+      (NP
+        (NP (NN virtue))
+        (PP (IN of)
+          (NP (PRP$ his) (JJ endurance)))))
+    (, ,)
+    (NP (NNP Robert) (NNP Byrd))
+    (VP
+      (VP (VBD knew))
+      (CC and)
+      (VP (VBD worked)
+        (PP (IN with)
+          (NP
+            (NP (JJ many))
+            (PP (IN of)
+              (NP
+                (NP
+                  (NP (DT the) (NNS greats))
+                  (PP (IN of)
+                    (NP (DT the) (NNP United) (NNPS States))))
+                (NP (NNP Senate))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (NNP President) (NNP Obama))
+    (VP (VBD said)
+      (PP (IN in)
+        (NP (DT a) (NN statement)))
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (NN country))
+          (VP (VBZ has) (`` ``)
+            (VP (VBN lost)
+              (NP
+                (NP (DT a) (NN voice))
+                (PP (IN of)
+                  (NP (NN principle)
+                    (CC and)
+                    (NN reason))))
+              ('' '')
+              (PP (IN with)
+                (NP
+                  (NP (NNP Byrd) (POS 's))
+                  (NN death))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP He))
+      (VP (VBD had)
+        (NP (DT the) (NN courage)
+          (S
+            (VP (TO to)
+              (VP (VB stand)
+                (NP
+                  (NP
+                    (NP (NN firm))
+                    (PP (IN in)
+                      (NP (PRP$ his) (NNS principles))))
+                  (, ,)
+                  (CONJP (CC but)
+                    (RB also))
+                  (NP (DT the) (NN courage)
+                    (S
+                      (VP (TO to)
+                        (VP (VB change)
+                          (PP (IN over)
+                            (NP (NN time))))))))))))))
+    (, ,) ('' '')
+    (NP (NNP Obama))
+    (VP (VBD said) (, ,)
+      (PP (IN in)
+        (NP
+          (NP (DT a) (VBN veiled) (NN reference))
+          (PP (TO to)
+            (NP (PRP$ his) (JJ controversial) (NN past))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Secretary))
+      (PP (IN of)
+        (NP
+          (NP (NNP State) (NNP Hillary) (NNP Clinton))
+          (, ,)
+          (NP (DT a) (JJ former) (NN senator))
+          (, ,))))
+    (VP (VBD called)
+      (NP (NNP Byrd))
+      (NP
+        (NP (DT the) (`` ``) (NN heart)
+          (CC and)
+          (NN soul) ('' ''))
+        (PP (IN of)
+          (NP (DT the) (NN chamber)))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (ADJP (RB almost) (JJ impossible)
+          (S
+            (VP (TO to)
+              (VP (VB imagine)
+                (NP
+                  (NP (DT the) (NNP United) (NNPS States))
+                  (NNP Senate))
+                (PP (IN without)
+                  (NP (NNP Robert) (NNP Byrd)))))))))
+    (, ,) ('' '')
+    (NP (PRP she))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT A) (JJ traditional) (JJ black) (NN drape))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN placed)
+          (PP (IN over)
+            (NP
+              (NP
+                (NP (NNP Byrd) (POS 's))
+                (NN desk))
+              (, ,)
+              (NP
+                (NP (DT a) (NN sign))
+                (PP (IN of)
+                  (NP
+                    (NP (NN respect))
+                    (PP (IN for)
+                      (NP (DT the)))))
+                (VP (VBN deceased)
+                  (PP (IN in)
+                    (NP (NNP Congress))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ veteran) (NN senator))
+    (VP (VBD held)
+      (NP
+        (NP (DT a) (NN number))
+        (PP (IN of)
+          (NP (NN leadership) (NNS roles))))
+      (PP (IN during)
+        (NP
+          (NP (PRP$ his) (NN tenure))
+          (PP (IN in)
+            (NP (DT the) (NNP Senate)))
+          (, ,)
+          (VP (VBG including)
+            (NP
+              (NP (NN conference) (NN secretary))
+              (, ,)
+              (NP (NN majority) (NN whip))
+              (CC and)
+              (NP (NN majority) (NN leader))
+              (: --)))))
+      (ADVP (RB twice)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Prior)
+      (PP (TO to)
+        (NP (PRP$ his) (NN death))))
+    (, ,)
+    (NP (NNP Byrd))
+    (VP (VBD worked)
+      (PP (IN as)
+        (NP
+          (NP (DT the) (NN president) (FW pro) (FW tempore))
+          (: --)
+          (NP
+            (NP (DT the)
+              (ADJP (JJ second) (JJS highest))
+              (JJ ranking) (NN official))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NNP Senate))
+                (CC and)
+                (NP (DT the) (JJS highest) (JJ ranking) (NN senator)))))))
+      (PP (IN in)
+        (NP (DT the) (NN majority) (NN party)))
+      (, ,)
+      (S
+        (VP (VBG putting)
+          (NP (NNP Byrd))
+          (ADVP (JJ third))
+          (PP (IN in)
+            (NP (NN line)))
+          (PP (TO to)
+            (NP (DT the) (NN presidency))))))
+    (. .)))
+

@@ -1,0 +1,455 @@
+(ROOT
+  (S
+    (NP (NNP Secret) (NNP Service) (NNP Director) (NNP Mark) (NNP Sullivan))
+    (VP (VBZ is)
+      (VP (VBG anticipating)
+        (NP (DT a) (`` ``)
+          (S
+            (ADVP (RB very))
+            (VP (VBG demanding)
+              (CC and)
+              (VBG challenging)))
+          ('' '') (NN year))
+        (, ,)
+        (SBAR (IN as)
+          (S
+            (NP (DT the) (NN service))
+            (VP (VBZ seeks)
+              (S
+                (NP
+                  (NP (NNS millions))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNS dollars))
+                      (PP (IN in)
+                        (NP (JJ additional) (NN funding))))))
+                (VP (TO to)
+                  (VP (VB protect)
+                    (NP (DT the) (CD 2012) (JJ presidential) (NNS candidates))
+                    (: --)
+                    (SBAR (IN though)
+                      (S
+                        (NP
+                          (NP (DT the) (NN agency) (POS 's))
+                          (NN budget))
+                        (VP (VBZ is) (RB still)
+                          (VP (VBN stuck)
+                            (PP (IN in)
+                              (NP (NNP Congress)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP House))
+    (VP (VBZ has) (RB already)
+      (VP (VBN voted)
+        (S
+          (VP (TO to)
+            (VP (VB give)
+              (NP (DT the) (NNP Secret) (NNP Service))
+              (NP
+                (NP
+                  (QP ($ $) (CD 113) (CD million)))
+                (PP (IN for)
+                  (NP (JJ fiscal) (CD 2012))))
+              (S
+                (VP (TO to)
+                  (VP (VB cover)
+                    (NP
+                      (NP (JJ protective) (NNS activities))
+                      (VP (VBG relating)
+                        (PP (TO to)
+                          (NP (DT the) (JJ presidential) (NN campaign)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNP Senate) (NNPS Appropriations) (NNP Committee))
+      (VP (VBD approved)
+        (NP (DT a) (JJ similar) (NN bill))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (VBZ has) (RB not)
+        (ADVP (RB yet))
+        (VP (VBN been)
+          (VP (VBN scheduled)
+            (PP (IN for)
+              (NP (DT a) (NN floor) (NN vote)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB So) (RB far))
+    (, ,)
+    (NP
+      (NP
+        (NP (NNP Congress) (POS '))
+        (NN track) (NN record))
+      (PP (IN on)
+        (NP (NN budget) (NNS bills))))
+    (VP (VBZ is)
+      (ADJP (RB not) (JJ good))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (DT the) (NNP Sept.) (CD 30) (NN end))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (JJ fiscal) (NN year))
+              (ADJP (RB fast) (VBG approaching)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNP House))
+      (VP (VBZ has)
+        (VP (VBN passed)
+          (NP (CD six)))))
+    (PRN (, ,)
+      (S
+        (NP (DT the) (NNP Senate))
+        (VP (VBZ has)
+          (VP (VBN passed)
+            (NP
+              (QP (RB just) (CD one))))))
+      (, ,))
+    (CC and)
+    (S
+      (NP
+        (NP (NN none))
+        (PP (IN of)
+          (NP (DT the) (NNS bills))))
+      (VP (VBZ has)
+        (VP (VBN made)
+          (NP
+            (NP (PRP$ its) (NN way))
+            (PP (TO to)
+              (NP
+                (NP (DT the) (NN president) (POS 's))
+                (NN desk)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNS Lawmakers))
+      (VP (VBP are) (RB already)
+        (VP (VBG working)
+          (PP (IN on)
+            (NP (DT a) (NN stopgap) (NN funding) (NN bill)))
+          (S
+            (VP (TO to)
+              (VP (VB keep)
+                (S
+                  (NP (DT the) (NN government))
+                  (VP (VBG running)
+                    (PP (IN on)
+                      (NP (NNP Oct.) (CD 1)))))))))))
+    (: --)
+    (CC but)
+    (S
+      (NP (DT the) (NN delay))
+      (VP (VBZ raises)
+        (NP
+          (NP (NNS questions))
+          (PP (IN about)
+            (SBAR (IN whether)
+              (S
+                (NP (DT the) (NNP Secret) (NNP Service))
+                (VP (MD will)
+                  (VP (VB get)
+                    (SBAR
+                      (WHNP (WP what))
+                      (S
+                        (NP (PRP it))
+                        (VP (VBZ needs)
+                          (SBAR
+                            (WHADVP (WRB when))
+                            (S
+                              (NP (DT the) (JJ presidential) (NN race))
+                              (VP (VBZ moves)
+                                (PP (IN into)
+                                  (NP (JJ full) (NN swing)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (DT An) (NN aide))
+    (PP (TO to)
+      (NP
+        (NP (NNP Sen.) (NNP Mary) (NNP Landrieu))
+        (, ,)
+        (NP (NNP D-La))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRN (: --)
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP (VBZ chairs)
+              (NP
+                (NP (DT the) (NNP Homeland) (NNP Security) (NNP Subcommittee))
+                (PP (IN on)
+                  (NP (DT the) (NNP Senate) (NNS appropriations) (NN panel)))))))
+        (: --)))
+    (VP (VBD downplayed)
+      (NP
+        (NP (DT the) (NNS complications))
+        (PP (IN of)
+          (NP (DT the) (JJ molasses-speed) (NN budget) (NN process)))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP
+        (NP (NNP Funding))
+        (PP (IN for)
+          (NP (DT the) (NNP Secret) (NNP Service)))
+        (S
+          (VP (TO to)
+            (VP (VB carry)
+              (PRT (RP out))
+              (NP (PRP$ its) (NNS duties))
+              (PP (IN during)
+                (NP (DT the) (CD 2012) (NN election)))))))
+      (VP (MD will)
+        (VP (VB be)
+          (VP (VBN dealt)
+            (PP (IN with)
+              (PP (IN in)
+                (NP (DT the) (NNP CR))))
+            (, ,)
+            (SBAR (IN if)
+              (S
+                (NP (EX there))
+                (VP (VBZ is)
+                  (NP (CD one)))))))))
+    (, ,) ('' '')
+    (NP (DT the) (NN aide))
+    (VP (VBD said)
+      (PP (IN in)
+        (NP (DT an) (NN email))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN CR))
+      (, ,)
+      (CC or)
+      (NP (VBG continuing) (NN resolution))
+      (, ,))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN term))
+        (PP (IN for)
+          (NP (DT a) (NN stopgap) (NN budget) (NN bill)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Nevertheless))
+    (, ,)
+    (NP (DT the) (NNP Secret) (NNP Service))
+    (VP (VBZ is)
+      (VP (VBG making)
+        (S
+          (ADJP (JJ clear))
+          (SBAR (IN that)
+            (S
+              (NP (PRP$ its) (NNS needs))
+              (VP (VBP are)
+                (ADJP (JJ substantial))
+                (PP (IN in)
+                  (NP (DT the) (VBG coming) (NN year)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (CD 2008) (JJ presidential) (NN election)))
+    (, ,)
+    (NP (DT the) (NN agency))
+    (VP (VBD was)
+      (VP (VBN asked)
+        (S
+          (VP (TO to)
+            (VP (VB provide)
+              (NP
+                (NP (NN protection))
+                (PP (IN for)
+                  (NP (NNS candidates))))
+              (ADVP (RBR earlier) (IN than) (RB ever)))))
+        (ADVP (RB before))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN length))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (JJ Democratic) (JJ primary) (NN process))
+          (CC and)
+          (NP
+            (NP (NN size))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NNS crowds))
+                (PP (IN at)
+                  (NP (JJ massive) (NN campaign) (NNS rallies)))))))))
+    (VP (VBD made)
+      (S
+        (NP
+          (NP (DT the) (NN agency) (POS 's))
+          (NN job))
+        (ADJP
+          (NP (DT that) (RB much))
+          (JJR harder))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN time))
+    (, ,)
+    (NP (DT the) (NNP Secret) (NNP Service))
+    (VP (VBZ wants)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN prepared)
+              (PP (IN for)
+                (NP (DT an) (JJ intense) (NN season))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Sullivan))
+      (, ,)
+      (PP (IN in)
+        (NP
+          (NP (VBN written) (NN testimony))
+          (VP (VBN provided)
+            (NP (NNP Wednesday))
+            (PP (TO to)
+              (NP (DT the) (NNP House) (NNP Homeland) (NNP Security) (NNP Committee))))))
+      (, ,))
+    (VP (VBD noted)
+      (SBAR (IN that)
+        (S
+          (NP (NNS agents))
+          (VP (VBP have)
+            (ADVP (RB already))
+            (VP (VBN undergone)
+              (NP (NN training))
+              (PP (IN in)
+                (NP
+                  (NP (NN anticipation))
+                  (PP (IN of)
+                    (S
+                      (VP (VBG being)
+                        (VP (VBN assigned)
+                          (S
+                            (VP (TO to)
+                              (VP (VB protect)
+                                (NP (JJ presidential) (NNS candidates))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (SBAR (IN While)
+        (S
+          (ADVP (RB much))
+          (VP (VBZ has)
+            (VP (VBN changed)
+              (PP (IN in)
+                (NP (DT the) (CD 43) (NNS years)))
+              (SBAR (IN since)
+                (S
+                  (NP (PRP we))
+                  (VP (VBD began)
+                    (VP (VBG protecting)
+                      (NP (JJ presidential) (NNS candidates))))))))))
+      (, ,)
+      (NP
+        (NP (DT the) (NNS challenges))
+        (VP (VBN associated)
+          (PP (IN with)
+            (NP (NN planning)
+              (CC and)
+              (NN budgeting)))
+          (PP (IN for)
+            (NP
+              (NP (NN candidate) (NN protection))
+              (ADVP
+                (NP (CD two) (NNS years))
+                (RB ahead))
+              (PP (IN of)
+                (NP (JJ presidential) (NNS campaigns)))))))
+      (VP (VBP remain)))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (`` ``) (NN Forecasting) (NN staffing)
+        (CC and)
+        (NNS costs))
+      (PP (IN for)
+        (NP (JJ presidential) (NNS campaigns))))
+    (VP (VBZ is)
+      (VP (VBN surrounded)
+        (PP (IN by)
+          (NP
+            (NP (DT a) (JJ great) (NN deal))
+            (PP (IN of)
+              (NP
+                (NP (NNS unknowns))
+                (, ,)
+                (PP (JJ such) (IN as)
+                  (NP
+                    (NP (DT the) (NN number))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNS candidates))
+                        (SBAR
+                          (WHNP (WDT that))
+                          (S
+                            (VP (MD will)
+                              (VP (VB run)
+                                (PP (IN for)
+                                  (NP
+                                    (NP (DT the) (NN presidency))
+                                    (, ,)
+                                    (SBAR
+                                      (SBAR
+                                        (WHADJP (WRB how) (JJ much))
+                                        (S
+                                          (NP (PRP they))
+                                          (VP (MD will)
+                                            (VP (VB travel)))))
+                                      (CC and)
+                                      (SBAR
+                                        (WHADVP (WRB how) (RB soon))
+                                        (S
+                                          (NP
+                                            (NP (DT the) (NN field))
+                                            (PP (IN of)
+                                              (NP (NNS candidates))))
+                                          (VP (VBZ is)
+                                            (VP (VBN selected))))))))))))))))))))))
+    (. .)))
+

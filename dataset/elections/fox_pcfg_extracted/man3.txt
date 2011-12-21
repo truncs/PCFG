@@ -1,0 +1,490 @@
+(ROOT
+  (S
+    (PP (IN In)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (PRP he))
+          (VP (VBD described)
+            (PP (IN as)
+              (NP (DT an) (NN effort)
+                (S
+                  (VP (TO to)
+                    (VP (`` ``) (VB compete)
+                      (PP (IN in)
+                        (NP (DT all) (CD 50) (NNS states))))))))))))
+    (, ,) ('' '')
+    (NP (JJ former)
+      (NAC (NNP Speaker)
+        (PP (IN of)
+          (NP (DT the) (NNP House))))
+      (NNP Newt) (NNP Gingrich))
+    (VP (VBD took)
+      (NP (PRP$ his) (JJ surging) (NN campaign))
+      (PP (TO to)
+        (NP (NNP New) (NNP York) (NNP City)))
+      (, ,)
+      (S
+        (VP (VBG holding)
+          (NP
+            (NP (DT a) (JJ private) (JJ one-on-one) (NN meeting))
+            (PP (IN with)
+              (NP
+                (NP (NNP Donald) (NNP Trump))
+                (CC and)
+                (NP (DT a) (NN fundraiser)))))
+          (PP (IN at)
+            (NP
+              (NP (DT the) (NNP Union) (NNP League) (NNP Club) (POS 's))
+              (NNP New) (NNP York) (NN headquarters))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Gingrich))
+    (VP
+      (VP (VBD met)
+        (PP (IN with) (`` ``)
+          (NP (DT The) (NNP Donald))
+          ('' ''))
+        (PP (IN in)
+          (NP (PRP$ his) (JJ midtown) (NNP Manhattan) (NN office)))
+        (NP (NNP Monday) (NN morning)))
+      (CC and)
+      (VP (, ,)
+        (PP (VBG arriving)
+          (PP (IN in)
+            (NP (DT a) (JJ black) (NN SUV))))
+        (, ,) (VBD was)
+        (VP
+          (ADVP (RB immediately))
+          (VBN swarmed)
+          (PP (IN by)
+            (NP
+              (NP (NNS dozens))
+              (PP (IN of)
+                (NP
+                  (NP (NNS members))
+                  (PP (IN of)
+                    (NP (DT the) (NNS media)))))
+              (VP (VBG jostling)
+                (PP (IN for)
+                  (NP (DT a) (NN word)))
+                (PP (IN with)
+                  (NP (DT the)
+                    (ADJP (RB newly) (VBN minted))
+                    (NN frontrunner)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (QP (IN About) (CD 50))
+      (NNS tourists))
+    (VP (VBD were)
+      (PP (IN among)
+        (NP (DT the) (NN crowd)))
+      (, ,)
+      (S
+        (VP (VBG taking)
+          (NP
+            (NP (DT a) (NN break))
+            (PP (IN from)
+              (NP
+                (NP (PRP$ their) (NN holiday) (NN shopping))
+                (PP (IN along)
+                  (NP (NNP Fifth) (NNP Avenue))))))
+          (PP (IN for)
+            (NP (DT an) (JJ unexpected) (NN surprise))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Following)
+        (NP (DT the)
+          (ADJP (RB nearly) (JJ hour-long))
+          (NN meeting))))
+    (, ,)
+    (NP (DT both) (NNS men))
+    (VP (VBD emerged)
+      (PP (IN from)
+        (NP
+          (NP (NNP Trump) (POS 's))
+          (JJ 26th) (NN floor) (NN office)))
+      (S
+        (VP (TO to)
+          (VP (VB take)
+            (NP (NNS questions))
+            (PP (IN from)
+              (NP (NNS reporters)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Praising)
+        (NP (NNP Trump))
+        (PP (IN for)
+          (S
+            (VP (VBG being)
+              (NP (DT an) (`` ``) (JJ American) (NN icon)))))))
+    (, ,) ('' '')
+    (NP (NNP Gingrich))
+    (VP (VBD talked)
+      (PP (IN about)
+        (NP (DT an) (NN idea)))
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD pitched)
+            (PP (TO to)
+              (NP (NNP Trump)))
+            (: :)
+            (S
+              (VP (VBG creating)
+                (NP (DT a) (JJ mentoring) (NN program))
+                (PP (IN in)
+                  (NP
+                    (NP (CD one))
+                    (PP (IN of)
+                      (NP
+                        (NP (NNP New) (NNP York) (NNP City) (POS 's))
+                        (JJS poorest) (NN school) (NNS districts)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Trump))
+    (VP
+      (VP (VBD called)
+        (S
+          (NP (PRP it))
+          (`` ``)
+          (NP (DT a) (JJ great) (NN idea))
+          ('' '')))
+      (CC and)
+      (VP (, ,)
+        (PP (RB never) (VBG missing)
+          (NP
+            (NP (DT an) (NN opportunity))
+            (PP (TO to)
+              (NP (NN self-promote)))))
+        (, ,) (VBD said)
+        (S
+          (NP (PRP he))
+          (VP (MD would)
+            (VP (VB be)
+              (ADJP (JJ happy)
+                (S
+                  (VP (TO to)
+                    (VP (VB get)
+                      (PP (IN on)
+                        (NP (NN board)))
+                      (S
+                        (VP (VBG creating)
+                          (NP
+                            (NP (CD ten) (`` ``) (NNS apprenti))
+                            (, ,) ('' '')
+                            (SBAR
+                              (WHNP (WDT which))
+                              (S
+                                (VP (VBZ is)
+                                  (NP
+                                    (NP (DT a) (NN word))
+                                    (SBAR
+                                      (S
+                                        (NP (PRP he))
+                                        (VP (VBD made)
+                                          (PRT (RP up))
+                                          (S
+                                            (VP (TO to)
+                                              (VP (VB pluralize)
+                                                (NP
+                                                  (NP (DT the) (NN word))
+                                                  (`` ``)
+                                                  (NP (NN apprentice)))))))))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (PP (IN At)
+      (NP
+        (NP (DT an) (NN afternoon) (NN press) (NN conference))
+        (PP (IN at)
+          (NP (DT the) (NNP Union) (NNP League) (NNP Club)))))
+    (, ,)
+    (NP (NNP Gingrich))
+    (VP (VBD did)
+      (NP
+        (NP (JJR more) (NN damage) (NN control))
+        (PP (IN on)
+          (NP
+            (NP (JJ previous) (NNS comments))
+            (SBAR
+              (S
+                (NP (PRP he))
+                (VP (VBN made)
+                  (PP (IN about)
+                    (NP (NN child) (NN labor) (NNS laws))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Calling)
+        (NP (PRP$ his) (NNS words))
+        (`` ``)
+        (S
+          (ADJP (JJ distorted)))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP
+      (ADVP (RB repeatedly))
+      (VBD sought)
+      (S
+        (VP (TO to)
+          (VP (VB explain)
+            (NP
+              (NP (PRP$ his) (NNS comments))
+              (PP (IN about)
+                (SBAR
+                  (WHADVP (WRB how))
+                  (S
+                    (NP
+                      (NP (NNS children))
+                      (PP (IN as)
+                        (NP (JJ young)
+                          (ADJP (RB as) (JJ nine-years-old)
+                            (PP (IN from)
+                              (ADJP (JJ poor))))
+                          (NNS neighborhoods))))
+                    (VP (MD should)
+                      (VP (VB be)
+                        (ADJP (JJ able)
+                          (S
+                            (VP (TO to)
+                              (VP (VB work)
+                                (PP (IN as)
+                                  (NP (NNS janitors)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN intention))
+    (PRN (, ,)
+      (S
+        (NP (PRP he))
+        (VP (VBD said)))
+      (, ,))
+    (VP (VBZ is) (`` ``)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB get)
+              (NP (PRP them))
+              (PP (IN into)
+                (NP
+                  (NP (DT the) (NN world))
+                  (PP (IN of)
+                    (NP (NN work))))))
+            (, ,)
+            (VP (VB get)
+              (NP (PRP them))
+              (PP (IN into)
+                (NP (DT the) (NN opportunity)
+                  (S
+                    (VP (TO to)
+                      (VP (VB earn)
+                        (NP (NN money))
+                        (, ,)
+                        (S
+                          (VP (TO to)
+                            (VP (VB get)
+                              (NP (PRP them))
+                              (PP (IN into)
+                                (NP
+                                  (NP (DT the) (NN habit))
+                                  (PP (IN of)
+                                    (S
+                                      (VP
+                                        (VP (VBG showing)
+                                          (PRT (RP up)))
+                                        (CC and)
+                                        (VP (VBG realizing)
+                                          (SBAR (IN that)
+                                            (S
+                                              (S
+                                                (NP (NN effort))
+                                                (VP (VBZ is)
+                                                  (VP (VBN rewarded))))
+                                              (CC and)
+                                              (S
+                                                (NP (NNP America))
+                                                (VP (VBZ is)
+                                                  (PP (DT all) (IN about)
+                                                    (NP (DT the) (NN work) (NN ethic))))))))))))))))))))))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (NP (PRP He))
+    (ADVP (RB also))
+    (VP (VBD had)
+      (NP
+        (NP (NNS words))
+        (PP (IN of)
+          (S
+            (VP
+              (VP (VBG warning)
+                (PP (IN for)
+                  (NP (NNP House) (NNP Minority) (NNP Leader) (NNP Nancy) (NNP Pelosi))))
+              (, ,)
+              (VP (VBG saying)
+                (SBAR
+                  (S
+                    (NP (PRP$ her) (NN threat)
+                      (S
+                        (VP (TO to)
+                          (VP (VB release)
+                            (NP (NN information))
+                            (PP (IN from)
+                              (NP (DT an) (NNS ethics) (NN committee) (NN inquiry)))))))
+                    (VP (MD would)
+                      (VP (VB bring)
+                        (NP (DT an) (`` ``)
+                          (ADJP (JJ early))
+                          (NNP Christmas) (NN gift))))))))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (SBAR (IN If)
+        (S
+          (NP (PRP she))
+          (VP (VBZ 's)
+            (VP (VBG suggesting)))))
+      (S
+        (NP (PRP she))
+        (VP (VBZ 's)
+          (VP (VBG going)
+            (S
+              (VP (TO to)
+                (VP (VB use)
+                  (NP (NN material))
+                  (SBAR (IN that)
+                    (S
+                      (NP (PRP she))
+                      (VP (VBD developed)
+                        (SBAR (IN while)
+                          (S
+                            (NP (PRP she))
+                            (VP (VBD was)
+                              (PP (IN on)
+                                (NP
+                                  (NP (DT the) (NNS ethics) (NN committee))
+                                  (, ,)
+                                  (SBAR
+                                    (WHNP (WDT that))
+                                    (S
+                                      (VP (VBZ is)
+                                        (NP
+                                          (NP (DT a) (JJ fundamental) (NN violation))
+                                          (PP (IN of)
+                                            (NP
+                                              (NP (DT the) (NNS rules))
+                                              (PP (IN of)
+                                                (NP (DT the) (NNP House)))))))))))))))))))))))
+      (CC and)
+      (S
+        (NP (PRP I))
+        (VP (MD would)
+          (VP (VB hope)
+            (SBAR
+              (S
+                (NP (NNS members))
+                (VP (MD would) (RB immediately)
+                  (VP (VB file)
+                    (NP
+                      (NP (NNS charges))
+                      (PP (IN against)
+                        (NP (PRP her))))
+                    (ADVP
+                      (ADVP (RB as) (RB soon))
+                      (SBAR (IN as)
+                        (S
+                          (NP (PRP she))
+                          (VP (VBZ does)
+                            (NP (PRP it))))))))))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Pelosi))
+    (VP (VBD served)
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NNP House) (NNS ethics) (NN committee))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP (VBD investigated)
+                (NP
+                  (NP (NNP Gingrich))
+                  (PP (IN for)
+                    (NP
+                      (NP (NN tax) (NN cheating))
+                      (CC and)
+                      (NP (NN campaign) (NN finance) (NNS violations))))))))))
+      (PP (IN during)
+        (NP (DT the) (CD 90) (NNS 's))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBD told)
+      (NP (DT the) (NN website))
+      (SBAR
+        (S (`` ``)
+          (S
+            (VP (VBG Talking)
+              (NP (NNP Points) (NNP Memo))))
+          ('' '')
+          (NP (PRP she))
+          (VP (MD would)
+            (VP (VB release)
+              (NP
+                (NP (NN information))
+                (PP (IN about)
+                  (NP (NNP Gingrich))))
+              (`` ``)
+              (SBAR
+                (WHADVP (WRB when))
+                (S
+                  (NP (DT the) (NN time))
+                  (VP (VBD was)
+                    (ADVP (RB right))))))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBD went)
+      (PRT (RP on))
+      (S
+        (VP (TO to)
+          (VP (VB say)
+            (S (`` ``)
+              (NP (PRP I))
+              (VP (VBP know)
+                (NP
+                  (NP (DT a) (NN lot))
+                  (PP (IN about)
+                    (NP (PRP him))))))))))
+    (. .)))
+

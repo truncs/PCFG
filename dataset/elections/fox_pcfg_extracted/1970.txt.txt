@@ -1,0 +1,486 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP President) (NNP Barack) (NNP Obama) (POS 's))
+        (NN withdrawal) (NN plan))
+      (PP (IN for)
+        (NP (NNP Afghanistan))))
+    (VP (VBZ marks)
+      (NP
+        (NP (DT the) (NN beginning))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN end))
+            (PP (IN of)
+              (NP
+                (NP (DT a) (JJ troop-intensive) (NN approach))
+                (PP (TO to)
+                  (S
+                    (VP (VBG countering)
+                      (NP
+                        (NP (DT a) (NNP Taliban) (NN insurgency))
+                        (SBAR
+                          (WHNP (WDT that))
+                          (S
+                            (PP (IN until)
+                              (NP (JJ recent) (NNS months)))
+                            (VP (VBD had)
+                              (VP (VBN fought)
+                                (NP
+                                  (NP (DT the) (NNP U.S.))
+                                  (CC and)
+                                  (NP (PRP$ its) (NNP NATO) (NNS allies)))
+                                (PP (TO to)
+                                  (NP (DT a) (NN standstill)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (NP (DT the) (NN war))
+        (VP (VBZ grinds)
+          (PRT (RP on)))))
+    (, ,)
+    (NP (DT the) (NNP Obama) (NN administration))
+    (VP (MD will)
+      (VP (VB shift)
+        (NP
+          (NP (DT the) (NNP U.S.) (NN military) (POS 's))
+          (NN focus))
+        (PP
+          (ADVP (RBR more))
+          (IN toward)
+          (S
+            (VP (VBG targeting)
+              (NP (JJ terrorist) (NNS leaders)))))
+        (, ,)
+        (SBAR (IN while)
+          (S
+            (VP (VBG giving)
+              (NP (NNPS Afghans)))
+            (NP
+              (NP (JJR more))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (NN lead))
+                  (PP (IN in)
+                    (S
+                      (VP
+                        (VP (VBG fighting))
+                        (CC and)
+                        (VP
+                          (ADVP (RB eventually))
+                          (VBG reconciling)
+                          (PP (IN with)
+                            (NP (DT the) (NNP Taliban))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR
+        (WHNP (WP What))
+        (S
+          (VP (VBZ remains)
+            (PP (IN in)
+              (NP (NN doubt))))))
+      (VP (VBZ is)
+        (NP (DT the) (NN endgame))))
+    (: :)
+    (S
+      (VP (VBG finding)
+        (NP
+          (NP (DT a) (JJ political) (NN solution))
+          (PP (TO to)
+            (NP (DT the) (NN conflict))))))
+    (. .)))
+
+(ROOT
+  (SQ (VBP Are)
+    (NP (DT the) (NNP Taliban))
+    (PP (IN under)
+      (NP
+        (NP (JJ enough) (JJ military) (NN pressure))
+        (SBAR
+          (S
+            (VP (TO to)
+              (VP (VB compel)
+                (S
+                  (NP (PRP them))
+                  (VP (TO to)
+                    (VP (VB enter)
+                      (NP
+                        (NP (JJ serious) (NN peace) (NNS talks))
+                        (PP (IN with)
+                          (NP (NNP Kabul))))))))))))
+      (. ?))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Robert) (NNP Gates))
+      (, ,)
+      (NP (DT the) (JJ soon-to-retire) (NN defense) (NN secretary))
+      (, ,))
+    (VP (VBZ thinks)
+      (ADVP (RB not))
+      (ADVP
+        (ADVP (IN at) (JJS least) (RB not))
+        (PP (IN before)
+          (NP
+            (NP (DT the) (NN end))
+            (PP (IN of)
+              (NP (DT this) (NN year)))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (S
+      (VP (VBG recognizing)
+        (SBAR (IN that)
+          (S
+            (NP
+              (NP (NNPS Afghans)
+                (CC and)
+                (NNPS Americans))
+              (ADVP (RB alike)))
+            (VP (VBP are)
+              (NP
+                (NP (JJ weary))
+                (PP (IN of)
+                  (NP (NN war)))))))))
+    (, ,)
+    (NP (NNP Gates))
+    (VP (VBZ concedes)
+      (SBAR (IN that)
+        (S
+          (NP (DT the) (JJ current) (JJ troop-intensive) (NNP U.S.) (NN approach))
+          (VP (VBZ is)
+            (ADJP (RB not) (JJ sustainable))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB So))
+    (NP (DT the) (NNP U.S.) (NN troop) (NN withdrawal))
+    (VP (MD will)
+      (VP (VB accelerate)
+        (NP (JJ next) (NN year))
+        (, ,)
+        (PP (IN with)
+          (NP
+            (NP (DT all) (CD 30,000))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (`` ``) (NN surge) ('' '') (NNS troops))
+                (SBAR (IN that)
+                  (S
+                    (NP (NNP Obama))
+                    (VP (VBD ordered)
+                      (PP (TO to)
+                        (NP (NNP Afghanistan)))
+                      (VP (VBN expected)
+                        (S
+                          (VP (TO to)
+                            (VP (VB be)
+                              (VP (VBN gone)
+                                (PP (IN by)
+                                  (NP (NNP September) (CD 2012)))))))
+                        (, ,)
+                        (S
+                          (VP (VBG leaving)
+                            (NP
+                              (NP
+                                (QP (IN about) (CD 68,000))
+                                (NNP U.S.) (NNS troops))
+                              (CC and)
+                              (NP
+                                (NP (DT a) (JJ few) (NNS tens))
+                                (PP (IN of)
+                                  (NP
+                                    (NP (NNS thousands))
+                                    (PP (IN from)
+                                      (NP (JJ other) (NN coalition) (NNS countries)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (NP (DT the) (NN force))
+        (VP (VBZ shrinks))))
+    (, ,)
+    (NP (RB so))
+    (VP (MD will)
+      (S
+        (NP
+          (NP (DT the) (NN scope))
+          (CC and)
+          (NP
+            (NP (NN ambition))
+            (PP (IN of)
+              (NP (DT the) (JJ U.S.-led) (JJ military) (NN campaign)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (PRP$ his) (NN speech))
+        (PP (TO to)
+          (NP (DT the) (NN nation)))))
+    (, ,)
+    (NP (NNP Obama))
+    (VP (VBD made)
+      (NP
+        (NP (DT no) (NN mention))
+        (PP (IN of)
+          (S
+            (VP (VBG defeating)
+              (NP (DT the) (NNP Taliban)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Instead))
+    (NP (PRP he))
+    (VP (VBD focused)
+      (PP (IN on)
+        (NP
+          (NP (NN al-Qaida))
+          (, ,)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ is)
+                (ADVP (RB not))
+                (ADVP (RB primarily)))))))
+      (PP (IN in)
+        (NP (NNP Afghanistan))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (SBAR
+        (WHNP (WP What))
+        (S
+          (NP (PRP we))
+          (VP
+            (VP (MD can)
+              (VP (VB do)))
+            (, ,)
+            (CC and)
+            (VP (MD will)
+              (VP (VB do)))
+            (, ,))))
+      (VP (VBZ is)
+        (VP (VB build)
+          (NP
+            (NP (DT a) (NN partnership))
+            (PP (IN with)
+              (NP (DT the) (JJ Afghan) (NNS people)))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP (VBZ endures)
+                  (NP
+                    (NP (CD one))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP (VBZ ensures)
+                          (SBAR (IN that)
+                            (S
+                              (NP (PRP we))
+                              (VP (MD will)
+                                (VP (VB be)
+                                  (ADJP (JJ able)
+                                    (S
+                                      (VP (TO to)
+                                        (VP (VB continue)
+                                          (S
+                                            (VP
+                                              (VP (VBG targeting)
+                                                (NP (NNS terrorists)))
+                                              (CC and)
+                                              (VP (VBG supporting)
+                                                (NP (DT a) (JJ sovereign) (JJ Afghan) (NN government))))))))))))))))))))))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said) (, ,)
+      (S
+        (VP (VBG adding)
+          (SBAR (IN that)
+            (S
+              (NP (DT the) (NN goal))
+              (VP (VBZ is)
+                (ADVP (RB not))
+                (S
+                  (VP (TO to)
+                    (VP (VB make)
+                      (S
+                        (NP (NNP Afghanistan))
+                        (`` ``)
+                        (NP (DT a) (JJ perfect) (NN place))))))))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S (`` ``)
+    (S
+      (NP (PRP We))
+      (VP (MD will) (RB not)
+        (VP (VB police)
+          (NP
+            (NP
+              (NP (PRP$ its) (NNS streets))
+              (CC or)
+              (NP (NN patrol)))
+            (NP (PRP$ its) (NNS mountains)))
+          (ADVP (RB indefinitely)))))
+    (, ,) ('' '')
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN shift))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN setback))
+        (PP (IN for)
+          (NP
+            (NP
+              (NP (DT the) (NN war) (POS 's))
+              (JJ current) (NN commander))
+            (, ,)
+            (NP
+              (NP (NNP Gen.) (NNP David) (NNP Petraeus))
+              (, ,)
+              (NP
+                (NP (DT the) (NN author))
+                (PP (IN of)
+                  (NP
+                    (NP
+                      (NP (DT the) (NN military) (POS 's))
+                      (NN guidebook))
+                    (PP (IN for)
+                      (NP (NN counterinsurgency)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP
+      (NP (DT A) (NN year))
+      (RB ago))
+    (, ,)
+    (NP
+      (NP
+        (NP (NNP Petraeus))
+        (CC and)
+        (NP
+          (NP (DT the) (JJ likeminded) (NN commander))
+          (SBAR
+            (S
+              (NP (PRP he))
+              (VP (VBD replaced))))))
+      (, ,)
+      (NP (NNP Gen.) (NNP Stanley) (NNP McChrystal))
+      (, ,))
+    (VP (VBD were)
+      (VP (VBG talking)
+        (PP (IN about)
+          (NP (DT a) (`` ``)
+            (ADJP (RB fully) (JJ resourced))
+            (, ,)
+            (ADJP (JJ comprehensive))
+            (NN counterinsurgency) (NN campaign)))
+        ('' '')
+        (PP (IN in)
+          (NP (NNP Afghanistan)))
+        (PP (IN as)
+          (NP
+            (NP (DT the) (NN key))
+            (PP (TO to)
+              (S
+                (VP (VBG turning)
+                  (PRT (RP around))
+                  (NP (DT a) (JJ stalemated) (NN war)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Petraeus))
+      (VP (VBZ is) (RB now)
+        (VP (VBN slated)
+          (S
+            (VP (TO to)
+              (VP
+                (VP (VB retire)
+                  (PP (IN from)
+                    (NP (DT the) (NNP Army))))
+                (CC and)
+                (VP (VB become)
+                  (NP (NNP CIA) (NN director)))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (JJ next) (NNP Afghanistan) (NN commander))
+        (, ,)
+        (NP (NNP Gen.) (NNP John) (NNP Allen))
+        (, ,))
+      (VP (MD will)
+        (VP (VB be)
+          (S
+            (VP (VBG trimming)
+              (NP (DT the) (NNP U.S.) (NNS sails)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (PRP$ his) (NN speech)))
+    (, ,)
+    (NP (NNP Obama))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (DT the) (NNP U.S.))
+          (VP (VBZ intends)
+            (S
+              (VP (TO to)
+                (VP (VB remain)
+                  (VP (VBN committed)
+                    (PP (TO to)
+                      (NP
+                        (NP (NNP Afghanistan) (POS 's))
+                        (JJ future)
+                        (ADJP
+                          (ADJP (RB not) (JJS least))
+                          (SBAR (IN because)
+                            (S
+                              (NP (PRP it))
+                              (VP (VBZ is)
+                                (PP (IN in)
+                                  (NP (NNP U.S.)))))))
+                        (NNS interests)))
+                    (S
+                      (VP (TO to)
+                        (VP (VB prevent)
+                          (NP (DT the) (NN country))
+                          (PP (IN from)
+                            (S
+                              (VP (VBG reverting)
+                                (PP (TO to)
+                                  (NP
+                                    (NP (DT a) (NN haven))
+                                    (PP (IN for)
+                                      (NP (NN al-Qaida)))))))))))))))))))
+    (. .)))
+

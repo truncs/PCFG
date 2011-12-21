@@ -1,0 +1,473 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJS largest) (NN e-vote))
+      (VP
+        (ADVP (RB ever))
+        (VBN held)
+        (PP (IN in)
+          (NP (DT the) (NNP United) (NNPS States)))
+        (PP (IN for)
+          (NP (JJ public) (NN office)))))
+    (VP (MD can)
+      (VP (VB boast)
+        (NP
+          (NP (DT a) (NN turnout))
+          (PP (IN of)
+            (NP (CD 0.23) (NN percent))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN race))
+      (PP (IN for)
+        (NP
+          (NP (NN conservation) (NN district) (NN supervisor))
+          (PP (IN in)
+            (NP
+              (NP (NNP King) (NNP County))
+              (, ,)
+              (NP (NNP Wash.))
+              (, ,))))))
+    (VP (VBD was)
+      (VP (VBN conducted)
+        (ADJP
+          (ADVP (RB almost) (RB entirely))
+          (JJ online))
+        (, ,)
+        (PP (IN with)
+          (NP
+            (NP (NNS votes))
+            (ADJP (JJ able)
+              (S
+                (VP (TO to)
+                  (VP (VB be)
+                    (VP (VBN cast)
+                      (PP (IN from)
+                        (NP (NNP Feb.) (CD 15)))
+                      (PP (TO to)
+                        (NP (NNP March) (CD 15))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN With)
+      (NP
+        (NP
+          (QP (CD 1) (CD million))
+          (VBN registered) (NNS voters))
+        (ADJP (JJ eligible)
+          (S
+            (VP (TO to)
+              (VP (VB cast)
+                (NP (DT a) (NN ballot))))))))
+    (, ,)
+    (NP (CD 2,299))
+    (VP (VBD did))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (PRP I))
+    (VP (VBP think)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (NP (DT a) (VBG raging) (NN success))
+            (PRN (, ,) ('' '')
+              (SINV
+                (VP (VBD said))
+                (NP
+                  (NP (NNP Sara) (NNP Hemphill))
+                  (PP (IN of)
+                    (NP (DT the) (NNP King) (NNP Conservation) (NNP District)))))
+              (, ,))
+            (`` ``)
+            (SBAR (RB even) (IN though)
+              (S
+                (NP (PRP we))
+                (VP (VBD had)
+                  (NP (JJR fewer) (NNS voters))
+                  (SBAR (IN than)
+                    (S
+                      (NP (PRP we))
+                      (VP (VBD did)
+                        (NP (JJ last) (NN year))))))))))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP
+      (NP (NNP Voting))
+      (PP (IN in)
+        (NP (NNP America))))
+    (VP (VBZ has) (RB traditionally)
+      (VP (VBN been)
+        (NP
+          (NP (DT a)
+            (ADJP (RB very) (JJ public))
+            (NN show))
+          (PP (IN of)
+            (NP
+              (NP (NN democracy))
+              (PP (IN from)
+                (NP
+                  (NP (DT the) (NNS lines))
+                  (PP (IN at)
+                    (NP
+                      (NP (NN polling) (NNS places))
+                      (PP (TO to)
+                        (NP
+                          (NP (DT the) (NN poring))
+                          (PP (IN over)
+                            (NP
+                              (NP (NNS ballots))
+                              (PP (IN in)
+                                (NP
+                                  (NP (NN front))
+                                  (PP (IN of)
+                                    (NP
+                                      (NP (NN campaign) (NNS observers))
+                                      (CC and)
+                                      (NP (DT the) (NNS media)))))))))))))))))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP (WP Who))
+    (SQ (MD can)
+      (VP (VB forget)
+        (NP
+          (NP (NNP Florida) (POS 's))
+          (VBG hanging) (NNS chads))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (CD 2000) (JJ presidential) (NN race))
+            (PP (IN between)
+              (NP
+                (NP (NNP George) (NNP W.) (NNP Bush))
+                (CC and)
+                (NP
+                  (NP (NNP Al) (NNP Gore))
+                  (CC or)
+                  (NP
+                    (NP (NNP Sen.) (NNP Lisa) (NNP Murkowski) (POS 's))
+                    (NN write-in)
+                    (S
+                      (VP (VBG spelling)
+                        (NP (NN bee))
+                        (PP (IN in)
+                          (NP (NNP Alaska)))
+                        (NP (JJ last) (NN year)))))))))))
+      (. ?))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Election) (NNS officials))
+    (VP (VBP are) (RB always)
+      (VP (VBG looking)
+        (PP (IN for)
+          (NP
+            (NP (NN something))
+            (ADJP
+              (ADJP (JJR better))
+              (, ,)
+              (ADJP (JJR cheaper))
+              (CC and)
+              (ADJP (JJ able)
+                (S
+                  (VP (TO to)
+                    (VP (VB create)
+                      (NP (JJR more) (NN voter) (NN participation)))))))))))
+    (. .)))
+
+(ROOT
+  (S (RB So)
+    (SBAR (RB even) (IN though)
+      (S
+        (NP (DT the) (NNS numbers))
+        (VP (VBD were)
+          (PRT (RP down))
+          (PP (IN in)
+            (NP (NNP King) (NNP County))))))
+    (, ,)
+    (NP (DT the) (NN convenience) (NN factor))
+    (VP (VBZ is)
+      (S
+        (VP (NN way)
+          (PRT (RP up)))))
+    (. .)))
+
+(ROOT
+  (SINV (`` ``)
+    (S
+      (NP (JJ Last) (NN year))
+      (NP (PRP I))
+      (VP (VBD had)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB drive))
+              (CC and)
+              (ADVP (RB probably))
+              (VP (VB wait)
+                (NP
+                  (QP (IN about) (CD 40))
+                  (NNS minutes))
+                (SBAR (IN because)
+                  (S
+                    (NP (EX there))
+                    (VP (VBD was)
+                      (NP (DT a) (NN line))
+                      (PP (IN out)
+                        (NP (DT the) (NN library))))))))))))
+    (, ,) ('' '')
+    (VP (VBD said))
+    (NP (NN voter) (NNP Cory) (NNP Huskinson))
+    (, ,) (`` ``)
+    (S
+      (NP (DT This) (NN year))
+      (NP (PRP I))
+      (VP
+        (ADVP (RB just) (RB quickly))
+        (VBD did)
+        (NP (PRP it))
+        (S
+          (ADJP (JJ online)))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP
+      (NP (CD Three) (NNS supervisors))
+      (VP (VBG serving)
+        (NP (CD three) (NN year) (NNS terms))))
+    (VP (VBZ means)
+      (SBAR
+        (S
+          (NP (DT the) (NN conservation) (NN district) (NN race))
+          (VP (VBZ is)
+            (VP (VBN conducted)
+              (NP (DT every) (NN year)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT This) (NN year) (POS 's))
+      (CD 2,299) (JJ electronic) (NNS ballots))
+    (VP (VBP are)
+      (ADJP
+        (NP
+          (QP (RB roughly) (PDT half)))
+        (RB as) (JJ many))
+      (SBAR (IN as)
+        (S
+          (VP (VBD were)
+            (VP (VBN cast)
+              (NP (DT the) (JJ old-fashioned) (NN way))
+              (PP (IN in)
+                (NP (NN person)))
+              (PP (IN at)
+                (NP
+                  (NP (DT the) (NNS polls))
+                  (NP (JJ last) (NN year))
+                  (PP (IN for)
+                    (NP (DT the) (JJ same) (NN office))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (VBG winning) (NN candidate))
+      (, ,)
+      (NP (NNP Eric) (NNP Nelson))
+      (, ,))
+    (VP (VBD earned)
+      (NP (CD 1,292) (NNS votes)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD One) (NN selling) (NN point))
+      (PP (IN for)
+        (NP (JJ online) (NNS elections))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (ADJP
+              (ADVP (RB much) (RBR less))
+              (JJ expensive)
+              (S
+                (VP (TO to)
+                  (VP (VB conduct)
+                    (PP (IN than)
+                      (S
+                        (ADVP (RB either))
+                        (VP
+                          (VP (VBG voting)
+                            (PP (IN at)
+                              (NP (NNS polls))))
+                          (CC or)
+                          (VP (VBG voting)
+                            (PP (IN by)
+                              (NP (NN mail)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP King) (NNP Conservation) (NNP District))
+    (, ,)
+    (ADVP (RB however))
+    (, ,)
+    (VP (VBD spent)
+      (NP (DT the) (JJ same))
+      (PP (IN on)
+        (NP (DT the) (JJ online) (NN election)))
+      (PP (IN as)
+        (NP (PRP$ their) (JJ traditional) (NNS elections))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBD were)
+      (ADVP (RB also))
+      (SBAR
+        (S
+          (NP (DT some) (NN security) (NNS hoops))
+          (VP (TO to)
+            (VP (VB jump)
+              (PRT (RP through)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Voters))
+    (VP (VBD had)
+      (S
+        (VP (TO to)
+          (VP (VB use)
+            (NP
+              (NP (NN security) (NNS codes))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBD were)
+                    (VP (VBN emailed)
+                      (PP (TO to)
+                        (NP (PRP them)))
+                      (SBAR (IN after)
+                        (S
+                          (NP (PRP they))
+                          (VP (VBD signed)
+                            (PRT (RP up))
+                            (S
+                              (VP (TO to)
+                                (VP (VB vote)
+                                  (ADJP (JJ online)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (ADVP (RB also))
+    (VP (VBD were)
+      (VP (VBN required)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB mail))
+              (, ,)
+              (VP (NN fax))
+              (, ,)
+              (VP (VB scan)
+                (PP (CC and)
+                  (NP (JJ email) (NNS signatures)))
+                (PP (TO to)
+                  (NP
+                    (NP (NNP Election) (NNP Trust))
+                    (, ,)
+                    (NP
+                      (NP (DT the) (JJ private) (NN company))
+                      (VP (VBN paid)
+                        (S
+                          (VP (TO to)
+                            (VP (VBN conducted)
+                              (NP (DT the) (NN election)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN purpose))
+    (VP (VBD was)
+      (S
+        (VP (TO to)
+          (VP (VB allow)
+            (S
+              (NP (NNS workers))
+              (VP (TO to)
+                (VP (VB compare)
+                  (NP (PRP$ their) (NN signature))
+                  (PP (TO to)
+                    (NP (PRP$ their)
+                      (ADJP (NN voter) (NN registration))
+                      (NN signature))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP John) (NNP Bodin))
+      (PP (IN from)
+        (NP (NNP Election) (NNP Trust))))
+    (VP (VBZ says)
+      (SBAR
+        (S
+          (NP (DT the) (NN system))
+          (VP (VBD worked)))))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (PP (IN With)
+      (NP
+        (NP
+          (NP (DT the) (JJ proper) (JJ due) (NN diligence))
+          (PP (IN on)
+            (NP (DT the) (JJ front) (NN end))))
+        (CC and)
+        (NP
+          (NP (NNS eyeballs))
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NNS servers))
+              (PP (IN during)
+                (NP (DT the) (NN election))))))))
+    (, ,) ('' '')
+    (NP (NNP Bodin))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (S (`` ``)
+    (NP (PRP You))
+    (VP (MD can)
+      (VP (VB ensure)
+        (SBAR (IN that)
+          (S
+            (NP (DT the) (NNS data) (NN transaction))
+            (VP (MD will)
+              (VP (VB be)
+                (NP (JJ secure) (NN end)
+                  (S
+                    (VP (TO to)
+                      (VP (VB end)))))))))))
+    (. .)))
+
